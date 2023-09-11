@@ -32,7 +32,8 @@ func handler(request events.APIGatewayProxyRequest) (events.APIGatewayProxyRespo
 	options := GenerateICalOptions{
 		Now:          time.Now(),
 		TZ:           tz,
-		IncludeTypes: strings.Split(request.QueryStringParameters["include"], ","),
+		IncludeTypes: parseList(request.QueryStringParameters["include"]),
+		ExcludeTypes: parseList(request.QueryStringParameters["exclude"]),
 	}
 
 	ics, err := GenerateICal(ee, options)
@@ -62,4 +63,14 @@ func getEvents() ([]LeekDuckEvent, error) {
 		return nil, fmt.Errorf("failed to decode events from leek duck as JSON: %w", err)
 	}
 	return ee, nil
+}
+
+func parseList(raw string) []string {
+	input := strings.TrimSpace(raw)
+
+	if input == "" {
+		return nil
+	}
+
+	return strings.Split(input, ",")
 }

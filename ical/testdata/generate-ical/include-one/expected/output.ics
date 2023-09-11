@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//arran4//Golang ICS Library
+NAME:Pokémon GO Events
+X-WR-CALNAME:Pokémon GO Events
+DESCRIPTION:Powered by ScrapedDuck and LeekDuck.com
+X-WR-TIMEZONE:Local
+BEGIN:VEVENT
+UID:raidhour20230913
+DTSTART:20230914T010000Z
+DTEND:20230914T020000Z
+SUMMARY:[Raid Hour] Kartana and Celesteela Raid Hour
+URL:https://leekduck.com/events/raidhour20230913/
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230920
+DTSTART:20230921T010000Z
+DTEND:20230921T020000Z
+SUMMARY:[Raid Hour] Genesect with a Burn Drive Raid Hour
+URL:https://leekduck.com/events/raidhour20230920/
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230927
+DTSTART:20230928T010000Z
+DTEND:20230928T020000Z
+SUMMARY:[Raid Hour] Raikou\, Entei\, and Suicune Raid Hour
+URL:https://leekduck.com/events/raidhour20230927/
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231004
+DTSTART:20231005T010000Z
+DTEND:20231005T020000Z
+SUMMARY:[Raid Hour] Raikou\, Entei\, and Suicune Raid Hour
+URL:https://leekduck.com/events/raidhour20231004/
+END:VEVENT
+END:VCALENDAR
