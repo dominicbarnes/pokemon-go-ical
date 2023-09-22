@@ -18,6 +18,7 @@ type GenerateICalOptions struct {
 func GenerateICal(events []LeekDuckEvent, options GenerateICalOptions) (*ical.Calendar, error) {
 	cal := ical.NewCalendar()
 	cal.SetName("Pokémon GO Events")
+	cal.SetXWRCalName("Pokémon GO Events")
 	cal.SetDescription("Powered by ScrapedDuck and LeekDuck.com")
 	cal.SetXWRTimezone(options.TZ.String())
 

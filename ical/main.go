@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"log"
 	"net/http"
 	"strings"
 	"time"
@@ -35,6 +36,8 @@ func handler(request events.APIGatewayProxyRequest) (events.APIGatewayProxyRespo
 		IncludeTypes: parseList(request.QueryStringParameters["include"]),
 		ExcludeTypes: parseList(request.QueryStringParameters["exclude"]),
 	}
+
+	log.Printf("Generating ICal with %d events using %+v\n", len(ee), options)
 
 	ics, err := GenerateICal(ee, options)
 	if err != nil {
