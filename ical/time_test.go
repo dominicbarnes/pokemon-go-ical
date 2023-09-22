@@ -23,6 +23,11 @@ func TestParseLeekDuckTime(t *testing.T) {
 			tz:       time.Local,
 			expected: time.Date(2023, time.September, 8, 13, 00, 00, 000, time.FixedZone("", -7*60*60)),
 		},
+		{
+			input:    "2023-09-22T20:00:00.000Z",
+			tz:       time.Local,
+			expected: time.Date(2023, time.September, 22, 20, 0, 0, 0, time.UTC),
+		},
 	}
 
 	for _, test := range spec {

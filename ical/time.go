@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"time"
 )
 
@@ -13,10 +14,12 @@ func parseLeekDuckEventTime(raw string, tz *time.Location) (*time.Time, error) {
 	}
 	// ignore errors from attempting to parse as local time
 
-	parsedTime, err := time.Parse("2006-01-02T15:04:05.999-0700", string(raw))
-	if err != nil {
-		return nil, err
+	for _, format := range []string{"2006-01-02T15:04:05.999-0700", time.RFC3339Nano} {
+		parsedTime, err := time.Parse(format, string(raw))
+		if err == nil {
+			return &parsedTime, nil
+		}
 	}
 
-	return &parsedTime, nil
+	return nil, fmt.Errorf("invalid event time: %s", raw)
 }
