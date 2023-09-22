@@ -1,0 +1,37 @@
+{
+    "version": "2.0",
+    "routeKey": "$default",
+    "rawPath": "/",
+    "rawQueryString": "timezone=America/Los_Angeles&include=event,raid-hour,pokemon-spotlight-hour,community-day",
+    "cookies": [],
+    "headers": {},
+    "queryStringParameters": {
+        "timezone": "America/Los_Angeles",
+        "include": "event,raid-hour,pokemon-spotlight-hour,community-day"
+    },
+    "requestContext": {
+      "accountId": "123456789012",
+      "apiId": "api-id",
+      "authentication": {},
+      "authorizer": {},
+      "domainName": "id.execute-api.us-east-1.amazonaws.com",
+      "domainPrefix": "id",
+      "http": {
+        "method": "POST",
+        "path": "/",
+        "protocol": "HTTP/1.1",
+        "sourceIp": "192.168.0.1/32",
+        "userAgent": "agent"
+      },
+      "requestId": "id",
+      "routeKey": "$default",
+      "stage": "$default",
+      "time": "12/Mar/2020:19:03:58 +0000",
+      "timeEpoch": 1583348638390
+    },
+    "body": "",
+    "pathParameters": {},
+    "isBase64Encoded": true,
+    "stageVariables": {}
+  }
+  

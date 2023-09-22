@@ -1,0 +1,4 @@
+{
+    "timezone": "America/Los_Angeles",
+    "include": "event,raid-hour,pokemon-spotlight-hour,community-day"
+}
