@@ -37,12 +37,14 @@ func handler(request events.APIGatewayProxyRequest) (events.APIGatewayProxyRespo
 		ExcludeTypes: parseList(request.QueryStringParameters["exclude"]),
 	}
 
-	log.Printf("Generating ICal with %d events using %+v\n", len(ee), options)
+	log.Printf("Generating ICal from %d events using %+v\n", len(ee), options)
 
 	ics, err := GenerateICal(ee, options)
 	if err != nil {
 		return events.APIGatewayProxyResponse{}, fmt.Errorf("failed to generate ics: %w", err)
 	}
+
+	log.Printf("Generated ICal with %d events\n", len(ics.Events()))
 
 	return events.APIGatewayProxyResponse{
 		Body:       ics.Serialize(),
