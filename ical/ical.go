@@ -20,7 +20,10 @@ func GenerateICal(events []LeekDuckEvent, options GenerateICalOptions) (*ical.Ca
 	cal.SetName("Pokémon GO Events")
 	cal.SetXWRCalName("Pokémon GO Events")
 	cal.SetDescription("Powered by ScrapedDuck and LeekDuck.com")
+	cal.SetXWRCalDesc("Powered by ScrapedDuck and LeekDuck.com")
 	cal.SetXWRTimezone(options.TZ.String())
+	cal.SetRefreshInterval("PT12H")
+	cal.SetXPublishedTTL("PT12H")
 
 	include := mapset.NewSet(options.IncludeTypes...)
 	exclude := mapset.NewSet(options.ExcludeTypes...)
@@ -47,10 +50,17 @@ func GenerateICal(events []LeekDuckEvent, options GenerateICalOptions) (*ical.Ca
 		}
 
 		e := cal.AddEvent(event.ID)
+		e.SetDtStampTime(options.Now)
 		e.SetStartAt(*startAt)
 		e.SetEndAt(*endAt)
 		e.SetSummary(event.Title())
+		e.SetDescription(event.Description())
 		e.SetURL(event.Link)
+		e.SetProperty("IMAGE;VALUE=URI", event.Image)
+
+		a := e.AddAlarm()
+		a.SetAction(ical.ActionDisplay)
+		a.SetTrigger("-PT15M")
 	}
 
 	return cal, nil

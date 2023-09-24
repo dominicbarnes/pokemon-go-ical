@@ -28,3 +28,12 @@ func (e LeekDuckEvent) Title() string {
 
 	return sb.String()
 }
+
+func (e LeekDuckEvent) Description() string {
+	sb := new(strings.Builder)
+
+	sb.WriteString("See more details at LeekDuck.com:\n\n")
+	sb.WriteString(e.Link)
+
+	return sb.String()
+}
