@@ -1,0 +1,825 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//arran4//Golang ICS Library
+NAME:Pokémon GO Events
+X-WR-CALNAME:Pokémon GO Events
+DESCRIPTION:Powered by ScrapedDuck and LeekDuck.com
+X-WR-CALDESC:Powered by ScrapedDuck and LeekDuck.com
+X-WR-TIMEZONE:Local
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:a-paldean-adventure
+DTSTAMP:20230911T061100Z
+DTSTART:20230905T170000Z
+DTEND:20230910T170000Z
+SUMMARY:[Event] A Paldean Adventure
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/a-paldean-adventure/
+URL:https://leekduck.com/events/a-paldean-adventure/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/a-paldean-adventure.
+ jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-09-12
+DTSTAMP:20230911T061100Z
+DTSTART:20230913T010000Z
+DTEND:20230913T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Mankey Spotlight Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2023-09-
+ 12/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-09-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-nymble-2023-09-10
+DTSTAMP:20230911T061100Z
+DTSTART:20230910T170000Z
+DTEND:20230914T030000Z
+SUMMARY:[PokéStop Showcase] Nymble PokéStop Showcases
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-showcase-nymble-2023
+ -09-10/
+URL:https://leekduck.com/events/pokemon-showcase-nymble-2023-09-10/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures-abound_ultra-league_element-cup-remix-little-edition
+DTSTAMP:20230911T061100Z
+DTSTART:20230908T200000Z
+DTEND:20230915T200000Z
+SUMMARY:[GO Battle League] Ultra League and Elemental Cup Remix: Little
+  Edition | Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-adventures-abound_ultra-
+ league_element-cup-remix-little-edition/
+URL:https://leekduck.com/events/gbl-adventures-abound_ultra-league_element-
+ cup-remix-little-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-pawmi-2023-09-14
+DTSTAMP:20230911T061100Z
+DTSTART:20230914T170000Z
+DTEND:20230916T030000Z
+SUMMARY:[PokéStop Showcase] Pawmi PokéStop Showcases
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-showcase-pawmi-2023-
+ 09-14/
+URL:https://leekduck.com/events/pokemon-showcase-pawmi-2023-09-14/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ultra-unlock-paldea
+DTSTAMP:20230911T061100Z
+DTSTART:20230910T170000Z
+DTEND:20230916T030000Z
+SUMMARY:[Event] Ultra Unlock: Paldea
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/ultra-unlock-paldea/
+URL:https://leekduck.com/events/ultra-unlock-paldea/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/ultra-unlock-paldea.
+ jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-manectric-in-mega-raids-september-2023
+DTSTAMP:20230911T061100Z
+DTSTART:20230901T170000Z
+DTEND:20230916T170000Z
+SUMMARY:[Raid Battles] Mega Manectric in Mega Raids
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/mega-manectric-in-mega-raids
+ -september-2023/
+URL:https://leekduck.com/events/mega-manectric-in-mega-raids-september-2023
+ /
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kartana-celesteela-in-5-star-raid-battles-september-2023-swap
+DTSTAMP:20230911T061100Z
+DTSTART:20230908T170000Z
+DTEND:20230916T170000Z
+SUMMARY:[Raid Battles] Kartana and Celesteela in 5-star Raid Battles
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/kartana-celesteela-in-5-star
+ -raid-battles-september-2023-swap/
+URL:https://leekduck.com/events/kartana-celesteela-in-5-star-raid-battles-s
+ eptember-2023-swap/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/celesteela-and-karta
+ na-ultra-beast.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-oddish-2023-09-17
+DTSTAMP:20230911T061100Z
+DTSTART:20230917T210000Z
+DTEND:20230918T000000Z
+SUMMARY:[PokéStop Showcase] Oddish PokéStop Showcases
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-showcase-oddish-2023
+ -09-17/
+URL:https://leekduck.com/events/pokemon-showcase-oddish-2023-09-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oddish-research-day
+DTSTAMP:20230911T061100Z
+DTSTART:20230917T210000Z
+DTEND:20230918T000000Z
+SUMMARY:[Event] Oddish Research Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/oddish-research-day/
+URL:https://leekduck.com/events/oddish-research-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/researchday_oddish.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-09-19
+DTSTAMP:20230911T061100Z
+DTSTART:20230920T010000Z
+DTEND:20230920T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Girafarig Spotlight Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2023-09-
+ 19/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-09-19/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-master_league-psychic_cup_great_league_edition
+DTSTAMP:20230911T061100Z
+DTSTART:20230915T200000Z
+DTEND:20230922T200000Z
+SUMMARY:[GO Battle League] Master League and Psychic Cup: Great League
+  Edition | Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-adventures_abound-master
+ _league-psychic_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-master_league-psychic
+ _cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-spoink-2023-09-20
+DTSTAMP:20230911T061100Z
+DTSTART:20230920T170000Z
+DTEND:20230923T030000Z
+SUMMARY:[PokéStop Showcase] Spoink PokéStop Showcases
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-showcase-spoink-2023
+ -09-20/
+URL:https://leekduck.com/events/pokemon-showcase-spoink-2023-09-20/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:genesect-with-a-burn-drive-in-5-star-raid-battles-september-2023-swap
+DTSTAMP:20230911T061100Z
+DTSTART:20230916T170000Z
+DTEND:20230923T170000Z
+SUMMARY:[Raid Battles] Genesect with a Burn Drive in 5-star Raid Battles
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/genesect-with-a-burn-drive-i
+ n-5-star-raid-battles-september-2023-swap/
+URL:https://leekduck.com/events/genesect-with-a-burn-drive-in-5-star-raid-b
+ attles-september-2023-swap/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/genesect.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:september-communityday2023
+DTSTAMP:20230911T061100Z
+DTSTART:20230923T210000Z
+DTEND:20230924T000000Z
+SUMMARY:[Community Day] Grubbin Community Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/september-communityday2023/
+URL:https://leekduck.com/events/september-communityday2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2023-09-grubbin.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-grubbin-vikavolt-2023-09-23
+DTSTAMP:20230911T061100Z
+DTSTART:20230923T210000Z
+DTEND:20230924T000000Z
+SUMMARY:[PokéStop Showcase] Grubbin and Vikavolt PokéStop Showcases
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-showcase-grubbin-vik
+ avolt-2023-09-23/
+URL:https://leekduck.com/events/pokemon-showcase-grubbin-vikavolt-2023-09-2
+ 3/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psychic-spectacular-2023
+DTSTAMP:20230911T061100Z
+DTSTART:20230920T170000Z
+DTEND:20230925T030000Z
+SUMMARY:[Event] Psychic Spectacular
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/psychic-spectacular-2023/
+URL:https://leekduck.com/events/psychic-spectacular-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2023-09-26
+DTSTAMP:20230911T061100Z
+DTSTART:20230927T010000Z
+DTEND:20230927T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Growlithe Spotlight Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2023-09-
+ 26/
+URL:https://leekduck.com/events/pokemonspotlighthour2023-09-26/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-great_league-psychic_cup_great_league_edition
+DTSTAMP:20230911T061100Z
+DTSTART:20230922T200000Z
+DTEND:20230929T200000Z
+SUMMARY:[GO Battle League] Great League and Psychic Cup: Great League
+  Edition | Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-adventures_abound-great_
+ league-psychic_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-psychic_
+ cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-growlithe-hisuian-growlithe-2023-09-27
+DTSTAMP:20230911T061100Z
+DTSTART:20230927T170000Z
+DTEND:20230930T030000Z
+SUMMARY:[PokéStop Showcase] Growlithe and Hisuian Growlithe PokéStop
+  Showcases
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-showcase-growlithe-h
+ isuian-growlithe-2023-09-27/
+URL:https://leekduck.com/events/pokemon-showcase-growlithe-hisuian-growlith
+ e-2023-09-27/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:azurill-hatch-day
+DTSTAMP:20230911T061100Z
+DTSTART:20230930T210000Z
+DTEND:20231001T000000Z
+SUMMARY:[Event] Azurill Hatch Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/azurill-hatch-day/
+URL:https://leekduck.com/events/azurill-hatch-day/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-growlithe-hisuian-growlithe-2023-09-29
+DTSTAMP:20230911T061100Z
+DTSTART:20230930T170000Z
+DTEND:20231003T030000Z
+SUMMARY:[PokéStop Showcase] Growlithe and Hisuian Growlithe PokéStop
+  Showcases
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-showcase-growlithe-h
+ isuian-growlithe-2023-09-29/
+URL:https://leekduck.com/events/pokemon-showcase-growlithe-hisuian-growlith
+ e-2023-09-29/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:out-to-play
+DTSTAMP:20230911T061100Z
+DTSTART:20230927T170000Z
+DTEND:20231003T030000Z
+SUMMARY:[Event] Out to Play
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/out-to-play/
+URL:https://leekduck.com/events/out-to-play/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-gardevoir-in-mega-raids-september-2023
+DTSTAMP:20230911T061100Z
+DTSTART:20230916T170000Z
+DTEND:20231006T170000Z
+SUMMARY:[Raid Battles] Mega Gardevoir in Mega Raids
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/mega-gardevoir-in-mega-raids
+ -september-2023/
+URL:https://leekduck.com/events/mega-gardevoir-in-mega-raids-september-2023
+ /
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raikou-entei-suicune-in-5-star-raid-battles-september-2023-swap
+DTSTAMP:20230911T061100Z
+DTSTART:20230923T170000Z
+DTEND:20231006T170000Z
+SUMMARY:[Raid Battles] Raikou\, Entei\, and Suicune in 5-star Raid Battles
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raikou-entei-suicune-in-5-st
+ ar-raid-battles-september-2023-swap/
+URL:https://leekduck.com/events/raikou-entei-suicune-in-5-star-raid-battles
+ -september-2023-swap/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/ultrabonusbeasts.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-ultra_league-sunshine_cup_great_league_edition
+DTSTAMP:20230911T061100Z
+DTSTART:20230929T200000Z
+DTEND:20231006T200000Z
+SUMMARY:[GO Battle League] Ultra League and Sunshine Cup: Great League
+  Edition | Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-adventures_abound-ultra_
+ league-sunshine_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-ultra_league-sunshine
+ _cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citysafari-seoul-2023
+DTSTAMP:20230911T061100Z
+DTSTART:20231007T170000Z
+DTEND:20231009T010000Z
+SUMMARY:[City Safari] Seoul\, South Korea - Pokémon GO City Safari
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/citysafari-seoul-2023/
+URL:https://leekduck.com/events/citysafari-seoul-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/citysafari-seoul.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-event-october-07-season-12
+DTSTAMP:20230911T061100Z
+DTSTART:20231007T170000Z
+DTEND:20231009T030000Z
+SUMMARY:[Event] Unannounced Event - October 7-8
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/unannounced-event-october-07
+ -season-12/
+URL:https://leekduck.com/events/unannounced-event-october-07-season-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-battle-weekend-adventures-abound
+DTSTAMP:20230911T061100Z
+DTSTART:20231007T070000Z
+DTEND:20231009T065959Z
+SUMMARY:[Research] GO Battle Weekend: Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-weekend-adventures
+ -abound/
+URL:https://leekduck.com/events/go-battle-weekend-adventures-abound/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-16-adventures-abound.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-great_league-ultra_league-master-league
+DTSTAMP:20230911T061100Z
+DTSTART:20231006T200000Z
+DTEND:20231013T200000Z
+SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League
+  | Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-adventures_abound-great_
+ league-ultra_league-master-league/
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-ultra_le
+ ague-master-league/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-16-adventures-abound.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citysafari-barcelona-2023
+DTSTAMP:20230911T061100Z
+DTSTART:20231013T170000Z
+DTEND:20231015T010000Z
+SUMMARY:[City Safari] Barcelona\, Spain - Pokémon GO City Safari
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/citysafari-barcelona-2023/
+URL:https://leekduck.com/events/citysafari-barcelona-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/citysafari-barcelona
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:october-communityday2023
+DTSTAMP:20230911T061100Z
+DTSTART:20231015T210000Z
+DTEND:20231016T000000Z
+SUMMARY:[Community Day] October Community Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/october-communityday2023/
+URL:https://leekduck.com/events/october-communityday2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-great_league-sunshine_cup_great_league_edition
+DTSTAMP:20230911T061100Z
+DTSTART:20231013T200000Z
+DTEND:20231020T200000Z
+SUMMARY:[GO Battle League] Great League and Sunshine Cup: Great League
+  Edition | Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-adventures_abound-great_
+ league-sunshine_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-sunshine
+ _cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-event-october-21-season-12
+DTSTAMP:20230911T061100Z
+DTSTART:20231021T210000Z
+DTEND:20231022T000000Z
+SUMMARY:[Event] Unannounced Event - October 21
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/unannounced-event-october-21
+ -season-12/
+URL:https://leekduck.com/events/unannounced-event-october-21-season-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-ultra_league-halloween_cup_great_league_edition
+DTSTAMP:20230911T061100Z
+DTSTART:20231020T200000Z
+DTEND:20231027T200000Z
+SUMMARY:[GO Battle League] Ultra League and Halloween Cup: Great League
+  Edition | Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-adventures_abound-ultra_
+ league-halloween_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-ultra_league-hallowee
+ n_cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-master_league-halloween_cup_great_league_edition
+DTSTAMP:20230911T061100Z
+DTSTART:20231027T200000Z
+DTEND:20231103T200000Z
+SUMMARY:[GO Battle League] Master League and Halloween Cup: Great League
+  Edition | Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-adventures_abound-master
+ _league-halloween_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-master_league-hallowe
+ en_cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:citysafari-mexico-city-2023
+DTSTAMP:20230911T061100Z
+DTSTART:20231104T170000Z
+DTEND:20231106T020000Z
+SUMMARY:[City Safari] Mexico City\, Mexico - Pokémon GO City Safari
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/citysafari-mexico-city-2023/
+URL:https://leekduck.com/events/citysafari-mexico-city-2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/citysafari-mexico-ci
+ ty.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:november-communityday2023
+DTSTAMP:20230911T061100Z
+DTSTART:20231105T220000Z
+DTEND:20231106T010000Z
+SUMMARY:[Community Day] November Community Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2023/
+URL:https://leekduck.com/events/november-communityday2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-great_league-electric_cup_great_league_edition
+DTSTAMP:20230911T061100Z
+DTSTART:20231103T210000Z
+DTEND:20231110T210000Z
+SUMMARY:[GO Battle League] Great League and Electric Cup: Great League
+  Edition | Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-adventures_abound-great_
+ league-electric_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-electric
+ _cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-event-november-11-season-12
+DTSTAMP:20230911T061100Z
+DTSTART:20231111T220000Z
+DTEND:20231112T010000Z
+SUMMARY:[Event] Unannounced Event - November 11
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/unannounced-event-november-1
+ 1-season-12/
+URL:https://leekduck.com/events/unannounced-event-november-11-season-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-ultra_league-electric_cup_great_league_edition
+DTSTAMP:20230911T061100Z
+DTSTART:20231110T210000Z
+DTEND:20231117T210000Z
+SUMMARY:[GO Battle League] Ultra League and Electric Cup: Great League
+  Edition | Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-adventures_abound-ultra_
+ league-electric_cup_great_league_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-ultra_league-electric
+ _cup_great_league_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-catch_cup_adventures_abound_edition
+DTSTAMP:20230911T061100Z
+DTSTART:20231117T210000Z
+DTEND:20231124T210000Z
+SUMMARY:[GO Battle League] Catch Cup: Adventures Abound Edition |
+  Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-adventures_abound-catch_
+ cup_adventures_abound_edition/
+URL:https://leekduck.com/events/gbl-adventures_abound-catch_cup_adventures_
+ abound_edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-16-adventures-abound.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:november-communitydayclassic2023
+DTSTAMP:20230911T061100Z
+DTSTART:20231125T220000Z
+DTEND:20231126T010000Z
+SUMMARY:[Community Day] November Community Day Classic
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communitydayclassic
+ 2023/
+URL:https://leekduck.com/events/november-communitydayclassic2023/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-zapdos-in-shadow-raids-adventures-abound
+DTSTAMP:20230911T061100Z
+DTSTART:20230902T170000Z
+DTEND:20231127T040000Z
+SUMMARY:[Raid Battles] Shadow Zapdos in Shadow Raids
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/shadow-zapdos-in-shadow-raid
+ s-adventures-abound/
+URL:https://leekduck.com/events/shadow-zapdos-in-shadow-raids-adventures-ab
+ ound/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-12-adventures-abound
+DTSTAMP:20230911T061100Z
+DTSTART:20230901T170000Z
+DTEND:20231201T180000Z
+SUMMARY:[Season] Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/season-12-adventures-abound/
+URL:https://leekduck.com/events/season-12-adventures-abound/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-12-adventures
+ -abound-2.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-12-adventures-abound-research-breakthrough
+DTSTAMP:20230911T061100Z
+DTSTART:20230901T210000Z
+DTEND:20231201T210000Z
+SUMMARY:[Research Breakthrough] Adventures Abound Research Breakthrough
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/season-12-adventures-abound-
+ research-breakthrough/
+URL:https://leekduck.com/events/season-12-adventures-abound-research-breakt
+ hrough/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/SummerResearchBreakt
+ hrough.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-adventures_abound-great_league-ultra_league-master-league-2
+DTSTAMP:20230911T061100Z
+DTSTART:20231124T210000Z
+DTEND:20231201T210000Z
+SUMMARY:[GO Battle League] Great League\, Ultra League\, and Master League
+  | Adventures Abound
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-adventures_abound-great_
+ league-ultra_league-master-league-2/
+URL:https://leekduck.com/events/gbl-adventures_abound-great_league-ultra_le
+ ague-master-league-2/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-16-adventures-abound.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
