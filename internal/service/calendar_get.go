@@ -5,27 +5,44 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"net/http"
 	"time"
+
+	"github.com/go-kivik/kivik/v4"
+
+	"github.com/labstack/echo/v4"
 
 	"app/internal/ical"
 )
 
 const sourceURL = "https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json"
+const mimeICS = "text/calendar"
 
-func (s *Service) GetCalendar(ctx context.Context, id string) (string, error) {
+func (s *Service) CalendarGet(c echo.Context) error {
+	ctx := c.Request().Context()
+
+	var id string
+	if err := echo.PathParamsBinder(c).String("id", &id).BindError(); err != nil {
+		return err
+	}
+
 	var cfg *CalendarConfig
 	if err := s.DB.Get(ctx, id).ScanDoc(&cfg); err != nil {
-		return "", fmt.Errorf("failed to get document: %w", err)
+		if kivik.HTTPStatus(err) == http.StatusNotFound {
+			return echo.ErrNotFound
+		}
+
+		return fmt.Errorf("failed to get document: %w", err)
 	}
 
 	events, err := s.getEvents(ctx)
 	if err != nil {
-		return "", fmt.Errorf("failed to get events: %w", err)
+		return fmt.Errorf("failed to get events: %w", err)
 	}
 
-	tz, err := time.LoadLocation(cfg.Timezone)
+	tz, err := validateTZ(cfg.Timezone)
 	if err != nil {
-		return "", fmt.Errorf("timezone %s is invalid: %w", cfg.Timezone, err)
+		return err
 	}
 
 	options := ical.GenerateICalOptions{
@@ -35,12 +52,13 @@ func (s *Service) GetCalendar(ctx context.Context, id string) (string, error) {
 		ExcludeTypes: cfg.ExcludeEvents,
 	}
 
-	ics, err := ical.GenerateICal(events, options)
+	ical, err := ical.GenerateICal(events, options)
 	if err != nil {
-		return "", fmt.Errorf("failed to generate ics: %w", err)
+		return fmt.Errorf("failed to generate ics: %w", err)
 	}
 
-	return ics.Serialize(), nil
+	c.Response().Header().Set(echo.HeaderContentType, mimeICS)
+	return c.String(http.StatusOK, ical.Serialize())
 }
 
 func (s *Service) getEvents(ctx context.Context) ([]ical.LeekDuckEvent, error) {
