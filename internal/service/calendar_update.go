@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/go-kivik/kivik/v4"
 	"github.com/labstack/echo/v4"
 )
 
@@ -30,10 +29,8 @@ func (s *Service) CalendarUpdate(c echo.Context) error {
 		return err
 	}
 
-	db := c.Get("KivikDB").(*kivik.DB)
-
 	var doc *CalendarConfig
-	if err := db.Get(ctx, input.ID).ScanDoc(&doc); err != nil {
+	if err := s.KivikDB.Get(ctx, input.ID).ScanDoc(&doc); err != nil {
 		return fmt.Errorf("failed to get document: %w", err)
 	}
 
@@ -54,7 +51,7 @@ func (s *Service) CalendarUpdate(c echo.Context) error {
 		doc.ExcludeEvents = *input.ExcludeEvents
 	}
 
-	rev, err := db.Put(ctx, doc.ID, doc)
+	rev, err := s.KivikDB.Put(ctx, doc.ID, doc)
 	if err != nil {
 		return fmt.Errorf("failed to put document: %w", err)
 	}

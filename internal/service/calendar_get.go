@@ -26,10 +26,8 @@ func (s *Service) CalendarGet(c echo.Context) error {
 		return err
 	}
 
-	db := c.Get("KivikDB").(*kivik.DB)
-
 	var cfg *CalendarConfig
-	if err := db.Get(ctx, id).ScanDoc(&cfg); err != nil {
+	if err := s.KivikDB.Get(ctx, id).ScanDoc(&cfg); err != nil {
 		if kivik.HTTPStatus(err) == http.StatusNotFound {
 			return echo.ErrNotFound
 		}

@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/go-kivik/kivik/v4"
 	"github.com/labstack/echo/v4"
 )
 
@@ -29,9 +28,7 @@ func (s *Service) CalendarCreate(c echo.Context) error {
 		return err
 	}
 
-	db := c.Get("KivikDB").(*kivik.DB)
-
-	id, _, err := db.CreateDoc(ctx, input)
+	id, _, err := s.KivikDB.CreateDoc(ctx, input)
 	if err != nil {
 		return fmt.Errorf("failed to create document: %w", err)
 	}
