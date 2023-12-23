@@ -5,6 +5,9 @@ on:
     branches:
       - github-actions
 
+  schedule:
+    - cron: '30 */4 * * *'
+
 jobs:
   ical:
     runs-on: ubuntu-latest
