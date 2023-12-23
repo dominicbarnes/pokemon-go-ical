@@ -1,0 +1,10 @@
+dominic:
+  timezone: America/Denver
+  include:
+    - event
+    - raid-hour
+    - pokemon-spotlight-hour
+    - community-day
+    - raid-day
+    - ticketed-event
+    - pokemon-go-tour

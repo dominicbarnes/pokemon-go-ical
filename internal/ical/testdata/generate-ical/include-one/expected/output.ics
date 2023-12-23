@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//arran4//Golang ICS Library
+NAME:Pokémon GO Events
+X-WR-CALNAME:Pokémon GO Events
+DESCRIPTION:Powered by ScrapedDuck and LeekDuck.com
+X-WR-CALDESC:Powered by ScrapedDuck and LeekDuck.com
+X-WR-TIMEZONE:Local
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:raidhour20230913
+DTSTAMP:20230911T061100Z
+DTSTART:20230914T010000Z
+DTEND:20230914T020000Z
+SUMMARY:[Raid Hour] Kartana and Celesteela Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20230913/
+URL:https://leekduck.com/events/raidhour20230913/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230920
+DTSTAMP:20230911T061100Z
+DTSTART:20230921T010000Z
+DTEND:20230921T020000Z
+SUMMARY:[Raid Hour] Genesect with a Burn Drive Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20230920/
+URL:https://leekduck.com/events/raidhour20230920/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20230927
+DTSTAMP:20230911T061100Z
+DTSTART:20230928T010000Z
+DTEND:20230928T020000Z
+SUMMARY:[Raid Hour] Raikou\, Entei\, and Suicune Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20230927/
+URL:https://leekduck.com/events/raidhour20230927/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20231004
+DTSTAMP:20230911T061100Z
+DTSTART:20231005T010000Z
+DTEND:20231005T020000Z
+SUMMARY:[Raid Hour] Raikou\, Entei\, and Suicune Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20231004/
+URL:https://leekduck.com/events/raidhour20231004/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
