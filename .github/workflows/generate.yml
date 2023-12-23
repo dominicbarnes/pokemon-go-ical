@@ -28,6 +28,4 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          branch: data
           file_pattern: ./data/*
-          create_branch: true
