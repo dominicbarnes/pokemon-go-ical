@@ -1,0 +1,772 @@
+[
+    {
+        "eventID": "pokemonspotlighthour2024-01-16",
+        "name": "Ralts Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2024-01-16/",
+        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2024-01-16T18:00:00.000",
+        "end": "2024-01-16T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Ralts",
+                "canBeShiny": true,
+                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png",
+                "bonus": "2× Transfer Candy",
+                "list": [
+                    {
+                        "name": "Ralts",
+                        "canBeShiny": true,
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "dazzling-dream",
+        "name": "Dazzling Dream",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/dazzling-dream/",
+        "image": "https://leekduck.com/assets/img/events/dazzling-dream.jpg",
+        "start": "2024-01-13T10:00:00.000",
+        "end": "2024-01-16T20:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "pokemon-showcase-fairy-types-2024-01-13",
+        "name": "Fairy-type PokéStop Showcases",
+        "eventType": "pokestop-showcase",
+        "heading": "PokéStop Showcase",
+        "link": "https://leekduck.com/events/pokemon-showcase-fairy-types-2024-01-13/",
+        "image": "https://leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+        "start": "2024-01-13T10:00:00.000",
+        "end": "2024-01-16T20:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "tornadius-therian-forme-in-5-star-raid-battles-january-2024",
+        "name": "Tornadus (Therian Forme) in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/tornadius-therian-forme-in-5-star-raid-battles-january-2024/",
+        "image": "https://leekduck.com/assets/img/events/therian-forme-tornadus.jpg",
+        "start": "2024-01-10T10:00:00.000",
+        "end": "2024-01-17T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Tornadus (Therian)",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_12.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Tornadus (Therian)",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_641_12_shiny.png"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20240117",
+        "name": "Thundurus (Therian Forme) Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20240117/",
+        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2024-01-17T18:00:00.000",
+        "end": "2024-01-17T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "gbl-timeless-travels_master-league_fantasy-cup-great-league-edition",
+        "name": "Master League and Fantasy Cup: Great League Edition | Timeless Travels",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-timeless-travels_master-league_fantasy-cup-great-league-edition/",
+        "image": "https://leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2024-01-12T21:00:00.000Z",
+        "end": "2024-01-19T21:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "january-communitydayclassic2024",
+        "name": "Porygon Community Day Classic",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/january-communitydayclassic2024/",
+        "image": "https://leekduck.com/assets/img/events/cd-2024-01-classic-porygon.jpg",
+        "start": "2024-01-20T14:00:00.000",
+        "end": "2024-01-20T17:00:00.000",
+        "extraData": {
+            "communityday": {
+                "spawns": [
+                    {
+                        "name": "Porygon",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_137_00.png"
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "text": "Increased Spawns",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/wildgrass.png"
+                    },
+                    {
+                        "text": "3x Catch XP",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/xp.png"
+                    },
+                    {
+                        "text": "3-hour Incense*",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/incense.png"
+                    },
+                    {
+                        "text": "3-hour Lures**",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/luresall.png"
+                    }
+                ],
+                "bonusDisclaimers": [
+                    "* The three-hour Incense bonus excludes Daily Adventure Incense.",
+                    "** The three-hour lure bonus excludes Golden Lure Modules."
+                ],
+                "shinies": [
+                    {
+                        "name": "Porygon",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_137_00_shiny.png"
+                    },
+                    {
+                        "name": "Porygon2",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_233_00_shiny.png"
+                    },
+                    {
+                        "name": "Porygon-Z",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_474_00_shiny.png"
+                    }
+                ],
+                "specialresearch": [
+                    {
+                        "name": "Porygon Community Day Classic (1/?)",
+                        "step": 1,
+                        "tasks": [
+                            {
+                                "text": "???",
+                                "reward": {
+                                    "text": "???",
+                                    "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                                }
+                            },
+                            {
+                                "text": "???",
+                                "reward": {
+                                    "text": "???",
+                                    "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                                }
+                            },
+                            {
+                                "text": "???",
+                                "reward": {
+                                    "text": "???",
+                                    "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                                }
+                            }
+                        ],
+                        "rewards": [
+                            {
+                                "text": "???",
+                                "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                            },
+                            {
+                                "text": "???",
+                                "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                            },
+                            {
+                                "text": "???",
+                                "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "shadow-moltre-in-shadow-raids-timeless-travels",
+        "name": "Shadow Moltres in Shadow Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/shadow-moltre-in-shadow-raids-timeless-travels/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-01-06T06:00:00.000",
+        "end": "2024-01-21T22:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Moltres",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_146_00.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Moltres",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_146_00_shiny.png"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2024-01-23",
+        "name": "Barboach Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2024-01-23/",
+        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2024-01-23T18:00:00.000",
+        "end": "2024-01-23T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Barboach",
+                "canBeShiny": true,
+                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_339_00.png",
+                "bonus": "2× Evolution XP",
+                "list": [
+                    {
+                        "name": "Barboach",
+                        "canBeShiny": true,
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_339_00.png"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "mega-medicham-in-mega-raids-january-2024",
+        "name": "Mega Medicham in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-medicham-in-mega-raids-january-2024/",
+        "image": "https://leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2024-01-10T10:00:00.000",
+        "end": "2024-01-24T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Medicham",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pm308.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Medicham",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_308_00_shiny.png"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "thundurus-therian-forme-in-5-star-raid-battles-january-2024-copy",
+        "name": "Thundurus (Therian Forme) in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/thundurus-therian-forme-in-5-star-raid-battles-january-2024-copy/",
+        "image": "https://leekduck.com/assets/img/events/therian-forme-thundurus.jpg",
+        "start": "2024-01-17T10:00:00.000",
+        "end": "2024-01-24T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Thundurus (Therian)",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_12.png",
+                        "canBeShiny": false
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Thundurus (Therian)",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_642_12_shiny.png"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20240124",
+        "name": "Landorus (Therian Forme) Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20240124/",
+        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2024-01-24T18:00:00.000",
+        "end": "2024-01-24T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "go-battle-week-timeless-travels",
+        "name": "GO Battle Week: Timeless Travels",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/go-battle-week-timeless-travels/",
+        "image": "https://leekduck.com/assets/img/events/go-battle-league-season-17-timeless-travels.jpg",
+        "start": "2024-01-19T10:00:00.000",
+        "end": "2024-01-24T20:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "raging-battles",
+        "name": "Raging Battles",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/raging-battles/",
+        "image": "https://leekduck.com/assets/img/events/raging-battles-annihilape.jpg",
+        "start": "2024-01-19T10:00:00.000",
+        "end": "2024-01-24T20:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "gbl-timeless-travels_great-league_ultra-league_master-league-2",
+        "name": "Great League, Ultra League and Master League | Timeless Travels",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-timeless-travels_great-league_ultra-league_master-league-2/",
+        "image": "https://leekduck.com/assets/img/events/go-battle-league-season-17-timeless-travels.jpg",
+        "start": "2024-01-19T21:00:00.000Z",
+        "end": "2024-01-26T21:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "unannounced-january-27-28-season-17",
+        "name": "Unannounced Event - January 27-28",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/unannounced-january-27-28-season-17/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-01-27T10:00:00.000",
+        "end": "2024-01-28T20:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "shadow-ho-oh-in-shadow-raids-timeless-travels",
+        "name": "Shadow Ho-Oh in Shadow Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/shadow-ho-oh-in-shadow-raids-timeless-travels/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-01-27T06:00:00.000",
+        "end": "2024-01-28T22:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Ho-Oh",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Ho-Oh",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_250_00_shiny.png"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2024-01-30",
+        "name": "Foongus Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2024-01-30/",
+        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2024-01-30T18:00:00.000",
+        "end": "2024-01-30T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Foongus",
+                "canBeShiny": true,
+                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_590_00.png",
+                "bonus": "2× Catch Stardust",
+                "list": [
+                    {
+                        "name": "Foongus",
+                        "canBeShiny": true,
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_590_00.png"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "mega-steelix-in-mega-raids-january-2024",
+        "name": "Mega Steelix in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-steelix-in-mega-raids-january-2024/",
+        "image": "https://leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2024-01-24T10:00:00.000",
+        "end": "2024-01-31T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Steelix",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pm208.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Steelix",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_208_00_shiny.png"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "landorus-therian-forme-in-5-star-raid-battles-january-2024",
+        "name": "Landorus (Therian Forme) in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/landorus-therian-forme-in-5-star-raid-battles-january-2024/",
+        "image": "https://leekduck.com/assets/img/events/therian-forme-tornadus.jpg",
+        "start": "2024-01-24T10:00:00.000",
+        "end": "2024-01-31T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Landorus (Therian)",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_12.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Landorus (Therian)",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_645_12_shiny.png"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "eggspedition-access-january-ticket",
+        "name": "Eggs-pedition Access: January",
+        "eventType": "ticketed-event",
+        "heading": "Ticketed Event",
+        "link": "https://leekduck.com/events/eggspedition-access-january-ticket/",
+        "image": "https://leekduck.com/assets/img/events/eggspedition-access-january.jpg",
+        "start": "2024-01-01T10:00:00.000",
+        "end": "2024-01-31T20:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "taken-treasure",
+        "name": "Taken Treasure",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/taken-treasure/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-01-27T00:00:00.000",
+        "end": "2024-02-01T23:59:59.000",
+        "extraData": null
+    },
+    {
+        "eventID": "gbl-timeless-travels_great-league_hisui-cup-great-league-edition",
+        "name": "Great League and Hisui Cup: Great League Edition | Timeless Travels",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-timeless-travels_great-league_hisui-cup-great-league-edition/",
+        "image": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2024-01-26T21:00:00.000Z",
+        "end": "2024-02-02T21:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "february-communityday2024",
+        "name": "Chansey Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/february-communityday2024/",
+        "image": "https://leekduck.com/assets/img/events/cd-2024-02-chansey.jpg",
+        "start": "2024-02-04T14:00:00.000",
+        "end": "2024-02-04T17:00:00.000",
+        "extraData": {
+            "communityday": {
+                "spawns": [
+                    {
+                        "name": "Chansey",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00.png"
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "text": "Increased Spawns",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/wildgrass.png"
+                    },
+                    {
+                        "text": "1/4 Hatch Distance",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/eggdistance.png"
+                    },
+                    {
+                        "text": "3-hour Incense**",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/incense.png"
+                    },
+                    {
+                        "text": "3-hour Lures***",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/luresall.png"
+                    },
+                    {
+                        "text": "2x Catch Candy",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/candy.png"
+                    },
+                    {
+                        "text": "2x Chance to receive Candy XL from catching Pokémon",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/candyxl.png"
+                    },
+                    {
+                        "text": "One additional Special Trade can be made for a maximum of two for the day*",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/trade.png"
+                    },
+                    {
+                        "text": "Trades made will require 50% less Stardust*",
+                        "image": "https://leekduck.com/assets/img/events/bonuses/stardust2x.png"
+                    }
+                ],
+                "bonusDisclaimers": [
+                    "* While most bonuses are only active during the three hours of the event, these bonuses will be active from 2:00 p.m. to 10:00 p.m. local time.",
+                    "** The three-hour Incense bonus excludes Daily Adventure Incense.",
+                    "*** The three-hour lure bonus excludes Golden Lure Modules."
+                ],
+                "shinies": [
+                    {
+                        "name": "Happiny",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_440_00_shiny.png"
+                    },
+                    {
+                        "name": "Chansey",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_113_00_shiny.png"
+                    },
+                    {
+                        "name": "Blissey",
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_242_00_shiny.png"
+                    }
+                ],
+                "specialresearch": [
+                    {
+                        "name": "Chansey Community Day (1/?)",
+                        "step": 1,
+                        "tasks": [
+                            {
+                                "text": "???",
+                                "reward": {
+                                    "text": "???",
+                                    "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                                }
+                            },
+                            {
+                                "text": "???",
+                                "reward": {
+                                    "text": "???",
+                                    "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                                }
+                            },
+                            {
+                                "text": "???",
+                                "reward": {
+                                    "text": "???",
+                                    "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                                }
+                            }
+                        ],
+                        "rewards": [
+                            {
+                                "text": "???",
+                                "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                            },
+                            {
+                                "text": "???",
+                                "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                            },
+                            {
+                                "text": "???",
+                                "image": "https://leekduck.com/assets/img/icons/unknown.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-showcase-chansey-blissey-2024-02-04",
+        "name": "Chansey and Blissey PokéStop Showcases",
+        "eventType": "pokestop-showcase",
+        "heading": "PokéStop Showcase",
+        "link": "https://leekduck.com/events/pokemon-showcase-chansey-blissey-2024-02-04/",
+        "image": "https://leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+        "start": "2024-02-04T14:00:00.000",
+        "end": "2024-02-04T20:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "gbl-timeless-travels_ultra-league_hisui-cup-great-league-edition",
+        "name": "Ultra League and Hisui Cup: Great League Edition | Timeless Travels",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-timeless-travels_ultra-league_hisui-cup-great-league-edition/",
+        "image": "https://leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2024-02-02T21:00:00.000Z",
+        "end": "2024-02-09T21:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "go-battle-day-timeless-travels",
+        "name": "Timeless Travels: GO Battle Day",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/go-battle-day-timeless-travels/",
+        "image": "https://leekduck.com/assets/img/events/go-battle-league-season-17-timeless-travels.jpg",
+        "start": "2024-02-10T00:00:00.000",
+        "end": "2024-02-10T23:59:59.000",
+        "extraData": null
+    },
+    {
+        "eventID": "unannounced-february-11-season-17",
+        "name": "Unannounced Event - February 11",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/unannounced-february-11-season-17/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-02-11T14:00:00.000",
+        "end": "2024-02-11T17:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "gbl-timeless-travels_master-league_evolution-cup-great-league-edition",
+        "name": "Master League and Evolution Cup: Great League Edition | Timeless Travels",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-timeless-travels_master-league_evolution-cup-great-league-edition/",
+        "image": "https://leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2024-02-09T21:00:00.000Z",
+        "end": "2024-02-16T21:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "pokemon-go-tour-sinnoh-los-angeles",
+        "name": "Pokémon GO Tour: Sinnoh - Los Angeles",
+        "eventType": "pokemon-go-tour",
+        "heading": "Pokémon GO Tour",
+        "link": "https://leekduck.com/events/pokemon-go-tour-sinnoh-los-angeles/",
+        "image": "https://leekduck.com/assets/img/events/pokemon-go-tour-sinnoh-los-angeles.jpg",
+        "start": "2024-02-17T17:00:00.000Z",
+        "end": "2024-02-18T01:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-edition",
+        "name": "Catch Cup: Little Edition and Catch Cup: Great League Edition | Timeless Travels",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-edition/",
+        "image": "https://leekduck.com/assets/img/events/go-battle-league-season-17-timeless-travels.jpg",
+        "start": "2024-02-16T21:00:00.000Z",
+        "end": "2024-02-23T21:00:00.000Z",
+        "extraData": null
+    },
+    {
+        "eventID": "pokemon-go-tour-sinnoh-global",
+        "name": "Pokémon GO Tour: Sinnoh - Global",
+        "eventType": "pokemon-go-tour",
+        "heading": "Pokémon GO Tour",
+        "link": "https://leekduck.com/events/pokemon-go-tour-sinnoh-global/",
+        "image": "https://leekduck.com/assets/img/events/pokemon-go-tour-sinnoh-global.jpg",
+        "start": "2024-02-24T10:00:00.000",
+        "end": "2024-02-25T18:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "season-13-timeless-travels-research-breakthrough",
+        "name": "Timeless Travels Research Breakthrough",
+        "eventType": "research-breakthrough",
+        "heading": "Research Breakthrough",
+        "link": "https://leekduck.com/events/season-13-timeless-travels-research-breakthrough/",
+        "image": "https://leekduck.com/assets/img/events/researchWinter.jpg",
+        "start": "2023-12-01T10:00:00.000",
+        "end": "2024-03-01T10:00:00.000",
+        "extraData": {
+            "breakthrough": {
+                "name": "Galarian Weezing",
+                "canBeShiny": true,
+                "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_110_31.png",
+                "list": [
+                    {
+                        "name": "Galarian Weezing",
+                        "canBeShiny": true,
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_110_31.png"
+                    },
+                    {
+                        "name": "Galarian Mr. Mime",
+                        "canBeShiny": true,
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_122_31.png"
+                    },
+                    {
+                        "name": "Lapras",
+                        "canBeShiny": true,
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_131_00.png"
+                    },
+                    {
+                        "name": "Furfrou (Natural)",
+                        "canBeShiny": true,
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pm676.fNATURAL.icon.png"
+                    },
+                    {
+                        "name": "Goomy",
+                        "canBeShiny": true,
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_704_00.png"
+                    },
+                    {
+                        "name": "Jangmo-o",
+                        "canBeShiny": false,
+                        "image": "https://leekduck.com/assets/img/pokemon_icons/pm782.icon.png"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "eventID": "season-13-timeless-travels",
+        "name": "Timeless Travels",
+        "eventType": "season",
+        "heading": "Season",
+        "link": "https://leekduck.com/events/season-13-timeless-travels/",
+        "image": "https://leekduck.com/assets/img/events/season-13-timeless-travels.jpg",
+        "start": "2023-12-01T10:00:00.000",
+        "end": "2024-03-01T10:00:00.000",
+        "extraData": null
+    },
+    {
+        "eventID": "gbl-timeless-travels_great-league_ultra-league_master-league-3",
+        "name": "Great League, Ultra League and Master League | Timeless Travels",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-timeless-travels_great-league_ultra-league_master-league-3/",
+        "image": "https://leekduck.com/assets/img/events/go-battle-league-season-17-timeless-travels.jpg",
+        "start": "2024-02-23T21:00:00.000Z",
+        "end": "2024-03-01T21:00:00.000Z",
+        "extraData": null
+    }
+]

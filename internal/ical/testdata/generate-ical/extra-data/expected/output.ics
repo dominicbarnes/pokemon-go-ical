@@ -1,0 +1,617 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//arran4//Golang ICS Library
+NAME:Pokémon GO Events
+X-WR-CALNAME:Pokémon GO Events
+DESCRIPTION:Powered by ScrapedDuck and LeekDuck.com
+X-WR-CALDESC:Powered by ScrapedDuck and LeekDuck.com
+X-WR-TIMEZONE:Local
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-01-16
+DTSTAMP:20230911T061100Z
+DTSTART:20240117T020000Z
+DTEND:20240117T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Ralts Spotlight Hour (2× Transfer Candy)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-01-
+ 16/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-01-16/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dazzling-dream
+DTSTAMP:20230911T061100Z
+DTSTART:20240113T180000Z
+DTEND:20240117T040000Z
+SUMMARY:[Event] Dazzling Dream
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/dazzling-dream/
+URL:https://leekduck.com/events/dazzling-dream/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/dazzling-dream.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-fairy-types-2024-01-13
+DTSTAMP:20230911T061100Z
+DTSTART:20240113T180000Z
+DTEND:20240117T040000Z
+SUMMARY:[PokéStop Showcase] Fairy-type PokéStop Showcases
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-showcase-fairy-types
+ -2024-01-13/
+URL:https://leekduck.com/events/pokemon-showcase-fairy-types-2024-01-13/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tornadius-therian-forme-in-5-star-raid-battles-january-2024
+DTSTAMP:20230911T061100Z
+DTSTART:20240110T180000Z
+DTEND:20240117T180000Z
+SUMMARY:[Raid Battles] Tornadus (Therian Forme) in 5-star Raid Battles
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/tornadius-therian-forme-in-5
+ -star-raid-battles-january-2024/
+URL:https://leekduck.com/events/tornadius-therian-forme-in-5-star-raid-batt
+ les-january-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/therian-forme-tornad
+ us.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20240117
+DTSTAMP:20230911T061100Z
+DTSTART:20240118T020000Z
+DTEND:20240118T030000Z
+SUMMARY:[Raid Hour] Thundurus (Therian Forme) Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20240117/
+URL:https://leekduck.com/events/raidhour20240117/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_master-league_fantasy-cup-great-league-edition
+DTSTAMP:20230911T061100Z
+DTSTART:20240112T210000Z
+DTEND:20240119T210000Z
+SUMMARY:[GO Battle League] Master League and Fantasy Cup: Great League
+  Edition | Timeless Travels
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-timeless-travels_master-
+ league_fantasy-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-timeless-travels_master-league_fantasy-
+ cup-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:january-communitydayclassic2024
+DTSTAMP:20230911T061100Z
+DTSTART:20240120T220000Z
+DTEND:20240121T010000Z
+SUMMARY:[Community Day] Porygon Community Day Classic
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/january-communitydayclassic2
+ 024/
+URL:https://leekduck.com/events/january-communitydayclassic2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-01-classic-p
+ orygon.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-moltre-in-shadow-raids-timeless-travels
+DTSTAMP:20230911T061100Z
+DTSTART:20240106T140000Z
+DTEND:20240122T060000Z
+SUMMARY:[Raid Battles] Shadow Moltres in Shadow Raids
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/shadow-moltre-in-shadow-raid
+ s-timeless-travels/
+URL:https://leekduck.com/events/shadow-moltre-in-shadow-raids-timeless-trav
+ els/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-01-23
+DTSTAMP:20230911T061100Z
+DTSTART:20240124T020000Z
+DTEND:20240124T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Barboach Spotlight Hour (2× Evolution
+  XP)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-01-
+ 23/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-01-23/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-medicham-in-mega-raids-january-2024
+DTSTAMP:20230911T061100Z
+DTSTART:20240110T180000Z
+DTEND:20240124T180000Z
+SUMMARY:[Raid Battles] Mega Medicham in Mega Raids
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/mega-medicham-in-mega-raids-
+ january-2024/
+URL:https://leekduck.com/events/mega-medicham-in-mega-raids-january-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thundurus-therian-forme-in-5-star-raid-battles-january-2024-copy
+DTSTAMP:20230911T061100Z
+DTSTART:20240117T180000Z
+DTEND:20240124T180000Z
+SUMMARY:[Raid Battles] Thundurus (Therian Forme) in 5-star Raid Battles
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/thundurus-therian-forme-in-5
+ -star-raid-battles-january-2024-copy/
+URL:https://leekduck.com/events/thundurus-therian-forme-in-5-star-raid-batt
+ les-january-2024-copy/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/therian-forme-thundu
+ rus.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20240124
+DTSTAMP:20230911T061100Z
+DTSTART:20240125T020000Z
+DTEND:20240125T030000Z
+SUMMARY:[Raid Hour] Landorus (Therian Forme) Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20240124/
+URL:https://leekduck.com/events/raidhour20240124/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-battle-week-timeless-travels
+DTSTAMP:20230911T061100Z
+DTSTART:20240119T180000Z
+DTEND:20240125T040000Z
+SUMMARY:[Event] GO Battle Week: Timeless Travels
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-timeless-trav
+ els/
+URL:https://leekduck.com/events/go-battle-week-timeless-travels/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-17-timeless-travels.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raging-battles
+DTSTAMP:20230911T061100Z
+DTSTART:20240119T180000Z
+DTEND:20240125T040000Z
+SUMMARY:[Event] Raging Battles
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raging-battles/
+URL:https://leekduck.com/events/raging-battles/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raging-battles-annih
+ ilape.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_great-league_ultra-league_master-league-2
+DTSTAMP:20230911T061100Z
+DTSTART:20240119T210000Z
+DTEND:20240126T210000Z
+SUMMARY:[GO Battle League] Great League\, Ultra League and Master League |
+  Timeless Travels
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-timeless-travels_great-l
+ eague_ultra-league_master-league-2/
+URL:https://leekduck.com/events/gbl-timeless-travels_great-league_ultra-lea
+ gue_master-league-2/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-17-timeless-travels.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-january-27-28-season-17
+DTSTAMP:20230911T061100Z
+DTSTART:20240127T180000Z
+DTEND:20240129T040000Z
+SUMMARY:[Event] Unannounced Event - January 27-28
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/unannounced-january-27-28-se
+ ason-17/
+URL:https://leekduck.com/events/unannounced-january-27-28-season-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-ho-oh-in-shadow-raids-timeless-travels
+DTSTAMP:20230911T061100Z
+DTSTART:20240127T140000Z
+DTEND:20240129T060000Z
+SUMMARY:[Raid Battles] Shadow Ho-Oh in Shadow Raids
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/shadow-ho-oh-in-shadow-raids
+ -timeless-travels/
+URL:https://leekduck.com/events/shadow-ho-oh-in-shadow-raids-timeless-trave
+ ls/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-01-30
+DTSTAMP:20230911T061100Z
+DTSTART:20240131T020000Z
+DTEND:20240131T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Foongus Spotlight Hour (2× Catch
+  Stardust)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-01-
+ 30/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-01-30/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-steelix-in-mega-raids-january-2024
+DTSTAMP:20230911T061100Z
+DTSTART:20240124T180000Z
+DTEND:20240131T180000Z
+SUMMARY:[Raid Battles] Mega Steelix in Mega Raids
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/mega-steelix-in-mega-raids-j
+ anuary-2024/
+URL:https://leekduck.com/events/mega-steelix-in-mega-raids-january-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:landorus-therian-forme-in-5-star-raid-battles-january-2024
+DTSTAMP:20230911T061100Z
+DTSTART:20240124T180000Z
+DTEND:20240131T180000Z
+SUMMARY:[Raid Battles] Landorus (Therian Forme) in 5-star Raid Battles
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/landorus-therian-forme-in-5-
+ star-raid-battles-january-2024/
+URL:https://leekduck.com/events/landorus-therian-forme-in-5-star-raid-battl
+ es-january-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/therian-forme-tornad
+ us.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eggspedition-access-january-ticket
+DTSTAMP:20230911T061100Z
+DTSTART:20240101T180000Z
+DTEND:20240201T040000Z
+SUMMARY:[Ticketed Event] Eggs-pedition Access: January
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/eggspedition-access-january-
+ ticket/
+URL:https://leekduck.com/events/eggspedition-access-january-ticket/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/eggspedition-access-
+ january.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:taken-treasure
+DTSTAMP:20230911T061100Z
+DTSTART:20240127T080000Z
+DTEND:20240202T075959Z
+SUMMARY:[Event] Taken Treasure
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/taken-treasure/
+URL:https://leekduck.com/events/taken-treasure/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_great-league_hisui-cup-great-league-edition
+DTSTAMP:20230911T061100Z
+DTSTART:20240126T210000Z
+DTEND:20240202T210000Z
+SUMMARY:[GO Battle League] Great League and Hisui Cup: Great League Edition
+  | Timeless Travels
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-timeless-travels_great-l
+ eague_hisui-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-timeless-travels_great-league_hisui-cup
+ -great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattle-greatleague
+ -key.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:february-communityday2024
+DTSTAMP:20230911T061100Z
+DTSTART:20240204T220000Z
+DTEND:20240205T010000Z
+SUMMARY:[Community Day] Chansey Community Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/february-communityday2024/
+URL:https://leekduck.com/events/february-communityday2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-02-chansey.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-chansey-blissey-2024-02-04
+DTSTAMP:20230911T061100Z
+DTSTART:20240204T220000Z
+DTEND:20240205T040000Z
+SUMMARY:[PokéStop Showcase] Chansey and Blissey PokéStop Showcases
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-showcase-chansey-bli
+ ssey-2024-02-04/
+URL:https://leekduck.com/events/pokemon-showcase-chansey-blissey-2024-02-04
+ /
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_ultra-league_hisui-cup-great-league-edition
+DTSTAMP:20230911T061100Z
+DTSTART:20240202T210000Z
+DTEND:20240209T210000Z
+SUMMARY:[GO Battle League] Ultra League and Hisui Cup: Great League Edition
+  | Timeless Travels
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-timeless-travels_ultra-l
+ eague_hisui-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-timeless-travels_ultra-league_hisui-cup
+ -great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-ult
+ ra-league-machamp-swampert.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-battle-day-timeless-travels
+DTSTAMP:20230911T061100Z
+DTSTART:20240210T080000Z
+DTEND:20240211T075959Z
+SUMMARY:[Event] Timeless Travels: GO Battle Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-day-timeless-trave
+ ls/
+URL:https://leekduck.com/events/go-battle-day-timeless-travels/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-17-timeless-travels.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-february-11-season-17
+DTSTAMP:20230911T061100Z
+DTSTART:20240211T220000Z
+DTEND:20240212T010000Z
+SUMMARY:[Event] Unannounced Event - February 11
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/unannounced-february-11-seas
+ on-17/
+URL:https://leekduck.com/events/unannounced-february-11-season-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_master-league_evolution-cup-great-league-edition
+DTSTAMP:20230911T061100Z
+DTSTART:20240209T210000Z
+DTEND:20240216T210000Z
+SUMMARY:[GO Battle League] Master League and Evolution Cup: Great League
+  Edition | Timeless Travels
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-timeless-travels_master-
+ league_evolution-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-timeless-travels_master-league_evolutio
+ n-cup-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/gobattleleague-maste
+ r-key.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-tour-sinnoh-los-angeles
+DTSTAMP:20230911T061100Z
+DTSTART:20240217T170000Z
+DTEND:20240218T010000Z
+SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Sinnoh - Los Angeles
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-sinnoh-los-a
+ ngeles/
+URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-los-angeles/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-sinn
+ oh-los-angeles.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_catch-cup-little-edition_catch-cup-great-league-ed
+ ition
+DTSTAMP:20230911T061100Z
+DTSTART:20240216T210000Z
+DTEND:20240223T210000Z
+SUMMARY:[GO Battle League] Catch Cup: Little Edition and Catch Cup: Great
+  League Edition | Timeless Travels
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-timeless-travels_catch-c
+ up-little-edition_catch-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-timeless-travels_catch-cup-little-editi
+ on_catch-cup-great-league-edition/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-17-timeless-travels.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-tour-sinnoh-global
+DTSTAMP:20230911T061100Z
+DTSTART:20240224T180000Z
+DTEND:20240226T020000Z
+SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Sinnoh - Global
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-sinnoh-globa
+ l/
+URL:https://leekduck.com/events/pokemon-go-tour-sinnoh-global/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-tour-sinn
+ oh-global.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-13-timeless-travels-research-breakthrough
+DTSTAMP:20230911T061100Z
+DTSTART:20231201T180000Z
+DTEND:20240301T180000Z
+SUMMARY:[Research Breakthrough] Timeless Travels Research Breakthrough
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/season-13-timeless-travels-r
+ esearch-breakthrough/
+URL:https://leekduck.com/events/season-13-timeless-travels-research-breakth
+ rough/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/researchWinter.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-13-timeless-travels
+DTSTAMP:20230911T061100Z
+DTSTART:20231201T180000Z
+DTEND:20240301T180000Z
+SUMMARY:[Season] Timeless Travels
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/season-13-timeless-travels/
+URL:https://leekduck.com/events/season-13-timeless-travels/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/season-13-timeless-t
+ ravels.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-timeless-travels_great-league_ultra-league_master-league-3
+DTSTAMP:20230911T061100Z
+DTSTART:20240223T210000Z
+DTEND:20240301T210000Z
+SUMMARY:[GO Battle League] Great League\, Ultra League and Master League |
+  Timeless Travels
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gbl-timeless-travels_great-l
+ eague_ultra-league_master-league-3/
+URL:https://leekduck.com/events/gbl-timeless-travels_great-league_ultra-lea
+ gue_master-league-3/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
+ son-17-timeless-travels.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
