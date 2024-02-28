@@ -9,41 +9,8 @@ X-WR-TIMEZONE:America/Los_Angeles
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-02-27
-DTSTAMP:20240227T163607Z
-DTSTART:20240228T020000Z
-DTEND:20240228T030000Z
-SUMMARY:[Pokémon Spotlight Hour] Sandshrew and Alolan Sandshrew Spotlight
-  Hour (2× Transfer Candy and Increased Transfer Candy XL Chance)
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-02-
- 27/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-02-27/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-day-2024
-DTSTAMP:20240227T163607Z
-DTSTART:20240227T140000Z
-DTEND:20240228T140000Z
-SUMMARY:[Event] Pokémon Day 2024
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-day-2024/
-URL:https://leekduck.com/events/pokemon-day-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-day-2024.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20240228
-DTSTAMP:20240227T163607Z
+DTSTAMP:20240228T203456Z
 DTSTART:20240229T020000Z
 DTEND:20240229T030000Z
 SUMMARY:[Raid Hour] Cresselia and Heatran Raid Hour
@@ -57,8 +24,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-day-2024
+DTSTAMP:20240228T203456Z
+DTSTART:20240227T140000Z
+DTEND:20240229T180000Z
+SUMMARY:[Event] Pokémon Day 2024
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-day-2024/
+URL:https://leekduck.com/events/pokemon-day-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-day-2024.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:eggspedition-access-february-ticket
-DTSTAMP:20240227T163607Z
+DTSTAMP:20240228T203456Z
 DTSTART:20240201T180000Z
 DTEND:20240301T040000Z
 SUMMARY:[Ticketed Event] Eggs-pedition Access: February
@@ -75,7 +57,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-march-3
-DTSTAMP:20240227T163607Z
+DTSTAMP:20240228T203456Z
 DTSTART:20240303T220000Z
 DTEND:20240304T010000Z
 SUMMARY:[Event] Unannounced Event on March 3
@@ -92,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-horizons-the-series-celebration-event
-DTSTAMP:20240227T163607Z
+DTSTAMP:20240228T203456Z
 DTSTART:20240305T180000Z
 DTEND:20240312T030000Z
 SUMMARY:[Event] Pokémon Horizons: The Series Celebration Event
@@ -109,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-communityday2024
-DTSTAMP:20240227T163607Z
+DTSTAMP:20240228T203456Z
 DTSTART:20240316T210000Z
 DTEND:20240317T000000Z
 SUMMARY:[Community Day] March Community Day
@@ -124,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communitydayclassic2024
-DTSTAMP:20240227T163607Z
+DTSTAMP:20240228T203456Z
 DTSTART:20240407T210000Z
 DTEND:20240408T000000Z
 SUMMARY:[Community Day] April Community Day Classic
@@ -140,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-13
-DTSTAMP:20240227T163607Z
+DTSTAMP:20240228T203456Z
 DTSTART:20240413T210000Z
 DTEND:20240414T000000Z
 SUMMARY:[Event] Unannounced Event on April 13
@@ -157,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2024
-DTSTAMP:20240227T163607Z
+DTSTAMP:20240228T203456Z
 DTSTART:20240420T210000Z
 DTEND:20240421T000000Z
 SUMMARY:[Community Day] April Community Day
@@ -172,7 +154,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-april-28
-DTSTAMP:20240227T163607Z
+DTSTAMP:20240228T203456Z
 DTSTART:20240428T210000Z
 DTEND:20240429T000000Z
 SUMMARY:[Event] Unannounced Event on April 28
@@ -189,7 +171,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-season18-event-may-11
-DTSTAMP:20240227T163607Z
+DTSTAMP:20240228T203456Z
 DTSTART:20240511T210000Z
 DTEND:20240512T000000Z
 SUMMARY:[Event] Unannounced Event on May 11
@@ -198,6 +180,29 @@ DESCRIPTION:See more details at
  ay-11/
 URL:https://leekduck.com/events/unannounced-season18-event-may-11/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:may-communityday2024
+DTSTAMP:20240228T203456Z
+DTSTART:20240519T210000Z
+DTEND:20240520T000000Z
+SUMMARY:[Community Day] May Community Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/may-communityday2024/
+URL:https://leekduck.com/events/may-communityday2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+s://leekduck.com/assets/img/events/events-default-img.j
  pg
 BEGIN:VALARM
 ACTION:DISPLAY
