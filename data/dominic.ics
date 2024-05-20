@@ -9,40 +9,8 @@ X-WR-TIMEZONE:America/Los_Angeles
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:may-communityday2024
-DTSTAMP:20240519T014117Z
-DTSTART:20240519T210000Z
-DTEND:20240520T000000Z
-SUMMARY:[Community Day] Bounsweet Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/may-communityday2024/
-URL:https://leekduck.com/events/may-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-05-bounsweet
- -temp.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:catching-wonders
-DTSTAMP:20240519T014117Z
-DTSTART:20240514T170000Z
-DTEND:20240520T030000Z
-SUMMARY:[Event] Catching Wonders - Masterball Masterwork Research
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/catching-wonders/
-URL:https://leekduck.com/events/catching-wonders/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/catching-wonders-mas
- terball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2024-05-21
-DTSTAMP:20240519T014117Z
+DTSTAMP:20240520T203447Z
 DTSTART:20240522T010000Z
 DTEND:20240522T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Elgyem Spotlight Hour (2× Catch
@@ -60,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240522
-DTSTAMP:20240519T014117Z
+DTSTAMP:20240520T203447Z
 DTSTART:20240523T010000Z
 DTEND:20240523T020000Z
 SUMMARY:[Raid Hour] Regirock Raid Hour
@@ -75,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ferroseed-incense-day
-DTSTAMP:20240519T014117Z
+DTSTAMP:20240520T203447Z
 DTSTART:20240526T180000Z
 DTEND:20240527T000000Z
 SUMMARY:[Event] Ferroseed Incense Day
@@ -91,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-05-28
-DTSTAMP:20240519T014117Z
+DTSTAMP:20240520T203447Z
 DTSTART:20240529T010000Z
 DTEND:20240529T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Mareanie Spotlight Hour (2× Catch XP)
@@ -108,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-space-wonders
-DTSTAMP:20240519T014117Z
+DTSTAMP:20240520T203447Z
 DTSTART:20240523T170000Z
 DTEND:20240529T030000Z
 SUMMARY:[Event] Ultra Space Wonders
@@ -124,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240529
-DTSTAMP:20240519T014117Z
+DTSTAMP:20240520T203447Z
 DTSTART:20240530T010000Z
 DTEND:20240530T020000Z
 SUMMARY:[Raid Hour] Blacephalon and Stakataka Raid Hour
@@ -139,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-pokecoin-field-research-ticket
-DTSTAMP:20240519T014117Z
+DTSTAMP:20240520T203447Z
 DTSTART:20240516T070000Z
 DTEND:20240531T065959Z
 SUMMARY:[Ticketed Event] Daily PokéCoin Field Research Ticket
@@ -153,28 +121,47 @@ ACTION:DISPLAY
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
-END:VCALENDAR
-013638Z
-DTSTART:20240516T070000Z
-DTEND:20240531T065959Z
-SUMMARY:[Ticketed Event] Daily PokéCoin Field Research Ticket
+BEGIN:VEVENT
+UID:june-communityday2024
+DTSTAMP:20240520T203447Z
+DTSTART:20240609T210000Z
+DTEND:20240610T000000Z
+SUMMARY:[Community Day] June Community Day
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/daily-pokecoin-field-researc
- h-ticket/
-URL:https://leekduck.com/events/daily-pokecoin-field-research-ticket/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/daily-pokecoins.jpg
+  LeekDuck.com:\n\nhttps://leekduck.com/events/june-communityday2024/
+URL:https://leekduck.com/events/june-communityday2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
-END:VCALENDAR
-0Z
-DTEND:20240529T030000Z
-SUMMARY:[Event] Ultra Space Wonders
+BEGIN:VEVENT
+UID:june-communitydayclassic2024
+DTSTAMP:20240520T203447Z
+DTSTART:20240622T210000Z
+DTEND:20240623T000000Z
+SUMMARY:[Community Day] June Community Day Classic
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/ultra-space-wonders/
-URL:https://leekduck.com/events/ultra-space-wonders/
+  LeekDuck.com:\n\nhttps://leekduck.com/events/june-communitydayclassic2024
+ /
+URL:https://leekduck.com/events/june-communitydayclassic2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-raid-day-season15
+DTSTAMP:20240520T203447Z
+DTSTART:20240629T210000Z
+DTEND:20240630T000000Z
+SUMMARY:[Event] Unannounced Raid Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/unannounced-raid-day-season1
+ 5/
+URL:https://leekduck.com/events/unannounced-raid-day-season15/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 BEGIN:VALARM
@@ -183,37 +170,30 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:raidhour20240529
-DTSTAMP:20240509T124706Z
-DTSTART:20240530T010000Z
-DTEND:20240530T020000Z
-SUMMARY:[Raid Hour] Blacephalon and Stakataka Raid Hour
+UID:july-communityday2024
+DTSTAMP:20240520T203447Z
+DTSTART:20240721T210000Z
+DTEND:20240722T000000Z
+SUMMARY:[Community Day] July Community Day
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20240529/
-URL:https://leekduck.com/events/raidhour20240529/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+  LeekDuck.com:\n\nhttps://leekduck.com/events/july-communityday2024/
+URL:https://leekduck.com/events/july-communityday2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
-END:VCALENDAR
-529
-DTSTAMP:20240509T083621Z
-DTSTART:20240530T010000Z
-DTEND:20240530T020000Z
-SUMMARY:[Raid Hour] Blacephalon and Stakataka Raid Hour
+BEGIN:VEVENT
+UID:unannounced-season15-event
+DTSTAMP:20240520T203447Z
+DTSTART:20240727T170000Z
+DTEND:20240728T030000Z
+SUMMARY:[Event] Unannounced Event
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20240529/
-URL:https://leekduck.com/events/raidhour20240529/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-ault-img.j
+  LeekDuck.com:\n\nhttps://leekduck.com/events/unannounced-season15-event/
+URL:https://leekduck.com/events/unannounced-season15-event/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -221,15 +201,32 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:raidhour20240529
-DTSTAMP:20240508T011529Z
-DTSTART:20240530T010000Z
-DTEND:20240530T020000Z
-SUMMARY:[Raid Hour] Blacephalon and Stakataka Raid Hour
+UID:unannounced-shadow-raid-weekend-season15
+DTSTAMP:20240520T203447Z
+DTSTART:20240810T130000Z
+DTEND:20240812T050000Z
+SUMMARY:[Event] Unannounced Shadow Raid Weekend
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20240529/
-URL:https://leekduck.com/events/raidhour20240529/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+  LeekDuck.com:\n\nhttps://leekduck.com/events/unannounced-shadow-raid-week
+ end-season15/
+URL:https://leekduck.com/events/unannounced-shadow-raid-weekend-season15/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:august-communityday2024
+DTSTAMP:20240520T203447Z
+DTSTART:20240831T210000Z
+DTEND:20240901T000000Z
+SUMMARY:[Community Day] August Community Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/august-communityday2024/
+URL:https://leekduck.com/events/august-communityday2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -237,12 +234,6 @@ END:VALARM
 END:VEVENT
 END:VCALENDAR
 
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raidhour20240529
-DTSTAMP:20240504T203345Z
 DTSTART:20240530T010000Z
 DTEND:20240530T020000Z
 SUMMARY:[Raid Hour] Blacephalon and Stakataka Raid Hour
