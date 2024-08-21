@@ -9,59 +9,8 @@ X-WR-TIMEZONE:America/Los_Angeles
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-08-20
-DTSTAMP:20240821T014536Z
-DTSTART:20240821T010000Z
-DTEND:20240821T020000Z
-SUMMARY:[Pokémon Spotlight Hour] Mankey Spotlight Hour (2× Transfer
-  Candy)
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-08-
- 20/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-08-20/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-world-championships-2024
-DTSTAMP:20240821T014536Z
-DTSTART:20240816T170000Z
-DTEND:20240821T030000Z
-SUMMARY:[Event] 2024 Pokémon World Championship Celebration
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-world-championships-
- 2024/
-URL:https://leekduck.com/events/pokemon-world-championships-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemon-go-world-cha
- mpionship-2024.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-battle-week-shared-skies
-DTSTAMP:20240821T014536Z
-DTSTART:20240816T070000Z
-DTEND:20240821T065900Z
-SUMMARY:[Event] GO Battle Week: Shared Skies
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-shared-skies/
-URL:https://leekduck.com/events/go-battle-week-shared-skies/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
- son-19-shared-skies.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20240821
-DTSTAMP:20240821T014536Z
+DTSTAMP:20240821T203557Z
 DTSTART:20240822T010000Z
 DTEND:20240822T020000Z
 SUMMARY:[Raid Hour] Xerneas Raid Hour
@@ -76,7 +25,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-08-27
-DTSTAMP:20240821T014536Z
+DTSTAMP:20240821T203557Z
 DTSTART:20240828T010000Z
 DTEND:20240828T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Magnemite Spotlight Hour (2× Evolution
@@ -94,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20240828
-DTSTAMP:20240821T014536Z
+DTSTAMP:20240821T203557Z
 DTSTART:20240829T010000Z
 DTEND:20240829T020000Z
 SUMMARY:[Raid Hour] Xerneas Raid Hour
@@ -109,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:triumph-together
-DTSTAMP:20240821T014536Z
+DTSTAMP:20240821T203557Z
 DTSTART:20240823T220000Z
 DTEND:20240831T065900Z
 SUMMARY:[Event] Triumph Together
@@ -124,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2024
-DTSTAMP:20240821T014536Z
+DTSTAMP:20240821T203557Z
 DTSTART:20240831T210000Z
 DTEND:20240901T000000Z
 SUMMARY:[Community Day] Popplio Community Day
@@ -140,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-raid-day-september-2024
-DTSTAMP:20240821T014536Z
+DTSTAMP:20240821T203557Z
 DTSTART:20240908T210000Z
 DTEND:20240909T000000Z
 SUMMARY:[Raid Day] Unannounced Raid Day
@@ -157,14 +106,69 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:september-communityday2024
-DTSTAMP:20240821T014536Z
+DTSTAMP:20240821T203557Z
 DTSTART:20240914T210000Z
 DTEND:20240915T000000Z
 SUMMARY:[Community Day] Ponyta Community Day
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/september-communityday2024/
 URL:https://leekduck.com/events/september-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-09-ponyta-te
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-09-ponyta.jp
+ g
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:october-communityday2024
+DTSTAMP:20240821T203557Z
+DTSTART:20241005T210000Z
+DTEND:20241006T000000Z
+SUMMARY:[Community Day] October Community Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/october-communityday2024/
+URL:https://leekduck.com/events/october-communityday2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-raid-day-october-2024
+DTSTAMP:20240821T203557Z
+DTSTART:20241012T210000Z
+DTEND:20241013T000000Z
+SUMMARY:[Raid Day] Unannounced Raid Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/unannounced-raid-day-october
+ -2024/
+URL:https://leekduck.com/events/unannounced-raid-day-october-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:november-communityday2024
+DTSTAMP:20240821T203557Z
+DTSTART:20241110T220000Z
+DTEND:20241111T010000Z
+SUMMARY:[Community Day] November Community Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
+URL:https://leekduck.com/events/november-communityday2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+duck.com/assets/img/events/cd-2024-09-ponyta-te
  mp.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
