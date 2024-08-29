@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:raidhour20240828
-DTSTAMP:20240828T203426Z
+DTSTAMP:20240829T015019Z
 DTSTART:20240829T010000Z
 DTEND:20240829T020000Z
 SUMMARY:[Raid Hour] Xerneas Raid Hour
@@ -25,7 +25,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:triumph-together
-DTSTAMP:20240828T203426Z
+DTSTAMP:20240829T015019Z
 DTSTART:20240823T220000Z
 DTEND:20240831T065900Z
 SUMMARY:[Event] Triumph Together
@@ -40,7 +40,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2024
-DTSTAMP:20240828T203426Z
+DTSTAMP:20240829T015019Z
 DTSTART:20240831T210000Z
 DTEND:20240901T000000Z
 SUMMARY:[Community Day] Popplio Community Day
@@ -56,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-09-03
-DTSTAMP:20240828T203426Z
+DTSTAMP:20240829T015019Z
 DTSTART:20240904T010000Z
 DTEND:20240904T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Wooloo Spotlight Hour (2× Evolution XP)
@@ -72,15 +72,30 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-raid-day-september-2024
-DTSTAMP:20240828T203426Z
+UID:raidhour20240904
+DTSTAMP:20240829T015019Z
+DTSTART:20240905T010000Z
+DTEND:20240905T020000Z
+SUMMARY:[Raid Hour] Kyogre Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20240904/
+URL:https://leekduck.com/events/raidhour20240904/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:falinks-raid-day-september-2024
+DTSTAMP:20240829T015019Z
 DTSTART:20240908T210000Z
 DTEND:20240909T000000Z
-SUMMARY:[Raid Day] Unannounced Raid Day
+SUMMARY:[Raid Day] Falinks Raid Day
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/unannounced-raid-day-septemb
- er-2024/
-URL:https://leekduck.com/events/unannounced-raid-day-september-2024/
+  LeekDuck.com:\n\nhttps://leekduck.com/events/falinks-raid-day-september-2
+ 024/
+URL:https://leekduck.com/events/falinks-raid-day-september-2024/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
 BEGIN:VALARM
@@ -90,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-all-out
-DTSTAMP:20240828T203426Z
+DTSTAMP:20240829T015019Z
 DTSTART:20240903T170000Z
 DTEND:20240910T170000Z
 SUMMARY:[Event] GO All Out
@@ -105,7 +120,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-09-10
-DTSTAMP:20240828T203426Z
+DTSTAMP:20240829T015019Z
 DTSTART:20240911T010000Z
 DTEND:20240911T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Dewpider Spotlight Hour (2× Catch
@@ -122,8 +137,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raidhour20240911
+DTSTAMP:20240829T015019Z
+DTSTART:20240912T010000Z
+DTEND:20240912T020000Z
+SUMMARY:[Raid Hour] Kyogre Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20240911/
+URL:https://leekduck.com/events/raidhour20240911/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:september-communityday2024
-DTSTAMP:20240828T203426Z
+DTSTAMP:20240829T015019Z
 DTSTART:20240914T210000Z
 DTEND:20240915T000000Z
 SUMMARY:[Community Day] Ponyta Community Day
@@ -139,7 +169,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-big-dynamax
-DTSTAMP:20240828T203426Z
+DTSTAMP:20240829T015019Z
 DTSTART:20240910T170000Z
 DTEND:20240916T030000Z
 SUMMARY:[Event] GO Big
@@ -154,7 +184,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-09-17
-DTSTAMP:20240828T203426Z
+DTSTAMP:20240829T015019Z
 DTSTART:20240918T010000Z
 DTEND:20240918T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Wobbuffet Spotlight Hour (2× Catch XP)
@@ -170,8 +200,39 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raidhour20240918
+DTSTAMP:20240829T015019Z
+DTSTART:20240919T010000Z
+DTEND:20240919T020000Z
+SUMMARY:[Raid Hour] Groudon Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20240918/
+URL:https://leekduck.com/events/raidhour20240918/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psychic-spectacular-2024
+DTSTAMP:20240829T015019Z
+DTSTART:20240918T170000Z
+DTEND:20240923T030000Z
+SUMMARY:[Event] Psychic Spectacular 2024
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/psychic-spectacular-2024/
+URL:https://leekduck.com/events/psychic-spectacular-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemonspotlighthour2024-09-24
-DTSTAMP:20240828T203426Z
+DTSTAMP:20240829T015019Z
 DTSTART:20240925T010000Z
 DTEND:20240925T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Machop Spotlight Hour (2× Catch Candy)
@@ -187,8 +248,39 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raidhour20240925
+DTSTAMP:20240829T015019Z
+DTSTART:20240926T010000Z
+DTEND:20240926T020000Z
+SUMMARY:[Raid Hour] Groudon Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20240925/
+URL:https://leekduck.com/events/raidhour20240925/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:legendary-heroes
+DTSTAMP:20240829T015019Z
+DTSTART:20240926T170000Z
+DTEND:20241002T030000Z
+SUMMARY:[Event] Legendary Heroes
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/legendary-heroes/
+URL:https://leekduck.com/events/legendary-heroes/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:october-communityday2024
-DTSTAMP:20240828T203426Z
+DTSTAMP:20240829T015019Z
 DTSTART:20241005T210000Z
 DTEND:20241006T000000Z
 SUMMARY:[Community Day] October Community Day
@@ -203,7 +295,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-raid-day-october-2024
-DTSTAMP:20240828T203426Z
+DTSTAMP:20240829T015019Z
 DTSTART:20241012T210000Z
 DTEND:20241013T000000Z
 SUMMARY:[Raid Day] Unannounced Raid Day
@@ -220,7 +312,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2024
-DTSTAMP:20240828T203426Z
+DTSTAMP:20240829T015019Z
 DTSTART:20241110T220000Z
 DTEND:20241111T010000Z
 SUMMARY:[Community Day] November Community Day
@@ -234,100 +326,7 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
-g/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-nityday2024
-DTSTAMP:20240814T203350Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] November Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-:VEVENT
-UID:unannounced-raid-day-october-2024
-DTSTAMP:20240813T043635Z
-DTSTART:20241012T210000Z
-DTEND:20241013T000000Z
-SUMMARY:[Raid Day] Unannounced Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/unannounced-raid-day-october
- -2024/
-URL:https://leekduck.com/events/unannounced-raid-day-october-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:november-communityday2024
-DTSTAMP:20240813T043635Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] November Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-20240808T014546Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] November Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-ttps://leekduck.com/events/august-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-08-popplio.j
- pg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
- Raid Weekend
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/unannounced-shadow-raid-week
- end-season15/
-URL:https://leekduck.com/events/unannounced-shadow-raid-weekend-season15/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-battle-week-shared-skies
-DTSTAMP:20240710T014304Z
-DTSTART:20240816T070000Z
+TSTART:20240816T070000Z
 DTEND:20240821T065900Z
 SUMMARY:[Event] GO Battle Weekend: Shared Skies
 DESCRIPTION:See more details at
