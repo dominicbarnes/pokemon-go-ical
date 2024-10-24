@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2024-part-1
-DTSTAMP:20241024T125812Z
+DTSTAMP:20241024T203632Z
 DTSTART:20241022T170000Z
 DTEND:20241028T170000Z
 SUMMARY:[Event] Pokémon GO Halloween 2024 - Part I
@@ -27,7 +27,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-10-29
-DTSTAMP:20241024T125812Z
+DTSTAMP:20241024T203632Z
 DTSTART:20241030T010000Z
 DTEND:20241030T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Unannoucned Spotlight Hour
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241030
-DTSTAMP:20241024T125812Z
+DTSTAMP:20241024T203632Z
 DTSTART:20241031T010000Z
 DTEND:20241031T020000Z
 SUMMARY:[Raid Hour] Darkrai Raid Hour
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-pokecoin-bounty-ticket-max-out-part-2
-DTSTAMP:20241024T125812Z
+DTSTAMP:20241024T203632Z
 DTSTART:20241003T070000Z
 DTEND:20241102T185959Z
 SUMMARY:[Ticketed Event] Daily PokéCoin Bounty Part 2 Ticket
@@ -77,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannnounced-event-max-out-2
-DTSTAMP:20241024T125812Z
+DTSTAMP:20241024T203632Z
 DTSTART:20241031T170000Z
 DTEND:20241104T040000Z
 SUMMARY:[Event] Unannounced Event
@@ -94,7 +94,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2024-part-2
-DTSTAMP:20241024T125812Z
+DTSTAMP:20241024T203632Z
 DTSTART:20241028T170000Z
 DTEND:20241104T040000Z
 SUMMARY:[Event] Pokémon GO Halloween 2024 - Part II
@@ -111,7 +111,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-weekend-max-out
-DTSTAMP:20241024T125812Z
+DTSTAMP:20241024T203632Z
 DTSTART:20241102T070000Z
 DTEND:20241104T075900Z
 SUMMARY:[Event] GO Battle Weekend: Max Out
@@ -127,7 +127,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-de-muertos-2024
-DTSTAMP:20241024T125812Z
+DTSTAMP:20241024T203632Z
 DTSTART:20241101T170000Z
 DTEND:20241105T040000Z
 SUMMARY:[Event] Día de Muertos 2024 (Latin America)
@@ -143,7 +143,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-lights-2024
-DTSTAMP:20241024T125812Z
+DTSTAMP:20241024T203632Z
 DTSTART:20241101T170000Z
 DTEND:20241105T040000Z
 SUMMARY:[Event] Festival of Lights 2024 (India Only)
@@ -158,8 +158,41 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2024-11-05
+DTSTAMP:20241024T203632Z
+DTSTART:20241106T020000Z
+DTEND:20241106T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Surskit Spotlight Hour (2× Transfer
+  Candy)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-11-
+ 05/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-11-05/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241106
+DTSTAMP:20241024T203632Z
+DTSTART:20241107T020000Z
+DTEND:20241107T030000Z
+SUMMARY:[Raid Hour] Lugia Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20241106/
+URL:https://leekduck.com/events/raidhour20241106/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:november-communityday2024
-DTSTAMP:20241024T125812Z
+DTSTAMP:20241024T203632Z
 DTSTART:20241110T220000Z
 DTEND:20241111T010000Z
 SUMMARY:[Community Day] Mankey Community Day
@@ -173,251 +206,214 @@ ACTION:DISPLAY
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
-END:VCALENDAR
-ND:VEVENT
 BEGIN:VEVENT
-UID:festival-of-lights-2024
-DTSTAMP:20241023T015711Z
-DTSTART:20241101T170000Z
-DTEND:20241105T040000Z
-SUMMARY:[Event] Festival of Lights 2024 (India Only)
+UID:pokemonspotlighthour2024-11-12
+DTSTAMP:20241024T203632Z
+DTSTART:20241113T020000Z
+DTEND:20241113T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Smoliv Spotlight Hour (2× Evolution XP)
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/festival-of-lights-2024/
-URL:https://leekduck.com/events/festival-of-lights-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/festival-of-lights-2
- 024-pikachu.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:november-communityday2024
-DTSTAMP:20241023T015711Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] Mankey Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-11-mankey.jp
- g
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-END:VEVENT
-BEGIN:VEVENT
-UID:november-communityday2024
-DTSTAMP:20241018T203601Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] Mankey Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-11-mankey.jp
- g
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] Mankey Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-11-mankey.jp
- g
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-STAMP:20241017T015736Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] Mankey Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-11-mankey.jp
- g
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-GER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:november-communityday2024
-DTSTAMP:20241015T044021Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] Mankey Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-11-mankey.jp
- g
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-mber-communityday2024
-DTSTAMP:20241015T015853Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] Mankey Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-11-mankey.jp
- g
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-9Z
-DTSTART:20241101T170000Z
-DTEND:20241105T040000Z
-SUMMARY:[Event] Festival of Lights 2024 (India Only)
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/festival-of-lights-2024/
-URL:https://leekduck.com/events/festival-of-lights-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/festival-of-lights-2
- 024.jpg
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-11-
+ 12/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-11-12/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:november-communityday2024
-DTSTAMP:20241012T083819Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] Mankey Community Day
+UID:harvest-festival-2024
+DTSTAMP:20241024T203632Z
+DTSTART:20241107T180000Z
+DTEND:20241113T040000Z
+SUMMARY:[Event] Harvest Festival 2024
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-2024-11-mankey.jp
- g
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-R
-ENDAR
-ENT
-UID:november-communityday2024
-DTSTAMP:20241005T043939Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] November Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-0241003T044125Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] November Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:november-communityday2024
-DTSTAMP:20241002T203802Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] November Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-battle-weekend-max-out
-DTSTAMP:20241002T015702Z
-DTSTART:20241102T070000Z
-DTEND:20241104T075900Z
-SUMMARY:[Event] GO Battle Weekend: Max Out
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-weekend-max-out/
-URL:https://leekduck.com/events/go-battle-weekend-max-out/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
- son-20-max-out.jpg
+  LeekDuck.com:\n\nhttps://leekduck.com/events/harvest-festival-2024/
+URL:https://leekduck.com/events/harvest-festival-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/harvest-festival.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:november-communityday2024
-DTSTAMP:20241002T015702Z
-DTSTART:20241110T220000Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] November Community Day
+UID:raidhour20241113
+DTSTAMP:20241024T203632Z
+DTSTART:20241114T020000Z
+DTEND:20241114T030000Z
+SUMMARY:[Raid Hour] Lugia Raid Hour
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20241113/
+URL:https://leekduck.com/events/raidhour20241113/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:simply-groundbreaking
+DTSTAMP:20241024T203632Z
+DTSTART:20241115T180000Z
+DTEND:20241118T040000Z
+SUMMARY:[Event] Simply Groundbreaking
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/simply-groundbreaking/
+URL:https://leekduck.com/events/simply-groundbreaking/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241119
+DTSTAMP:20241024T203632Z
+DTSTART:20241120T020000Z
+DTEND:20241120T030000Z
+SUMMARY:[Raid Hour] Nihilego Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20241119/
+URL:https://leekduck.com/events/raidhour20241119/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-11-19
+DTSTAMP:20241024T203632Z
+DTSTART:20241120T020000Z
+DTEND:20241120T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Teddiursa and Combee Spotlight Hour (2×
+  Catch Stardust)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-11-
+ 19/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-11-19/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241120
+DTSTAMP:20241024T203632Z
+DTSTART:20241121T020000Z
+DTEND:20241121T030000Z
+SUMMARY:[Raid Hour] Tapu Koko Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20241120/
+URL:https://leekduck.com/events/raidhour20241120/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241121
+DTSTAMP:20241024T203632Z
+DTSTART:20241122T020000Z
+DTEND:20241122T030000Z
+SUMMARY:[Raid Hour] Origin Forme Dialga Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20241121/
+URL:https://leekduck.com/events/raidhour20241121/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241122
+DTSTAMP:20241024T203632Z
+DTSTART:20241123T020000Z
+DTEND:20241123T030000Z
+SUMMARY:[Raid Hour] Origin Forme Palkia Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20241122/
+URL:https://leekduck.com/events/raidhour20241122/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:into-the-wild
+DTSTAMP:20241024T203632Z
+DTSTART:20241118T080000Z
+DTEND:20241123T075900Z
+SUMMARY:[Event] Into the Wild
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/into-the-wild/
+URL:https://leekduck.com/events/into-the-wild/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-11-26
+DTSTAMP:20241024T203632Z
+DTSTART:20241127T020000Z
+DTEND:20241127T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Joltik Spotlight Hour (2× Catch XP)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-11-
+ 26/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-11-26/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241127
+DTSTAMP:20241024T203632Z
+DTSTART:20241128T020000Z
+DTEND:20241128T030000Z
+SUMMARY:[Raid Hour] Zacian\, Zamazenta\, Regieleki\, and Regidrago Raid
+  Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20241127/
+URL:https://leekduck.com/events/raidhour20241127/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-out-finale
+DTSTAMP:20241024T203632Z
+DTSTART:20241127T080000Z
+DTEND:20241202T075900Z
+SUMMARY:[Event] Max Out: Finale
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-out-finale/
+URL:https://leekduck.com/events/max-out-finale/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
-00Z
-DTEND:20241111T010000Z
-SUMMARY:[Community Day] November Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2024/
-URL:https://leekduck.com/events/november-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
