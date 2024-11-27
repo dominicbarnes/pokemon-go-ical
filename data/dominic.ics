@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:raidhour20241127
-DTSTAMP:20241127T130111Z
+DTSTAMP:20241127T164519Z
 DTSTART:20241128T020000Z
 DTEND:20241128T030000Z
 SUMMARY:[Raid Hour] Zacian\, Zamazenta\, Regieleki\, and Regidrago Raid
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:beyond-wild-area
-DTSTAMP:20241127T130111Z
+DTSTAMP:20241127T164519Z
 DTSTART:20241125T140000Z
 DTEND:20241130T040000Z
 SUMMARY:[Event] Beyond Wild Area
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-out-finale
-DTSTAMP:20241127T130111Z
+DTSTAMP:20241127T164519Z
 DTSTART:20241127T180000Z
 DTEND:20241202T040000Z
 SUMMARY:[Event] Max Out: Finale
@@ -58,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-pokecoin-bounty-ticket-max-out-part-3
-DTSTAMP:20241127T130111Z
+DTSTAMP:20241127T164519Z
 DTSTART:20241103T070000Z
 DTEND:20241202T195959Z
 SUMMARY:[Ticketed Event] Daily PokéCoin Bounty Part 3 Ticket
@@ -75,8 +75,73 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2024-12-03
+DTSTAMP:20241127T164519Z
+DTSTART:20241204T020000Z
+DTEND:20241204T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Sableye Spotlight Hour (2× Catch
+  Stardust)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-12-
+ 03/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-12-03/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241204
+DTSTAMP:20241127T164519Z
+DTSTART:20241205T020000Z
+DTEND:20241205T030000Z
+SUMMARY:[Raid Hour] Genesect (Chill Drive) Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20241204/
+URL:https://leekduck.com/events/raidhour20241204/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-12-10
+DTSTAMP:20241127T164519Z
+DTSTART:20241211T020000Z
+DTEND:20241211T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Murkrow Spotlight Hour (2× Catch XP)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-12-
+ 10/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-12-10/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241211
+DTSTAMP:20241127T164519Z
+DTSTART:20241212T020000Z
+DTEND:20241212T030000Z
+SUMMARY:[Raid Hour] Genesect (Chill Drive) Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20241211/
+URL:https://leekduck.com/events/raidhour20241211/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:necrozma-fusion-raid-day
-DTSTAMP:20241127T130111Z
+DTSTAMP:20241127T164519Z
 DTSTART:20241214T220000Z
 DTEND:20241215T010000Z
 SUMMARY:[Raid Day] Necrozma Fusion Raid Day
@@ -91,8 +156,41 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2024-12-17
+DTSTAMP:20241127T164519Z
+DTSTART:20241218T020000Z
+DTEND:20241218T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Slugma and Bergmite Spotlight Hour (2×
+  Catch Candy)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-12-
+ 17/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-12-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241218
+DTSTAMP:20241127T164519Z
+DTSTART:20241219T020000Z
+DTEND:20241219T030000Z
+SUMMARY:[Raid Hour] Mega Latios Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20241218/
+URL:https://leekduck.com/events/raidhour20241218/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:december-communityday2024
-DTSTAMP:20241127T130111Z
+DTSTAMP:20241127T164519Z
 DTSTART:20241221T220000Z
 DTEND:20241223T010000Z
 SUMMARY:[Community Day] December Community Day
@@ -107,8 +205,41 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2024-12-24
+DTSTAMP:20241127T164519Z
+DTSTART:20241225T020000Z
+DTEND:20241225T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Delibird Spotlight Hour (2× Transfer
+  Candy)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-12-
+ 24/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-12-24/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241225
+DTSTAMP:20241127T164519Z
+DTSTART:20241226T020000Z
+DTEND:20241226T030000Z
+SUMMARY:[Raid Hour] Mega Latias Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20241225/
+URL:https://leekduck.com/events/raidhour20241225/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:hatch-day-december-2024
-DTSTAMP:20241127T130111Z
+DTSTAMP:20241127T164519Z
 DTSTART:20241229T220000Z
 DTEND:20241230T010000Z
 SUMMARY:[Event] Hatch Day
@@ -123,8 +254,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2024-12-31
+DTSTAMP:20241127T164519Z
+DTSTART:20250101T020000Z
+DTEND:20250101T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Togetic Spotlight Hour (2× Evolution XP)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-12-
+ 31/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-12-31/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:january-communityday2025
-DTSTAMP:20241127T130111Z
+DTSTAMP:20241127T164519Z
 DTSTART:20250105T220000Z
 DTEND:20250106T010000Z
 SUMMARY:[Community Day] January Community Day
@@ -139,7 +287,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-january-2025
-DTSTAMP:20241127T130111Z
+DTSTAMP:20241127T164519Z
 DTSTART:20250111T220000Z
 DTEND:20250112T010000Z
 SUMMARY:[Raid Day] Raid Day
@@ -155,7 +303,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2025
-DTSTAMP:20241127T130111Z
+DTSTAMP:20241127T164519Z
 DTSTART:20250125T220000Z
 DTEND:20250126T010000Z
 SUMMARY:[Community Day] January Community Day Classic
@@ -171,7 +319,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2025
-DTSTAMP:20241127T130111Z
+DTSTAMP:20241127T164519Z
 DTSTART:20250209T220000Z
 DTEND:20250210T010000Z
 SUMMARY:[Community Day] February Community Day
@@ -186,7 +334,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-february-2025
-DTSTAMP:20241127T130111Z
+DTSTAMP:20241127T164519Z
 DTSTART:20250215T220000Z
 DTEND:20250216T010000Z
 SUMMARY:[Raid Day] Raid Day
@@ -201,168 +349,7 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
-
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-february-2025
-DTSTAMP:20241127T021041Z
-DTSTART:20250215T220000Z
-DTEND:20250216T010000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-february-2025/
-URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-
-DTSTAMP:20241125T020956Z
-DTSTART:20250215T220000Z
-DTEND:20250216T010000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-february-2025/
-URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-0241123T015953Z
-DTSTART:20250215T220000Z
-DTEND:20250216T010000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-february-2025/
-URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-ay-february-2025
-DTSTAMP:20241122T044125Z
-DTSTART:20250215T220000Z
-DTEND:20250216T010000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-february-2025/
-URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-y-2025
-DTSTAMP:20241120T125951Z
-DTSTART:20250215T220000Z
-DTEND:20250216T010000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-february-2025/
-URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-Y
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:february-communityday2025
-DTSTAMP:20241119T203729Z
-DTSTART:20250209T220000Z
-DTEND:20250210T010000Z
-SUMMARY:[Community Day] February Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/february-communityday2025/
-URL:https://leekduck.com/events/february-communityday2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-february-2025
-DTSTAMP:20241119T203729Z
-DTSTART:20250215T220000Z
-DTEND:20250216T010000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-february-2025/
-URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:february-communityday2025
-DTSTAMP:20241118T021028Z
-DTSTART:20250209T220000Z
-DTEND:20250210T010000Z
-SUMMARY:[Community Day] February Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/february-communityday2025/
-URL:https://leekduck.com/events/february-communityday2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-february-2025
-DTSTAMP:20241118T021028Z
-DTSTART:20250215T220000Z
-DTEND:20250216T010000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-february-2025/
-URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-tails at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-february-2025/
-URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+lt-img.j
  pg
 BEGIN:VALARM
 ACTION:DISPLAY
