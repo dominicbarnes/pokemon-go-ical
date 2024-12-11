@@ -1,6 +1,9 @@
 package ical
 
-import "strings"
+import (
+	"html"
+	"strings"
+)
 
 type LeekDuckEvent struct {
 	ID      string `json:"eventID,omitempty"`
@@ -61,7 +64,7 @@ func (e LeekDuckEvent) Title() string {
 		sb.WriteRune(' ')
 	}
 
-	sb.WriteString(e.Name)
+	sb.WriteString(html.UnescapeString(e.Name))
 
 	if e.Type == "pokemon-spotlight-hour" {
 		if e.ExtraData != nil && e.ExtraData.Spotlight != nil && e.ExtraData.Spotlight.Bonus != "" {
