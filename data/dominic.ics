@@ -10,14 +10,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:raidhour20241218
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20241219T020000Z
 DTEND:20241219T030000Z
 SUMMARY:[Raid Hour] Mega Latios Raid Hour
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20241218/
 URL:https://leekduck.com/events/raidhour20241218/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -25,15 +25,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-holiday-part-1
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20241217T180000Z
 DTEND:20241222T175900Z
 SUMMARY:[Event] Pokémon GO Holiday: Part 1
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-holiday-part-1/
 URL:https://leekduck.com/events/pokemon-go-holiday-part-1/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-17-pokemon-go-holiday-part-1/pokemon-go-holiday-part-1.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-17-pokemon-go-holiday-part-1/pokemon-go-holiday-part-1.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -41,15 +41,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-communityday2024
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20241221T220000Z
 DTEND:20241223T010000Z
 SUMMARY:[Community Day] December Community Day 2024
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/december-communityday2024/
 URL:https://leekduck.com/events/december-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-21-december-communityday2024/2024-12-december-communityday.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-21-december-communityday2024/2024-12-december-communityday.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -57,15 +57,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-23
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20241224T020000Z
 DTEND:20241224T030000Z
 SUMMARY:[Max Mondays] Dynamax Cryogonal during Max Monday
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2024-12-23/
 URL:https://leekduck.com/events/max-mondays-2024-12-23/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
- g
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -73,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-12-24
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20241225T020000Z
 DTEND:20241225T030000Z
 SUMMARY:[Pokémon Spotlight Hour] Delibird Spotlight Hour (2× Transfer
@@ -82,8 +82,8 @@ DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-12-
  24/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-12-24/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -91,14 +91,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241225
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20241226T020000Z
 DTEND:20241226T030000Z
 SUMMARY:[Raid Hour] Mega Latias Raid Hour
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20241225/
 URL:https://leekduck.com/events/raidhour20241225/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -106,15 +106,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-holiday-part-2
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20241222T180000Z
 DTEND:20241228T040000Z
 SUMMARY:[Event] Pokémon GO Holiday: Part 2
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-holiday-part-2/
 URL:https://leekduck.com/events/pokemon-go-holiday-part-2/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-22-pokemon-go-holiday-part-2/holiday-part-2.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-22-pokemon-go-holiday-part-2/holiday-part-2.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -122,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:charged-embers-hatch-day-2024
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20241229T220000Z
 DTEND:20241230T010000Z
 SUMMARY:[Event] Charged Embers Hatch Day
@@ -130,8 +130,8 @@ DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/charged-embers-hatch-day-202
  4/
 URL:https://leekduck.com/events/charged-embers-hatch-day-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-29-charged-embers-hatch-day-2024/charged-embers-hatch-day.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-29-charged-embers-hatch-day-2024/charged-embers-hatch-day.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -139,15 +139,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-30
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20241231T020000Z
 DTEND:20241231T030000Z
 SUMMARY:[Max Mondays] Dynamax Bulbasaur during Max Monday
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2024-12-30/
 URL:https://leekduck.com/events/max-mondays-2024-12-30/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
- g
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -155,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-12-31
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20250101T020000Z
 DTEND:20250101T030000Z
 SUMMARY:[Pokémon Spotlight Hour] Togetic Spotlight Hour (2× Evolution XP)
@@ -163,8 +163,8 @@ DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2024-12-
  31/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-12-31/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -172,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eggs-pedition-access-december-2024
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20241203T180000Z
 DTEND:20250101T040000Z
 SUMMARY:[Ticketed Event] Eggs-pedition Access: December
@@ -180,9 +180,9 @@ DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/eggs-pedition-access-decembe
  r-2024/
 URL:https://leekduck.com/events/eggs-pedition-access-december-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-03-eggs-pedition-access-december-2024/eggs-pedition-access-decembe
- r-2024.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-03-eggs-pedition-access-december-2024/eggs-pedition-access-dec
+ ember-2024.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -190,15 +190,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-2025
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20241230T180000Z
 DTEND:20250102T040000Z
 SUMMARY:[Event] New Year's 2025
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/new-years-2025/
 URL:https://leekduck.com/events/new-years-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-30-new-years-2025/new-year-2025.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-30-new-years-2025/new-year-2025.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -206,15 +206,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2025
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20250105T220000Z
 DTEND:20250106T010000Z
 SUMMARY:[Community Day] Sprigatito Community Day
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/january-communityday2025/
 URL:https://leekduck.com/events/january-communityday2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2025/
- 2025-01-05-january-communityday2025/sprigatito-community-day.jpg?v2
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-01-05-january-communityday2025/sprigatito-community-day.jpg?v2
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fidough-fetch
+DTSTAMP:20241219T020810Z
+DTSTART:20250103T230000Z
+DTEND:20250108T060000Z
+SUMMARY:[Event] Fidough Fetch
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/fidough-fetch/
+URL:https://leekduck.com/events/fidough-fetch/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-01-03-fidough-fetch/fidough-fetch.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -222,15 +238,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-january-2025
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20250111T220000Z
 DTEND:20250112T010000Z
 SUMMARY:[Raid Day] Raid Day
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-january-2025/
 URL:https://leekduck.com/events/raid-day-january-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -238,7 +254,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2025
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20250125T220000Z
 DTEND:20250126T010000Z
 SUMMARY:[Community Day] January Community Day Classic
@@ -246,7 +262,7 @@ DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/january-communitydayclassic2
  025/
 URL:https://leekduck.com/events/january-communitydayclassic2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -254,7 +270,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-weekend-dual-destiny
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20250121T080000Z
 DTEND:20250127T075900Z
 SUMMARY:[Event] GO Battle Weekend: Dual Destiny
@@ -262,8 +278,8 @@ DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-weekend-dual-desti
  ny/
 URL:https://leekduck.com/events/go-battle-weekend-dual-destiny/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
- son-21-dual-destiny.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -season-21-dual-destiny.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -271,14 +287,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2025
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20250209T220000Z
 DTEND:20250210T010000Z
 SUMMARY:[Community Day] February Community Day
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/february-communityday2025/
 URL:https://leekduck.com/events/february-communityday2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -286,15 +302,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-february-2025
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20250215T220000Z
 DTEND:20250216T010000Z
 SUMMARY:[Raid Day] Raid Day
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-february-2025/
 URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -302,7 +318,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-unova-global-2025
-DTSTAMP:20241218T203730Z
+DTSTAMP:20241219T020810Z
 DTSTART:20250301T180000Z
 DTEND:20250303T020000Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Unova - Global
@@ -310,31 +326,16 @@ DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-unova-global
  -2025/
 URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2025/
- 2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jp
+ g
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
-kémon GO Tour] Pokémon GO Tour: Unova - Global
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-unova-global
- -2025/
-URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2025/
- 2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-START:20241230T180000Z
-DTEND:20250102T040000Z
-SUMMARY:[Event] New Year's 2025
-DESCRIPTION:See more details at
+IPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/new-years-2025/
 URL:https://leekduck.com/events/new-years-2025/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
