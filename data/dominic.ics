@@ -9,26 +9,8 @@ X-WR-TIMEZONE:US/Pacific
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:go-tour-unova-timed-research-codes
-DTSTAMP:20250303T084122Z
-DTSTART:20250221T170000Z
-DTEND:20250303T050000Z
-SUMMARY:[Research] [Promo Code] Pokémon GO Tour Unova: Timed Research
-  Codes
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-tour-unova-timed-research
- -codes/
-URL:https://leekduck.com/events/go-tour-unova-timed-research-codes/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-02-21-go-tour-unova-timed-research-codes/unova-trivia.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2025-03-03
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250304T020000Z
 DTEND:20250304T030000Z
 SUMMARY:[Max Mondays] Dynamax Beldum during Max Monday
@@ -44,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-03-04
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250305T020000Z
 DTEND:20250305T030000Z
 SUMMARY:[Pokémon Spotlight Hour] Makuhita Spotlight Hour (2× Transfer
@@ -61,8 +43,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raidhour20250305
+DTSTAMP:20250303T125829Z
+DTSTART:20250306T020000Z
+DTEND:20250306T030000Z
+SUMMARY:[Raid Hour] Articuno\, Zapdos\, and Moltres Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20250305/
+URL:https://leekduck.com/events/raidhour20250305/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-presents-25-x-go-tour-timed-research
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250227T180000Z
 DTEND:20250308T040000Z
 SUMMARY:[Research] [Promo Code] Pokémon Presents ’25 x GO Tour Timed
@@ -82,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-communityday2025
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250308T220000Z
 DTEND:20250309T010000Z
 SUMMARY:[Community Day] Fuecoco Community Day
@@ -97,8 +94,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-03-10
+DTSTAMP:20250303T125829Z
+DTSTART:20250311T010000Z
+DTEND:20250311T020000Z
+SUMMARY:[Max Mondays] Dynamax Drilbur during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-03-10/
+URL:https://leekduck.com/events/max-mondays-2025-03-10/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:powerful-potential
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250305T180000Z
 DTEND:20250311T030000Z
 SUMMARY:[Event] Powerful Potential
@@ -114,7 +127,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-11
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250312T010000Z
 DTEND:20250312T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Roselia Spotlight Hour (2× Evolution XP)
@@ -130,14 +143,29 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:catch-mastery-march-2025
-DTSTAMP:20250303T084122Z
+UID:raidhour20250312
+DTSTAMP:20250303T125829Z
+DTSTART:20250313T010000Z
+DTEND:20250313T020000Z
+SUMMARY:[Raid Hour] Articuno\, Zapdos\, and Moltres Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20250312/
+URL:https://leekduck.com/events/raidhour20250312/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:catch-mastery-archen
+DTSTAMP:20250303T125829Z
 DTSTART:20250316T170000Z
 DTEND:20250317T030000Z
-SUMMARY:[Event] Catch Mastery March 2025
+SUMMARY:[Event] Catch Mastery: Archen
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/catch-mastery-march-2025/
-URL:https://leekduck.com/events/catch-mastery-march-2025/
+  LeekDuck.com:\n\nhttps://leekduck.com/events/catch-mastery-archen/
+URL:https://leekduck.com/events/catch-mastery-archen/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 BEGIN:VALARM
@@ -146,8 +174,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-03-17
+DTSTAMP:20250303T125829Z
+DTSTART:20250318T010000Z
+DTEND:20250318T020000Z
+SUMMARY:[Max Mondays] Dynamax Chansey during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-03-17/
+URL:https://leekduck.com/events/max-mondays-2025-03-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:festival-of-colors-2025
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250313T170000Z
 DTEND:20250318T030000Z
 SUMMARY:[Event] Festival of Colors 2025
@@ -163,7 +207,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-18
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250319T010000Z
 DTEND:20250319T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Shellder Spotlight Hour (2× Catch
@@ -180,8 +224,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raidhour20250319
+DTSTAMP:20250303T125829Z
+DTSTART:20250320T010000Z
+DTEND:20250320T020000Z
+SUMMARY:[Raid Hour] Tapu Koko Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20250319/
+URL:https://leekduck.com/events/raidhour20250319/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:march-communitydayclassic2025
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250322T210000Z
 DTEND:20250323T000000Z
 SUMMARY:[Community Day] Totodile Community Day Classic
@@ -197,14 +256,46 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:raid-day-march-2025
-DTSTAMP:20250303T084122Z
+UID:mega-absol-raid-day
+DTSTAMP:20250303T125829Z
 DTSTART:20250323T210000Z
 DTEND:20250324T000000Z
-SUMMARY:[Raid Day] Raid Day March 2025
+SUMMARY:[Raid Day] Mega Absol Raid Day
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-march-2025/
-URL:https://leekduck.com/events/raid-day-march-2025/
+  LeekDuck.com:\n\nhttps://leekduck.com/events/mega-absol-raid-day/
+URL:https://leekduck.com/events/mega-absol-raid-day/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-03-24
+DTSTAMP:20250303T125829Z
+DTSTART:20250325T010000Z
+DTEND:20250325T020000Z
+SUMMARY:[Max Mondays] Dynamax Caterpie during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-03-24/
+URL:https://leekduck.com/events/max-mondays-2025-03-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:deep-depths
+DTSTAMP:20250303T125829Z
+DTSTART:20250319T170000Z
+DTEND:20250325T030000Z
+SUMMARY:[Event] Deep Depths
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/deep-depths/
+URL:https://leekduck.com/events/deep-depths/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 BEGIN:VALARM
@@ -214,7 +305,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-25
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250326T010000Z
 DTEND:20250326T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Cutiefly Spotlight Hour (2× Catch XP)
@@ -230,14 +321,29 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:research-day-march-2025
-DTSTAMP:20250303T084122Z
+UID:raidhour20250326
+DTSTAMP:20250303T125829Z
+DTSTART:20250327T010000Z
+DTEND:20250327T020000Z
+SUMMARY:[Raid Hour] Heatran Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20250326/
+URL:https://leekduck.com/events/raidhour20250326/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuzzy-buddy-research-day
+DTSTAMP:20250303T125829Z
 DTSTART:20250329T210000Z
 DTEND:20250330T000000Z
-SUMMARY:[Research Day] Research Day March 2025
+SUMMARY:[Research Day] Fuzzy Buddy Research Day
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/research-day-march-2025/
-URL:https://leekduck.com/events/research-day-march-2025/
+  LeekDuck.com:\n\nhttps://leekduck.com/events/fuzzy-buddy-research-day/
+URL:https://leekduck.com/events/fuzzy-buddy-research-day/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 BEGIN:VALARM
@@ -247,7 +353,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250221T180000Z
 DTEND:20250331T030000Z
 SUMMARY:[Research] Masterwork Research: A Dazzling Aria
@@ -263,8 +369,40 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:bug-out
+DTSTAMP:20250303T125829Z
+DTSTART:20250326T170000Z
+DTEND:20250331T030000Z
+SUMMARY:[Event] Bug Out
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/bug-out/
+URL:https://leekduck.com/events/bug-out/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-03-31
+DTSTAMP:20250303T125829Z
+DTSTART:20250401T010000Z
+DTEND:20250401T020000Z
+SUMMARY:[Max Mondays] Dynamax Scorbunny during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-03-31/
+URL:https://leekduck.com/events/max-mondays-2025-03-31/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:raid-day-april-2025
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250405T210000Z
 DTEND:20250406T000000Z
 SUMMARY:[Raid Day] Raid Day April 2025
@@ -280,7 +418,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2025
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250406T210000Z
 DTEND:20250407T000000Z
 SUMMARY:[Event] Hatch Day April 2025
@@ -296,7 +434,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-april-2025-2
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250413T210000Z
 DTEND:20250414T000000Z
 SUMMARY:[Raid Day] Raid Day April 2025
@@ -312,7 +450,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2025
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250427T210000Z
 DTEND:20250428T000000Z
 SUMMARY:[Community Day] April Community Day
@@ -327,7 +465,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2025
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250503T210000Z
 DTEND:20250504T000000Z
 SUMMARY:[Raid Day] Raid Day May 2025
@@ -343,7 +481,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2025
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250511T210000Z
 DTEND:20250512T000000Z
 SUMMARY:[Community Day] May Community Day
@@ -358,7 +496,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2025
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250517T210000Z
 DTEND:20250518T000000Z
 SUMMARY:[Raid Day] Shadow Raid Day May 2025
@@ -374,7 +512,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250303T084122Z
+DTSTAMP:20250303T125829Z
 DTSTART:20250524T210000Z
 DTEND:20250525T000000Z
 SUMMARY:[Community Day] May Community Day Classic
@@ -388,142 +526,7 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
-:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-unitydayclassic2025
-DTSTAMP:20250301T203455Z
-DTSTART:20250524T210000Z
-DTEND:20250525T000000Z
-SUMMARY:[Community Day] May Community Day Classic
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/may-communitydayclassic2025/
-URL:https://leekduck.com/events/may-communitydayclassic2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-
-ay Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/may-communityday2025/
-URL:https://leekduck.com/events/may-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:shadow-raid-day-may-2025
-DTSTAMP:20250224T043920Z
-DTSTART:20250517T210000Z
-DTEND:20250518T000000Z
-SUMMARY:[Raid Day] Shadow Raid Day May 2025
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/shadow-raid-day-may-2025/
-URL:https://leekduck.com/events/shadow-raid-day-may-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:may-communitydayclassic2025
-DTSTAMP:20250224T043920Z
-DTSTART:20250524T210000Z
-DTEND:20250525T000000Z
-SUMMARY:[Community Day] May Community Day Classic
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/may-communitydayclassic2025/
-URL:https://leekduck.com/events/may-communitydayclassic2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-ND:VEVENT
-BEGIN:VEVENT
-UID:may-communitydayclassic2025
-DTSTAMP:20250221T084008Z
-DTSTART:20250524T210000Z
-DTEND:20250525T000000Z
-SUMMARY:[Community Day] May Community Day Classic
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/may-communitydayclassic2025/
-URL:https://leekduck.com/events/may-communitydayclassic2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-émon GO Tour] Pokémon GO Tour: Unova - Global
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-unova-global
- -2025/
-URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jp
- g
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-february-2025
-DTSTAMP:20241230T020134Z
-DTSTART:20250215T200000Z
-DTEND:20250215T230000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-february-2025/
-URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-go-tour-unova-global-2025
-DTSTAMP:20241230T020134Z
-DTSTART:20250301T160000Z
-DTEND:20250303T000000Z
-SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Unova - Global
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-unova-global
- -2025/
-URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jp
- g
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-
-DTSTART:20250301T160000Z
-DTEND:20250303T000000Z
+20250303T000000Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Unova - Global
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-unova-global
