@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:max-mondays-2025-03-24
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250325T010000Z
 DTEND:20250325T020000Z
 SUMMARY:[Max Mondays] Dynamax Caterpie during Max Monday
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:deep-depths
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250319T170000Z
 DTEND:20250325T030000Z
 SUMMARY:[Event] Deep Depths
@@ -42,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-25
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250326T010000Z
 DTEND:20250326T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Cutiefly Spotlight Hour (2× Catch XP)
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250326
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250327T010000Z
 DTEND:20250327T020000Z
 SUMMARY:[Raid Hour] Heatran Raid Hour
@@ -74,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fuzzy-buddy-research-day
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250329T210000Z
 DTEND:20250330T000000Z
 SUMMARY:[Research Day] Fuzzy Buddy Research Day
@@ -91,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250221T180000Z
 DTEND:20250331T030000Z
 SUMMARY:[Research] Masterwork Research: A Dazzling Aria
@@ -108,7 +108,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bug-out-2025
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250326T170000Z
 DTEND:20250331T030000Z
 SUMMARY:[Event] Bug Out 2025
@@ -124,7 +124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-03-31
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250401T010000Z
 DTEND:20250401T020000Z
 SUMMARY:[Max Mondays] Dynamax Scorbunny during Max Monday
@@ -139,8 +139,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raidhour20250402
+DTSTAMP:20250325T021017Z
+DTSTART:20250403T010000Z
+DTEND:20250403T020000Z
+SUMMARY:[Raid Hour] Tapu Lele Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20250402/
+URL:https://leekduck.com/events/raidhour20250402/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:power-up-ticket-march
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250304T220000Z
 DTEND:20250405T000000Z
 SUMMARY:[Ticketed Event] Power Up Ticket: March
@@ -156,7 +171,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-audino-raid-day
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250405T210000Z
 DTEND:20250406T000000Z
 SUMMARY:[Raid Day] Mega Audino Raid Day
@@ -171,14 +186,14 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hatch-day-april-2025
-DTSTAMP:20250324T203704Z
+UID:tyrogue-hatch-day
+DTSTAMP:20250325T021017Z
 DTSTART:20250406T210000Z
 DTEND:20250407T000000Z
-SUMMARY:[Event] Hatch Day April 2025
+SUMMARY:[Event] Tyrogue Hatch Day
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/hatch-day-april-2025/
-URL:https://leekduck.com/events/hatch-day-april-2025/
+  LeekDuck.com:\n\nhttps://leekduck.com/events/tyrogue-hatch-day/
+URL:https://leekduck.com/events/tyrogue-hatch-day/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 BEGIN:VALARM
@@ -187,8 +202,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-04-07
+DTSTAMP:20250325T021017Z
+DTSTART:20250408T010000Z
+DTEND:20250408T020000Z
+SUMMARY:[Max Mondays] Dynamax Passimian during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-04-07/
+URL:https://leekduck.com/events/max-mondays-2025-04-07/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:stunning-styles
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250403T170000Z
 DTEND:20250408T030000Z
 SUMMARY:[Event] Stunning Styles
@@ -203,11 +234,44 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2025-04-08
+DTSTAMP:20250325T021017Z
+DTSTART:20250409T010000Z
+DTEND:20250409T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Meditite Spotlight Hour (2× Transfer
+  Candy)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-04-
+ 08/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-04-08/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250409
+DTSTAMP:20250325T021017Z
+DTSTART:20250410T010000Z
+DTEND:20250410T020000Z
+SUMMARY:[Raid Hour] Blacephalon Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20250409/
+URL:https://leekduck.com/events/raidhour20250409/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:raid-day-april-2025-2
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250413T210000Z
 DTEND:20250414T000000Z
-SUMMARY:[Raid Day] Raid Day April 2025
+SUMMARY:[Raid Day] Sparing Partners Raid Day
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-april-2025-2/
 URL:https://leekduck.com/events/raid-day-april-2025-2/
@@ -219,15 +283,196 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-04-14
+DTSTAMP:20250325T021017Z
+DTSTART:20250415T010000Z
+DTEND:20250415T020000Z
+SUMMARY:[Max Mondays] Dynamax Wooloo during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-04-14/
+URL:https://leekduck.com/events/max-mondays-2025-04-14/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spring-into-spring-2025
+DTSTAMP:20250325T021017Z
+DTSTART:20250409T170000Z
+DTEND:20250415T030000Z
+SUMMARY:[Event] Spring into Spring 2025
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/spring-into-spring-2025/
+URL:https://leekduck.com/events/spring-into-spring-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-04-15
+DTSTAMP:20250325T021017Z
+DTSTART:20250416T010000Z
+DTEND:20250416T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Fomantis Spotlight Hour (2× Evolution
+  XP)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-04-
+ 15/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-04-15/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250416
+DTSTAMP:20250325T021017Z
+DTSTART:20250417T010000Z
+DTEND:20250417T020000Z
+SUMMARY:[Raid Hour] Stakataka Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20250416/
+URL:https://leekduck.com/events/raidhour20250416/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-04-21
+DTSTAMP:20250325T021017Z
+DTSTART:20250422T010000Z
+DTEND:20250422T020000Z
+SUMMARY:[Max Mondays] Dynamax Sobble during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-04-21/
+URL:https://leekduck.com/events/max-mondays-2025-04-21/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-04-22
+DTSTAMP:20250325T021017Z
+DTSTART:20250423T010000Z
+DTEND:20250423T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Morelull Spotlight Hour (2× Catch
+  Stardust)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-04-
+ 22/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-04-22/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannoucned-event-april-2025
+DTSTAMP:20250325T021017Z
+DTSTART:20250416T170000Z
+DTEND:20250423T030000Z
+SUMMARY:[Event] Unannounced Event
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/unannoucned-event-april-2025
+ /
+URL:https://leekduck.com/events/unannoucned-event-april-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250423
+DTSTAMP:20250325T021017Z
+DTSTART:20250424T010000Z
+DTEND:20250424T020000Z
+SUMMARY:[Raid Hour] Cresselia Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20250423/
+URL:https://leekduck.com/events/raidhour20250423/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:april-communityday2025
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250427T210000Z
 DTEND:20250428T000000Z
-SUMMARY:[Community Day] April Community Day
+SUMMARY:[Community Day] Vanillite Community Day
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/april-communityday2025/
 URL:https://leekduck.com/events/april-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-04-27-april-communityday2025/vanillite-cd-placeholder.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-04-28
+DTSTAMP:20250325T021017Z
+DTSTART:20250429T010000Z
+DTEND:20250429T020000Z
+SUMMARY:[Max Mondays] Dynamax Falinks during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-04-28/
+URL:https://leekduck.com/events/max-mondays-2025-04-28/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-04-29
+DTSTAMP:20250325T021017Z
+DTSTART:20250430T010000Z
+DTEND:20250430T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Abra Spotlight Hour (2× Catch XP)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-04-
+ 29/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-04-29/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sweet-discoveries-2025
+DTSTAMP:20250325T021017Z
+DTSTART:20250424T170000Z
+DTEND:20250430T030000Z
+SUMMARY:[Event] Sweet Discoveries
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/sweet-discoveries-2025/
+URL:https://leekduck.com/events/sweet-discoveries-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -235,7 +480,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2025
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250503T210000Z
 DTEND:20250504T000000Z
 SUMMARY:[Raid Day] Raid Day May 2025
@@ -251,7 +496,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2025
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250511T210000Z
 DTEND:20250512T000000Z
 SUMMARY:[Community Day] May Community Day
@@ -266,7 +511,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2025
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250517T210000Z
 DTEND:20250518T000000Z
 SUMMARY:[Raid Day] Shadow Raid Day May 2025
@@ -282,7 +527,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250524T210000Z
 DTEND:20250525T000000Z
 SUMMARY:[Community Day] May Community Day Classic
@@ -297,7 +542,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250324T203704Z
+DTSTAMP:20250325T021017Z
 DTSTART:20250521T070000Z
 DTEND:20250528T065900Z
 SUMMARY:[Event] GO Battle Week: Might and Mastery
@@ -313,245 +558,7 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
--mastery
-DTSTAMP:20250324T021234Z
-DTSTART:20250521T070000Z
-DTEND:20250528T065900Z
-SUMMARY:[Event] GO Battle Week: Might and Mastery
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-might-and-mas
- tery/
-URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-22-might-and-mastery.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-battle-week-might-and-mastery
-DTSTAMP:20250322T020638Z
-DTSTART:20250521T070000Z
-DTEND:20250528T065900Z
-SUMMARY:[Event] GO Battle Week: Might and Mastery
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-might-and-mas
- tery/
-URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-22-might-and-mastery.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-0000Z
-SUMMARY:[Community Day] May Community Day Classic
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/may-communitydayclassic2025/
-URL:https://leekduck.com/events/may-communitydayclassic2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-battle-week-might-and-mastery
-DTSTAMP:20250319T020851Z
-DTSTART:20250521T070000Z
-DTEND:20250528T065900Z
-SUMMARY:[Event] GO Battle Week: Might and Mastery
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-might-and-mas
- tery/
-URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-22-might-and-mastery.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-y-communitydayclassic2025
-DTSTAMP:20250318T020840Z
-DTSTART:20250524T210000Z
-DTEND:20250525T000000Z
-SUMMARY:[Community Day] May Community Day Classic
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/may-communitydayclassic2025/
-URL:https://leekduck.com/events/may-communitydayclassic2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-battle-week-might-and-mastery
-DTSTAMP:20250318T020840Z
-DTSTART:20250521T070000Z
-DTEND:20250528T065900Z
-SUMMARY:[Event] GO Battle Week: Might and Mastery
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-might-and-mas
- tery/
-URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-22-might-and-mastery.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-ALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-battle-week-might-and-mastery
-DTSTAMP:20250315T020332Z
-DTSTART:20250521T070000Z
-DTEND:20250528T065900Z
-SUMMARY:[Event] GO Battle Week: Might and Mastery
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-might-and-mas
- tery/
-URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-22-might-and-mastery.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-nd Mastery
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-might-and-mas
- tery/
-URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-22-might-and-mastery.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-o-battle-week-might-and-mastery
-DTSTAMP:20250312T084300Z
-DTSTART:20250521T070000Z
-DTEND:20250528T065900Z
-SUMMARY:[Event] GO Battle Week: Might and Mastery
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-might-and-mas
- tery/
-URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-22-might-and-mastery.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-:20250528T065900Z
-SUMMARY:[Event] GO Battle Week: Might and Mastery
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-might-and-mas
- tery/
-URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-22-might-and-mastery.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-203725Z
-DTSTART:20250521T070000Z
-DTEND:20250528T065900Z
-SUMMARY:[Event] GO Battle Week: Might and Mastery
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-might-and-mas
- tery/
-URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-22-might-and-mastery.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-13742Z
-DTSTART:20250521T070000Z
-DTEND:20250528T065900Z
-SUMMARY:[Event] GO Battle Week: Might and Mastery
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-might-and-mas
- tery/
-URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-22-might-and-mastery.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-O Battle Week: Might and Mastery
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-might-and-mas
- tery/
-URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-22-might-and-mastery.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-
-:20250304T020622Z
-DTSTART:20250524T210000Z
-DTEND:20250525T000000Z
-SUMMARY:[Community Day] May Community Day Classic
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/may-communitydayclassic2025/
-URL:https://leekduck.com/events/may-communitydayclassic2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-ekduck.com/events/pokemon-go-tour-unova-global-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jp
- g
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-okémon GO Tour: Unova - Global
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-unova-global
+bal
  -2025/
 URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
