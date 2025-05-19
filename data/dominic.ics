@@ -9,42 +9,8 @@ X-WR-TIMEZONE:US/Pacific
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:shadow-regigigigas-raid-day-may-2025
-DTSTAMP:20250517T044141Z
-DTSTART:20250517T210000Z
-DTEND:20250518T000000Z
-SUMMARY:[Raid Day] Shadow Regigigas Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/shadow-regigigigas-raid-day-
- may-2025/
-URL:https://leekduck.com/events/shadow-regigigigas-raid-day-may-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-17-shadow-regigigigas-raid-day-may-2025/shadow-regigigas-raid-
- day.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:crown-clash
-DTSTAMP:20250517T044141Z
-DTSTART:20250510T170000Z
-DTEND:20250519T030000Z
-SUMMARY:[Event] Crown Clash
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/crown-clash/
-URL:https://leekduck.com/events/crown-clash/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-10-crown-clash/crown-clash.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:crown-clash-taken-over
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250514T070000Z
 DTEND:20250519T065959Z
 SUMMARY:[Event] Crown Clash: Taken Over
@@ -60,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-05-19
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250520T010000Z
 DTEND:20250520T020000Z
 SUMMARY:[Max Mondays] Dynamax Sableye during Max Monday
@@ -76,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-05-03
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250521T010000Z
 DTEND:20250521T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Poochyena Spotlight Hour (2× Evolve XP)
@@ -93,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250521
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250522T010000Z
 DTEND:20250522T020000Z
 SUMMARY:[Raid Hour] Uxie\, Mesprit\, and Azelf Raid Hour
@@ -108,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250524T210000Z
 DTEND:20250525T000000Z
 SUMMARY:[Community Day] Machop Community Day Classic
@@ -124,8 +90,27 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:gigantamax-machamp-max-battle-day-lead-up-timed-research
+DTSTAMP:20250519T084718Z
+DTSTART:20250520T010000Z
+DTEND:20250526T000000Z
+SUMMARY:[Research] Gigantamax Machamp Lead Up Timed Research
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/gigantamax-machamp-max-battl
+ e-day-lead-up-timed-research/
+URL:https://leekduck.com/events/gigantamax-machamp-max-battle-day-lead-up-t
+ imed-research/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-05-19-gigantamax-machamp-max-battle-day-lead-up-timed-research/gi
+ gantamax-machamp-max-battles.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:max-mondays-2025-05-26
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250527T010000Z
 DTEND:20250527T020000Z
 SUMMARY:[Max Mondays] Dynamax Rookidee during Max Monday
@@ -141,7 +126,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-05-04
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250528T010000Z
 DTEND:20250528T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Golett Spotlight Hour (2× Catch
@@ -159,7 +144,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:final-strike-go-battle-week
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250521T170000Z
 DTEND:20250528T030000Z
 SUMMARY:[Event] Final Strike: GO Battle Week
@@ -175,7 +160,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250521T070000Z
 DTEND:20250528T065900Z
 SUMMARY:[Event] GO Battle Week: Might and Mastery
@@ -192,7 +177,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250528
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250529T010000Z
 DTEND:20250529T020000Z
 SUMMARY:[Raid Hour] Tapu Bulu Raid Hour
@@ -207,7 +192,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:power-up-ticket-may
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250504T170000Z
 DTEND:20250604T170000Z
 SUMMARY:[Ticketed Event] Power Up Ticket: May
@@ -223,7 +208,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:june-communityday2025
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250621T210000Z
 DTEND:20250622T000000Z
 SUMMARY:[Community Day] June Community Day
@@ -238,7 +223,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communitydayclassic2025
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250705T210000Z
 DTEND:20250707T000000Z
 SUMMARY:[Community Day] July Community Day Classic
@@ -254,7 +239,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2025
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250720T210000Z
 DTEND:20250721T000000Z
 SUMMARY:[Community Day] July Community Day
@@ -269,10 +254,21 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2025
-DTSTAMP:20250517T044141Z
+DTSTAMP:20250519T084718Z
 DTSTART:20250830T210000Z
 DTEND:20250831T000000Z
 SUMMARY:[Community Day] August Community Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/august-communityday2025/
+URL:https://leekduck.com/events/august-communityday2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+Y:[Community Day] August Community Day
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/august-communityday2025/
 URL:https://leekduck.com/events/august-communityday2025/
