@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:max-mondays-2025-05-26
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250527T010000Z
 DTEND:20250527T020000Z
 SUMMARY:[Max Mondays] Dynamax Rookidee during Max Monday
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-05-04
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250528T010000Z
 DTEND:20250528T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Golett Spotlight Hour (2× Catch
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:final-strike-go-battle-week
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250521T170000Z
 DTEND:20250528T030000Z
 SUMMARY:[Event] Final Strike: GO Battle Week
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250521T070000Z
 DTEND:20250528T065900Z
 SUMMARY:[Event] GO Battle Week: Might and Mastery
@@ -77,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250528
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250529T010000Z
 DTEND:20250529T020000Z
 SUMMARY:[Raid Hour] Tapu Bulu Raid Hour
@@ -91,8 +91,41 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-06-02
+DTSTAMP:20250527T044553Z
+DTSTART:20250603T010000Z
+DTEND:20250603T020000Z
+SUMMARY:[Max Mondays] Dynamax Chansey during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-06-02/
+URL:https://leekduck.com/events/max-mondays-2025-06-02/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-06-01-copy
+DTSTAMP:20250527T044553Z
+DTSTART:20250604T010000Z
+DTEND:20250604T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Spritzee Spotlight Hour (2× Catch XP)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-06-
+ 01-copy/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-06-01-copy/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:serene-retreat-go-fest-2025-tie-in
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250530T170000Z
 DTEND:20250604T030000Z
 SUMMARY:[Event] Serene Retreat
@@ -109,7 +142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:power-up-ticket-may
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250504T170000Z
 DTEND:20250604T170000Z
 SUMMARY:[Ticketed Event] Power Up Ticket: May
@@ -124,8 +157,42 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-06-09
+DTSTAMP:20250527T044553Z
+DTSTART:20250610T010000Z
+DTEND:20250610T020000Z
+SUMMARY:[Max Mondays] Dynamax Machop during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-06-09/
+URL:https://leekduck.com/events/max-mondays-2025-06-09/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-06-10
+DTSTAMP:20250527T044553Z
+DTSTART:20250611T010000Z
+DTEND:20250611T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Magnemite Spotlight Hour (2× Catch
+  Candy)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-06-
+ 10/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-06-10/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:instrumental-wonders-go-fest-2025-tie-in
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250607T170000Z
 DTEND:20250612T030000Z
 SUMMARY:[Event] Instrumental Wonders
@@ -142,8 +209,42 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-06-16
+DTSTAMP:20250527T044553Z
+DTSTART:20250617T010000Z
+DTEND:20250617T020000Z
+SUMMARY:[Max Mondays] Dynamax Hatenna during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-06-16/
+URL:https://leekduck.com/events/max-mondays-2025-06-16/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-06-17
+DTSTAMP:20250527T044553Z
+DTSTART:20250618T010000Z
+DTEND:20250618T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Solosis Spotlight Hour (2× Transfer
+  Candy)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-06-
+ 17/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-06-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:phantom-ruins-go-fest-2025-tie-in
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250614T170000Z
 DTEND:20250619T030000Z
 SUMMARY:[Event] Phantom Ruins
@@ -160,7 +261,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:june-communityday2025
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250621T210000Z
 DTEND:20250622T000000Z
 SUMMARY:[Community Day] June Community Day
@@ -174,8 +275,41 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-06-23
+DTSTAMP:20250527T044553Z
+DTSTART:20250624T010000Z
+DTEND:20250624T020000Z
+SUMMARY:[Max Mondays] Dynamax Caterpie during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-06-23/
+URL:https://leekduck.com/events/max-mondays-2025-06-23/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-06-24
+DTSTAMP:20250527T044553Z
+DTSTART:20250625T010000Z
+DTEND:20250625T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Growlithe Spotlight Hour (2× Evolve XP)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-06-
+ 24/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-06-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ancients-recovered
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250623T170000Z
 DTEND:20250628T030000Z
 SUMMARY:[Event] Ancients Recovered
@@ -190,8 +324,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-06-30
+DTSTAMP:20250527T044553Z
+DTSTART:20250701T010000Z
+DTEND:20250701T020000Z
+SUMMARY:[Max Mondays] Dynamax Shuckle during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-06-30/
+URL:https://leekduck.com/events/max-mondays-2025-06-30/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:july-communitydayclassic2025
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250705T210000Z
 DTEND:20250707T000000Z
 SUMMARY:[Community Day] July Community Day Classic
@@ -207,7 +357,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2025
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250720T210000Z
 DTEND:20250721T000000Z
 SUMMARY:[Community Day] July Community Day
@@ -222,7 +372,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2025
-DTSTAMP:20250526T091353Z
+DTSTAMP:20250527T044553Z
 DTSTART:20250830T210000Z
 DTEND:20250831T000000Z
 SUMMARY:[Community Day] August Community Day
@@ -236,177 +386,7 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
-communityday2025/
-URL:https://leekduck.com/events/july-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:august-communityday2025
-DTSTAMP:20250526T022310Z
-DTSTART:20250830T210000Z
-DTEND:20250831T000000Z
-SUMMARY:[Community Day] August Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/august-communityday2025/
-URL:https://leekduck.com/events/august-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:august-communityday2025
-DTSTAMP:20250524T164231Z
-DTSTART:20250830T210000Z
-DTEND:20250831T000000Z
-SUMMARY:[Community Day] August Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/august-communityday2025/
-URL:https://leekduck.com/events/august-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-//cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-AR
-DAR
-ommunityday2025
-DTSTAMP:20250514T203538Z
-DTSTART:20250830T170000Z
-DTEND:20250830T200000Z
-SUMMARY:[Community Day] August Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/august-communityday2025/
-URL:https://leekduck.com/events/august-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-RM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:august-communityday2025
-DTSTAMP:20250514T044315Z
-DTSTART:20250830T170000Z
-DTEND:20250830T200000Z
-SUMMARY:[Community Day] August Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/august-communityday2025/
-URL:https://leekduck.com/events/august-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-
-BEGIN:VEVENT
-UID:august-communityday2025
-DTSTAMP:20250513T084603Z
-DTSTART:20250830T170000Z
-DTEND:20250830T200000Z
-SUMMARY:[Community Day] August Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/august-communityday2025/
-URL:https://leekduck.com/events/august-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-//leekduck.com/events/july-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:august-communityday2025
-DTSTAMP:20250513T044336Z
-DTSTART:20250830T170000Z
-DTEND:20250830T200000Z
-SUMMARY:[Community Day] August Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/august-communityday2025/
-URL:https://leekduck.com/events/august-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-R:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:august-communityday2025
-DTSTAMP:20250511T022346Z
-DTSTART:20250830T210000Z
-DTEND:20250831T000000Z
-SUMMARY:[Community Day] August Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/august-communityday2025/
-URL:https://leekduck.com/events/august-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-5M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-our
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20250528/
-URL:https://leekduck.com/events/raidhour20250528/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-0250430T044310Z
-DTSTART:20250521T070000Z
-DTEND:20250528T065900Z
-SUMMARY:[Event] Final Strike: GO Battle Week
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-might-and-mas
+ LeekDuck.com:\n\nhttps://leekduck.com/events/go-battle-week-might-and-mas
  tery/
 URL:https://leekduck.com/events/go-battle-week-might-and-mastery/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
