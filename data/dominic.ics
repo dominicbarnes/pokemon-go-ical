@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:max-mondays-2025-07-21
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250722T010000Z
 DTEND:20250722T020000Z
 SUMMARY:[Max Mondays] Dynamax Darumaka during Max Monday
@@ -26,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-07-22
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250723T010000Z
 DTEND:20250723T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Jigglypuff Spotlight Hour (2× Transfer
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-concert
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250720T000000Z
 DTEND:20250723T030000Z
 SUMMARY:[Event] Summer Concert
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250723
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250724T010000Z
 DTEND:20250724T020000Z
 SUMMARY:[Raid Hour] Lunala Raid Hour
@@ -75,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-steel-and-scales
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250722T170000Z
 DTEND:20250728T030000Z
 SUMMARY:[Event] Ultra Unlock: Steel and Scales
@@ -92,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-07-28
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250729T010000Z
 DTEND:20250729T020000Z
 SUMMARY:[Max Mondays] Dynamax Kabuto during Max Monday
@@ -108,7 +108,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-07-29
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250730T010000Z
 DTEND:20250730T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Roggenrola Spotlight Hour (2× Evolution
@@ -126,7 +126,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250730
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250731T010000Z
 DTEND:20250731T020000Z
 SUMMARY:[Raid Hour] Virizion Raid Hour
@@ -141,10 +141,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:research-day-august-2025
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250802T210000Z
 DTEND:20250803T000000Z
-SUMMARY:[Research Day] Research Day
+SUMMARY:[Research Day] Fossil Research Day
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/research-day-august-2025/
 URL:https://leekduck.com/events/research-day-august-2025/
@@ -157,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eggs-pedition-access-july-2025
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250703T170000Z
 DTEND:20250803T170000Z
 SUMMARY:[Ticketed Event] Eggs-pedition Access: July
@@ -175,7 +175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:adventure-week-2025
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250729T170000Z
 DTEND:20250804T030000Z
 SUMMARY:[Event] Adventure Week 2025
@@ -190,8 +190,73 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-08-04
+DTSTAMP:20250722T023256Z
+DTSTART:20250805T010000Z
+DTEND:20250805T020000Z
+SUMMARY:[Max Mondays] Dynamax Omanyte during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-08-04/
+URL:https://leekduck.com/events/max-mondays-2025-08-04/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-08-05
+DTSTAMP:20250722T023256Z
+DTSTART:20250806T010000Z
+DTEND:20250806T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Swirlix Spotlight Hour (2× Catch
+  Stardust)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-08-
+ 05/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-08-05/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250806
+DTSTAMP:20250722T023256Z
+DTSTART:20250807T010000Z
+DTEND:20250807T020000Z
+SUMMARY:[Raid Hour] Lugia Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20250806/
+URL:https://leekduck.com/events/raidhour20250806/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sweet-swarm
+DTSTAMP:20250722T023256Z
+DTSTART:20250803T170000Z
+DTEND:20250807T030000Z
+SUMMARY:[Event] Sweet Swarm
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/sweet-swarm/
+URL:https://leekduck.com/events/sweet-swarm/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:hatch-day-august-2025
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250809T210000Z
 DTEND:20250810T000000Z
 SUMMARY:[Event] Hatch Day
@@ -207,7 +272,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-august-2025-1
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250810T210000Z
 DTEND:20250811T000000Z
 SUMMARY:[Raid Day] Raid Day
@@ -222,8 +287,206 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:delightful-days-august-2025-event
+DTSTAMP:20250722T023256Z
+DTSTART:20250810T170000Z
+DTEND:20250811T030000Z
+SUMMARY:[Event] ???
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/delightful-days-august-2025-
+ event/
+URL:https://leekduck.com/events/delightful-days-august-2025-event/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-08-11
+DTSTAMP:20250722T023256Z
+DTSTART:20250812T010000Z
+DTEND:20250812T020000Z
+SUMMARY:[Max Mondays] Dynamax Trubbish during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-08-11/
+URL:https://leekduck.com/events/max-mondays-2025-08-11/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-08-12
+DTSTAMP:20250722T023256Z
+DTSTART:20250813T010000Z
+DTEND:20250813T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Plusle and Minun Spotlight Hour (2×
+  Catch XP)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-08-
+ 12/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-08-12/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cozy-companions
+DTSTAMP:20250722T023256Z
+DTSTART:20250806T170000Z
+DTEND:20250813T030000Z
+SUMMARY:[Event] Cozy Companions
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/cozy-companions/
+URL:https://leekduck.com/events/cozy-companions/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250813
+DTSTAMP:20250722T023256Z
+DTSTART:20250814T010000Z
+DTEND:20250814T020000Z
+SUMMARY:[Raid Hour] Ho-Oh Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20250813/
+URL:https://leekduck.com/events/raidhour20250813/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:delightful-days-taken-over
+DTSTAMP:20250722T023256Z
+DTSTART:20250811T170000Z
+DTEND:20250818T030000Z
+SUMMARY:[Event] Delightful Days: Taken Over
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/delightful-days-taken-over/
+URL:https://leekduck.com/events/delightful-days-taken-over/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-world-championships-go-battle-weekend
+DTSTAMP:20250722T023256Z
+DTSTART:20250815T170000Z
+DTEND:20250818T030000Z
+SUMMARY:[Event] 2025 Pokémon World Championships GO Battle Weekend
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-world-championships-
+ go-battle-weekend/
+URL:https://leekduck.com/events/pokemon-world-championships-go-battle-weeke
+ nd/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-08-19
+DTSTAMP:20250722T023256Z
+DTSTART:20250820T010000Z
+DTEND:20250820T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Ralts Spotlight Hour (2× Catch Candy)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-08-
+ 19/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-08-19/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dark-skies
+DTSTAMP:20250722T023256Z
+DTSTART:20250818T170000Z
+DTEND:20250824T030000Z
+SUMMARY:[Event] Dark Skies
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/dark-skies/
+URL:https://leekduck.com/events/dark-skies/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-08-25
+DTSTAMP:20250722T023256Z
+DTSTART:20250826T010000Z
+DTEND:20250826T020000Z
+SUMMARY:[Max Mondays] Dynamax Chansey during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-08-25/
+URL:https://leekduck.com/events/max-mondays-2025-08-25/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-08-26
+DTSTAMP:20250722T023256Z
+DTSTART:20250827T010000Z
+DTEND:20250827T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Lechonk Spotlight Hour (2× Transfer
+  Candy)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-08-
+ 26/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-08-26/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250827
+DTSTAMP:20250722T023256Z
+DTSTART:20250828T010000Z
+DTEND:20250828T020000Z
+SUMMARY:[Raid Hour] Necrozma Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20250827/
+URL:https://leekduck.com/events/raidhour20250827/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:august-communityday2025
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250830T210000Z
 DTEND:20250831T000000Z
 SUMMARY:[Community Day] Rookidee Community Day
@@ -239,7 +502,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-august-2025-2
-DTSTAMP:20250721T204310Z
+DTSTAMP:20250722T023256Z
 DTSTART:20250831T210000Z
 DTEND:20250901T000000Z
 SUMMARY:[Raid Day] Raid Day
@@ -253,16 +516,33 @@ ACTION:DISPLAY
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
-END:VCALENDAR
-DTSTAMP:20250721T085319Z
-DTSTART:20250831T210000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
+BEGIN:VEVENT
+UID:sunkissed-shores
+DTSTAMP:20250722T023256Z
+DTSTART:20250825T170000Z
+DTEND:20250901T030000Z
+SUMMARY:[Event] Sunkissed Shores
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
+  LeekDuck.com:\n\nhttps://leekduck.com/events/sunkissed-shores/
+URL:https://leekduck.com/events/sunkissed-shores/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-09-01
+DTSTAMP:20250722T023256Z
+DTSTART:20250902T010000Z
+DTEND:20250902T020000Z
+SUMMARY:[Max Mondays] Dynamax Pidove during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-09-01/
+URL:https://leekduck.com/events/max-mondays-2025-09-01/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -270,311 +550,6 @@ END:VALARM
 END:VEVENT
 END:VCALENDAR
 LARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-august-2025-2
-DTSTAMP:20250721T045939Z
-DTSTART:20250831T210000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-st-communityday2025/
-URL:https://leekduck.com/events/august-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-august-2025-2
-DTSTAMP:20250718T204202Z
-DTSTART:20250831T210000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-2025-2
-DTSTAMP:20250716T204241Z
-DTSTART:20250831T210000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:august-communityday2025
-DTSTAMP:20250715T023436Z
-DTSTART:20250830T210000Z
-DTEND:20250831T000000Z
-SUMMARY:[Community Day] August Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/august-communityday2025/
-URL:https://leekduck.com/events/august-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-august-2025-2
-DTSTAMP:20250715T023436Z
-DTSTART:20250831T210000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-uck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-august-2025-2
-DTSTAMP:20250714T045707Z
-DTSTART:20250831T210000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-vents/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-fault.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-august-2025-2
-DTSTAMP:20250709T022731Z
-DTSTART:20250831T210000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-ND:VEVENT
-BEGIN:VEVENT
-UID:raid-day-august-2025-2
-DTSTAMP:20250707T204133Z
-DTSTART:20250831T210000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-ugust-2025-1/
-URL:https://leekduck.com/events/raid-day-august-2025-1/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:august-communityday2025
-DTSTAMP:20250707T023101Z
-DTSTART:20250830T210000Z
-DTEND:20250831T000000Z
-SUMMARY:[Community Day] August Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/august-communityday2025/
-URL:https://leekduck.com/events/august-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-august-2025-2
-DTSTAMP:20250707T023101Z
-DTSTART:20250831T210000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-om/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-august-2025-2
-DTSTAMP:20250703T204017Z
-DTSTART:20250831T210000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-0000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/august-communityday2025/
-URL:https://leekduck.com/events/august-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-august-2025-2
-DTSTAMP:20250628T044710Z
-DTSTART:20250831T210000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-2025-2
-DTSTAMP:20250626T204115Z
-DTSTART:20250831T210000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-2025-2
-DTSTAMP:20250626T084723Z
-DTSTART:20250831T210000Z
-DTEND:20250901T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2025-2/
-URL:https://leekduck.com/events/raid-day-august-2025-2/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
 END:VEVENT
 END:VCALENDAR
 T15M
