@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:raidhour20250827
-DTSTAMP:20250827T203848Z
+DTSTAMP:20250828T021127Z
 DTSTART:20250828T010000Z
 DTEND:20250828T020000Z
 SUMMARY:[Raid Hour] Necrozma Raid Hour
@@ -25,7 +25,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2025
-DTSTAMP:20250827T203848Z
+DTSTAMP:20250828T021127Z
 DTSTART:20250830T210000Z
 DTEND:20250831T000000Z
 SUMMARY:[Community Day] Rookidee Community Day
@@ -41,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-world-championship-2025-timed-research-twitch-drops
-DTSTAMP:20250827T203848Z
+DTSTAMP:20250828T021127Z
 DTSTART:20250815T160000Z
 DTEND:20250831T020000Z
 SUMMARY:[Research] Twitch Drops for 2025 Pokémon World Championships
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gyarados-raid-day-august-2025
-DTSTAMP:20250827T203848Z
+DTSTAMP:20250828T021127Z
 DTSTART:20250831T210000Z
 DTEND:20250901T000000Z
 SUMMARY:[Raid Day] Mega Gyarados Raid Day
@@ -78,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sunkissed-shores
-DTSTAMP:20250827T203848Z
+DTSTAMP:20250828T021127Z
 DTSTART:20250825T170000Z
 DTEND:20250901T030000Z
 SUMMARY:[Event] Sunkissed Shores
@@ -94,7 +94,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-09-01
-DTSTAMP:20250827T203848Z
+DTSTAMP:20250828T021127Z
 DTSTART:20250902T010000Z
 DTEND:20250902T020000Z
 SUMMARY:[Max Mondays] Dynamax Pidove during Max Monday
@@ -110,7 +110,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eggs-pedition-access-august-2025
-DTSTAMP:20250827T203848Z
+DTSTAMP:20250828T021127Z
 DTSTART:20250803T170000Z
 DTEND:20250903T170000Z
 SUMMARY:[Ticketed Event] Eggs-pedition Access: August
@@ -128,7 +128,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sharpedo-raid-day-september-2025
-DTSTAMP:20250827T203848Z
+DTSTAMP:20250828T021127Z
 DTSTART:20250907T210000Z
 DTEND:20250908T000000Z
 SUMMARY:[Raid Day] Mega Sharpedo Raid Day
@@ -146,7 +146,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kanto-celebration-2025
-DTSTAMP:20250827T203848Z
+DTSTAMP:20250828T021127Z
 DTSTART:20250902T170000Z
 DTEND:20250908T030000Z
 SUMMARY:[Event] Kanto Celebration
@@ -162,7 +162,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:september-communityday2025
-DTSTAMP:20250827T203848Z
+DTSTAMP:20250828T021127Z
 DTSTART:20250914T210000Z
 DTEND:20250915T000000Z
 SUMMARY:[Community Day] Flabébé Community Day
@@ -178,7 +178,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-concierge-celebration
-DTSTAMP:20250827T203848Z
+DTSTAMP:20250828T021127Z
 DTSTART:20250909T170000Z
 DTEND:20250915T030000Z
 SUMMARY:[Event] Pokémon Concierge Celebration
@@ -196,7 +196,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2025
-DTSTAMP:20250827T203848Z
+DTSTAMP:20250828T021127Z
 DTSTART:20251012T210000Z
 DTEND:20251013T000000Z
 SUMMARY:[Community Day] October Community Day
@@ -211,7 +211,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xp-celebration-event-2025
-DTSTAMP:20250827T203848Z
+DTSTAMP:20250828T021127Z
 DTSTART:20250825T200000Z
 DTEND:20251015T065900Z
 SUMMARY:[Event] XP Celebration
@@ -226,50 +226,36 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:november-communityday2025
-DTSTAMP:20250827T203848Z
-DTSTART:20251130T220000Z
-DTEND:20251201T010000Z
-SUMMARY:[Community Day] November Community Day
+UID:pokemon-go-wild-area-2025-nagasaki-japan
+DTSTAMP:20250828T021127Z
+DTSTART:20251107T000000Z
+DTEND:20251109T080000Z
+SUMMARY:[Wild Area] Pokémon GO Wild Area: Nagasaki
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2025/
-URL:https://leekduck.com/events/november-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-wild-area-2025-na
+ gasaki-japan/
+URL:https://leekduck.com/events/pokemon-go-wild-area-2025-nagasaki-japan/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-11-07-pokemon-go-wild-area-2025-nagasaki-japan/wild-area-2025-nag
+ asaki-key-art.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-:DISPLAY
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:november-communityday2025
-DTSTAMP:20250826T203802Z
-DTSTART:20251130T220000Z
-DTEND:20251201T010000Z
-SUMMARY:[Community Day] November Community Day
+UID:pokemon-go-wild-area-2025-global
+DTSTAMP:20250828T021127Z
+DTSTART:20251115T180000Z
+DTEND:20251117T020000Z
+SUMMARY:[Wild Area] Pokémon GO Wild Area: Global
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2025/
-URL:https://leekduck.com/events/november-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-://leekduck.com/events/november-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-/assets/img/events/cd-default.jpg
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-wild-area-2025-gl
+ obal/
+URL:https://leekduck.com/events/pokemon-go-wild-area-2025-global/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-11-15-pokemon-go-wild-area-2025-global/wild-area-2025-global-key-
+ art.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -277,7 +263,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2025
-DTSTAMP:20250818T130919Z
+DTSTAMP:20250828T021127Z
 DTSTART:20251130T220000Z
 DTEND:20251201T010000Z
 SUMMARY:[Community Day] November Community Day
@@ -285,6 +271,13 @@ DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2025/
 URL:https://leekduck.com/events/november-communityday2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+duck.com/assets/img/events/cd-default.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
