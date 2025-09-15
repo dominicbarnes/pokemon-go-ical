@@ -9,60 +9,8 @@ X-WR-TIMEZONE:US/Pacific
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:september-communityday2025
-DTSTAMP:20250915T021533Z
-DTSTART:20250914T210000Z
-DTEND:20250915T000000Z
-SUMMARY:[Community Day] Flabébé Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/september-communityday2025/
-URL:https://leekduck.com/events/september-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-14-september-communityday2025/september-cd-2025-flabebe.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-concierge-bonus-timed-research
-DTSTAMP:20250915T021533Z
-DTSTART:20250909T070000Z
-DTEND:20250915T030000Z
-SUMMARY:[Research] Pokémon Concierge Bonus Timed Research
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-concierge-bonus-time
- d-research/
-URL:https://leekduck.com/events/pokemon-concierge-bonus-timed-research/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-09-pokemon-concierge-bonus-timed-research/swim-ring-psyduck-pr
- omo.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-concierge-celebration
-DTSTAMP:20250915T021533Z
-DTSTART:20250909T170000Z
-DTEND:20250915T030000Z
-SUMMARY:[Event] Pokémon Concierge Celebration
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-concierge-celebratio
- n/
-URL:https://leekduck.com/events/pokemon-concierge-celebration/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-09-pokemon-concierge-celebration/pokemon-concierge-celebration
- .jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2025-09-15
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20250916T010000Z
 DTEND:20250916T020000Z
 SUMMARY:[Max Mondays] Dynamax Abra during Max Monday
@@ -78,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-09-16
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20250917T010000Z
 DTEND:20250917T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Gothita Spotlight Hour (2× Catch XP)
@@ -95,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250917
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20250918T010000Z
 DTEND:20250918T020000Z
 SUMMARY:[Raid Hour] Mega Latias and Mega Latios Raid Hour
@@ -110,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:psychic-spectacular-taken-over-2025
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20250916T170000Z
 DTEND:20250922T030000Z
 SUMMARY:[Event] Psychic Spectacular: Taken Over
@@ -128,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-09-22
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20250923T010000Z
 DTEND:20250923T020000Z
 SUMMARY:[Max Mondays] Dynamax Chansey during Max Monday
@@ -144,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-09-23
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20250924T010000Z
 DTEND:20250924T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Hoothoot Spotlight Hour (2× Catch Candy)
@@ -161,7 +109,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250924
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20250925T010000Z
 DTEND:20250925T020000Z
 SUMMARY:[Raid Hour] Dialga (Origin Forme) Raid Hour
@@ -176,7 +124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:completely-normal-2025
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20250923T170000Z
 DTEND:20250928T030000Z
 SUMMARY:[Event] Completely Normal
@@ -192,7 +140,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-camerupt-raid-day-september-2025
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20250928T210000Z
 DTEND:20250929T000000Z
 SUMMARY:[Raid Day] Mega Camerupt Raid Day
@@ -210,7 +158,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-09-29
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20250930T010000Z
 DTEND:20250930T020000Z
 SUMMARY:[Max Mondays] Dynamax Beldum during Max Monday
@@ -226,7 +174,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-09-30
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20251001T010000Z
 DTEND:20251001T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Aron Spotlight Hour (2× Transfer Candy)
@@ -243,7 +191,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20251001
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20251002T010000Z
 DTEND:20251002T020000Z
 SUMMARY:[Raid Hour] Dialga (Origin Forme) Raid Hour
@@ -258,7 +206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:steel-skyline-2025
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20250930T170000Z
 DTEND:20251008T030000Z
 SUMMARY:[Event] Steel Skyline
@@ -274,7 +222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2025
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20251012T210000Z
 DTEND:20251013T000000Z
 SUMMARY:[Community Day] October Community Day
@@ -289,7 +237,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xp-celebration-event-2025
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20250825T200000Z
 DTEND:20251015T065900Z
 SUMMARY:[Event] XP Celebration
@@ -305,7 +253,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-weekend-tales-of-transformation
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20251025T070000Z
 DTEND:20251027T065900Z
 SUMMARY:[Event] GO Battle Weekend: Tales of Transformation
@@ -322,7 +270,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2025-nagasaki-japan
-DTSTAMP:20250915T021533Z
+DTSTAMP:20250915T130251Z
 DTSTART:20251107T000000Z
 DTEND:20251109T080000Z
 SUMMARY:[Wild Area] Pokémon GO Wild Area: Nagasaki
@@ -333,6 +281,63 @@ URL:https://leekduck.com/events/pokemon-go-wild-area-2025-nagasaki-japan/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  025/2025-11-07-pokemon-go-wild-area-2025-nagasaki-japan/wild-area-2025-nag
  asaki-key-art.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-wild-area-2025-global
+DTSTAMP:20250915T130251Z
+DTSTART:20251115T180000Z
+DTEND:20251117T020000Z
+SUMMARY:[Wild Area] Pokémon GO Wild Area: Global
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-wild-area-2025-gl
+ obal/
+URL:https://leekduck.com/events/pokemon-go-wild-area-2025-global/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-11-15-pokemon-go-wild-area-2025-global/wild-area-2025-global-key-
+ art.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:november-communityday2025
+DTSTAMP:20250915T130251Z
+DTSTART:20251130T220000Z
+DTEND:20251201T010000Z
+SUMMARY:[Community Day] November Community Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2025/
+URL:https://leekduck.com/events/november-communityday2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trade-days-tales-of-transformation
+DTSTAMP:20250915T130251Z
+DTSTART:20250907T070000Z
+DTEND:20251201T075959Z
+SUMMARY:[Event] Trade Days | Tales of Transformation
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/trade-days-tales-of-transfor
+ mation/
+URL:https://leekduck.com/events/trade-days-tales-of-transformation/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+saki-key-art.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
