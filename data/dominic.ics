@@ -9,23 +9,8 @@ X-WR-TIMEZONE:US/Pacific
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:raidhour20250924
-DTSTAMP:20250924T130241Z
-DTSTART:20250925T010000Z
-DTEND:20250925T020000Z
-SUMMARY:[Raid Hour] Dialga (Origin Forme) Raid Hour
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20250924/
-URL:https://leekduck.com/events/raidhour20250924/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:completely-normal-2025
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20250923T170000Z
 DTEND:20250928T030000Z
 SUMMARY:[Event] Completely Normal
@@ -41,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-camerupt-raid-day-september-2025
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20250928T210000Z
 DTEND:20250929T000000Z
 SUMMARY:[Raid Day] Mega Camerupt Raid Day
@@ -58,24 +43,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:max-mondays-2025-09-29
-DTSTAMP:20250924T130241Z
-DTSTART:20250930T010000Z
-DTEND:20250930T020000Z
-SUMMARY:[Max Mondays] Dynamax Beldum during Max Monday
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-09-29/
-URL:https://leekduck.com/events/max-mondays-2025-09-29/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2025-09-30
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20251001T010000Z
 DTEND:20251001T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Aron Spotlight Hour (2× Transfer Candy)
@@ -92,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20251001
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20251002T010000Z
 DTEND:20251002T020000Z
 SUMMARY:[Raid Hour] Dialga (Origin Forme) Raid Hour
@@ -107,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-metagross-raid-day-october-2025
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20251004T210000Z
 DTEND:20251005T000000Z
 SUMMARY:[Raid Day] Mega Metagross Raid Day
@@ -124,8 +93,41 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-09-29
+DTSTAMP:20250925T084401Z
+DTSTART:20250930T010000Z
+DTEND:20251006T020000Z
+SUMMARY:[Max Mondays] Dynamax Beldum during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-09-29/
+URL:https://leekduck.com/events/max-mondays-2025-09-29/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-10-07
+DTSTAMP:20250925T084401Z
+DTSTART:20251008T010000Z
+DTEND:20251008T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Ferroseed Spotlight Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-10-
+ 07/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-10-07/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:steel-skyline-2025
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20250930T170000Z
 DTEND:20251008T030000Z
 SUMMARY:[Event] Steel Skyline
@@ -141,7 +143,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2025
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20251012T210000Z
 DTEND:20251013T000000Z
 SUMMARY:[Community Day] Solosis Community Day
@@ -156,8 +158,42 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-10-06
+DTSTAMP:20250925T084401Z
+DTSTART:20251007T010000Z
+DTEND:20251013T020000Z
+SUMMARY:[Max Mondays] Dynamax Drilbur during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-10-06/
+URL:https://leekduck.com/events/max-mondays-2025-10-06/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-10-14
+DTSTAMP:20250925T084401Z
+DTSTART:20251015T010000Z
+DTEND:20251015T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Petilil Spotlight Hour (2× Catch
+  Stardust)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-10-
+ 14/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-10-14/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:xp-celebration-event-2025
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20250825T200000Z
 DTEND:20251015T065900Z
 SUMMARY:[Event] XP Celebration
@@ -173,7 +209,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2025
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20251010T170000Z
 DTEND:20251017T030000Z
 SUMMARY:[Event] Harvest Festival
@@ -188,8 +224,57 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-10-13
+DTSTAMP:20250925T084401Z
+DTSTART:20251014T010000Z
+DTEND:20251020T020000Z
+SUMMARY:[Max Mondays] Dynamax Bounsweet during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-10-13/
+URL:https://leekduck.com/events/max-mondays-2025-10-13/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-10-21
+DTSTAMP:20250925T084401Z
+DTSTART:20251022T010000Z
+DTEND:20251022T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Gastly Spotlight Hour (2× Catch XP)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-10-
+ 21/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-10-21/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-10-20
+DTSTAMP:20250925T084401Z
+DTSTART:20251021T010000Z
+DTEND:20251027T020000Z
+SUMMARY:[Max Mondays] Dynamax Gastly during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-10-20/
+URL:https://leekduck.com/events/max-mondays-2025-10-20/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:go-battle-weekend-tales-of-transformation
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20251025T070000Z
 DTEND:20251027T065900Z
 SUMMARY:[Event] GO Battle Weekend: Tales of Transformation
@@ -205,8 +290,41 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2025-10-28
+DTSTAMP:20250925T084401Z
+DTSTART:20251029T010000Z
+DTEND:20251029T020000Z
+SUMMARY:[Pokémon Spotlight Hour] Sinistea Spotlight Hour (2× Catch Candy)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2025-10-
+ 28/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-10-28/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-10-27
+DTSTAMP:20250925T084401Z
+DTSTART:20251028T010000Z
+DTEND:20251103T030000Z
+SUMMARY:[Max Mondays] Dynamax Woobat during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2025-10-27/
+URL:https://leekduck.com/events/max-mondays-2025-10-27/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-go-wild-area-2025-nagasaki-japan
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20251107T000000Z
 DTEND:20251109T080000Z
 SUMMARY:[Wild Area] Pokémon GO Wild Area: Nagasaki
@@ -224,7 +342,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2025-global
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20251115T180000Z
 DTEND:20251117T020000Z
 SUMMARY:[Wild Area] Pokémon GO Wild Area: Global
@@ -242,7 +360,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2025
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20251130T220000Z
 DTEND:20251201T010000Z
 SUMMARY:[Community Day] November Community Day
@@ -257,7 +375,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:trade-days-tales-of-transformation
-DTSTAMP:20250924T130241Z
+DTSTAMP:20250925T084401Z
 DTSTART:20250907T070000Z
 DTEND:20251201T075959Z
 SUMMARY:[Event] Trade Days | Tales of Transformation
@@ -273,119 +391,7 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
-P:20250924T020812Z
-DTSTART:20250907T070000Z
-DTEND:20251201T075959Z
-SUMMARY:[Event] Trade Days | Tales of Transformation
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/trade-days-tales-of-transfor
- mation/
-URL:https://leekduck.com/events/trade-days-tales-of-transformation/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-D:20251201T075959Z
-SUMMARY:[Event] Trade Days | Tales of Transformation
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/trade-days-tales-of-transfor
- mation/
-URL:https://leekduck.com/events/trade-days-tales-of-transformation/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-[Event] Trade Days | Tales of Transformation
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/trade-days-tales-of-transfor
- mation/
-URL:https://leekduck.com/events/trade-days-tales-of-transformation/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-ekDuck.com:\n\nhttps://leekduck.com/events/trade-days-tales-of-transfor
- mation/
-URL:https://leekduck.com/events/trade-days-tales-of-transformation/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-D:VEVENT
-BEGIN:VEVENT
-UID:pokemon-go-wild-area-2025-global
-DTSTAMP:20250915T021533Z
-DTSTART:20251115T180000Z
-DTEND:20251117T020000Z
-SUMMARY:[Wild Area] Pokémon GO Wild Area: Global
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-wild-area-2025-gl
- obal/
-URL:https://leekduck.com/events/pokemon-go-wild-area-2025-global/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-11-15-pokemon-go-wild-area-2025-global/wild-area-2025-global-key-
- art.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:november-communityday2025
-DTSTAMP:20250915T021533Z
-DTSTART:20251130T220000Z
-DTEND:20251201T010000Z
-SUMMARY:[Community Day] November Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2025/
-URL:https://leekduck.com/events/november-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:trade-days-tales-of-transformation
-DTSTAMP:20250915T021533Z
-DTSTART:20250907T070000Z
-DTEND:20251201T075959Z
-SUMMARY:[Event] Trade Days | Tales of Transformation
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/trade-days-tales-of-transfor
- mation/
-URL:https://leekduck.com/events/trade-days-tales-of-transformation/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
+
 ] Trade Days | Tales of Transformation
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/trade-days-tales-of-transfor
