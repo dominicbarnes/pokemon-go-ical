@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:shadow-raikou-raid-day-january-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260124T220000Z
 DTEND:20260125T010000Z
 SUMMARY:[Raid Day] Shadow Raikou Raid Day
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:precious-pals-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260120T180000Z
 DTEND:20260126T040000Z
 SUMMARY:[Event] Precious Pals
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-01-26
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260127T020000Z
 DTEND:20260127T030000Z
 SUMMARY:[Max Mondays] Dynamax Roggenrola during Max Monday
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-01-27
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260128T020000Z
 DTEND:20260128T030000Z
 SUMMARY:[Pokémon Spotlight Hour] Foongus Spotlight Hour (2× Catch
@@ -78,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260128
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260129T020000Z
 DTEND:20260129T030000Z
 SUMMARY:[Raid Hour] Tornadus (Incarnate Forme) Raid Hour
@@ -93,7 +93,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260201T220000Z
 DTEND:20260202T010000Z
 SUMMARY:[Community Day] Vulpix Community Day
@@ -108,8 +108,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:february-community-day-2026
+DTSTAMP:20260123T131413Z
+DTSTART:20260201T220000Z
+DTEND:20260202T010000Z
+SUMMARY:[Community Day] February Community Day 2026
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/february-community-day-2026/
+URL:https://leekduck.com/events/february-community-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:into-the-depths-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260127T180000Z
 DTEND:20260202T040000Z
 SUMMARY:[Event] Into the Depths
@@ -124,8 +140,56 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-02-02
+DTSTAMP:20260123T131413Z
+DTSTART:20260203T020000Z
+DTEND:20260203T030000Z
+SUMMARY:[Max Mondays] Dynamax Wailmer during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2026-02-02/
+URL:https://leekduck.com/events/max-mondays-2026-02-02/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-02-03
+DTSTAMP:20260123T131413Z
+DTSTART:20260204T020000Z
+DTEND:20260204T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Whismur Spotlight Hour (2× Catch Candy)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2026-02-
+ 03/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-02-03/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260204
+DTSTAMP:20260123T131413Z
+DTSTART:20260205T020000Z
+DTEND:20260205T030000Z
+SUMMARY:[Raid Hour] Landorus (Incarnate Forme) Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20260204/
+URL:https://leekduck.com/events/raidhour20260204/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260207T180000Z
 DTEND:20260208T040000Z
 SUMMARY:[Event] Catch Mastery Day
@@ -141,8 +205,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:catch-mastery-2026
+DTSTAMP:20260123T131413Z
+DTSTART:20260207T180000Z
+DTEND:20260208T040000Z
+SUMMARY:[Event] Catch Mastery 2026
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/catch-mastery-2026/
+URL:https://leekduck.com/events/catch-mastery-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:carnival-of-flamigo
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260203T180000Z
 DTEND:20260209T040000Z
 SUMMARY:[Event] Carnival of Flamigo
@@ -157,8 +237,72 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:carnival-of-flamigo-2026
+DTSTAMP:20260123T131413Z
+DTSTART:20260203T180000Z
+DTEND:20260209T040000Z
+SUMMARY:[Event] Carnival of Flamigo 2026
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/carnival-of-flamigo-2026/
+URL:https://leekduck.com/events/carnival-of-flamigo-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-02-09
+DTSTAMP:20260123T131413Z
+DTSTART:20260210T020000Z
+DTEND:20260210T030000Z
+SUMMARY:[Max Mondays] Dynamax Growlithe during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2026-02-09/
+URL:https://leekduck.com/events/max-mondays-2026-02-09/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-02-10
+DTSTAMP:20260123T131413Z
+DTSTART:20260211T020000Z
+DTEND:20260211T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Munna Spotlight Hour (2× Catch XP)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2026-02-
+ 10/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-02-10/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260211
+DTSTAMP:20260123T131413Z
+DTSTART:20260212T020000Z
+DTEND:20260212T030000Z
+SUMMARY:[Raid Hour] Landorus (Incarnate Forme) Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20260211/
+URL:https://leekduck.com/events/raidhour20260211/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:raid-day-february-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260214T220000Z
 DTEND:20260215T010000Z
 SUMMARY:[Raid Day] Raid Day
@@ -173,8 +317,121 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raid-day-2026
+DTSTAMP:20260123T131413Z
+DTSTART:20260214T220000Z
+DTEND:20260215T010000Z
+SUMMARY:[Raid Day] Raid Day 2026
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-2026/
+URL:https://leekduck.com/events/raid-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:valentines-day-2026
+DTSTAMP:20260123T131413Z
+DTSTART:20260210T180000Z
+DTEND:20260216T040000Z
+SUMMARY:[Event] Valentine's Day 2026
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/valentines-day-2026/
+URL:https://leekduck.com/events/valentines-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-2026
+DTSTAMP:20260123T131413Z
+DTSTART:20260215T180000Z
+DTEND:20260216T040000Z
+SUMMARY:[Event] Max Battle Day 2026
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-battle-day-2026/
+URL:https://leekduck.com/events/max-battle-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-02-16
+DTSTAMP:20260123T131413Z
+DTSTART:20260217T020000Z
+DTEND:20260217T030000Z
+SUMMARY:[Max Mondays] Dynamax Machop during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2026-02-16/
+URL:https://leekduck.com/events/max-mondays-2026-02-16/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-02-17
+DTSTAMP:20260123T131413Z
+DTSTART:20260218T020000Z
+DTEND:20260218T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Horsea Spotlight Hour (2× Transfer
+  Candy)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2026-02-
+ 17/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-02-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260218
+DTSTAMP:20260123T131413Z
+DTSTART:20260219T020000Z
+DTEND:20260219T030000Z
+SUMMARY:[Raid Hour] Solgaleo Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20260218/
+URL:https://leekduck.com/events/raidhour20260218/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lunar-new-year-2026
+DTSTAMP:20260123T131413Z
+DTSTART:20260217T180000Z
+DTEND:20260222T040000Z
+SUMMARY:[Event] Lunar New Year 2026
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/lunar-new-year-2026/
+URL:https://leekduck.com/events/lunar-new-year-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-go-tour-kalos-tainan-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260220T010000Z
 DTEND:20260222T090000Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Kalos - Tainan 2026
@@ -192,7 +449,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-night-pokemon-go-tour-kalos-tainan-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260220T090000Z
 DTEND:20260222T110000Z
 SUMMARY:[Pokémon GO Tour] Mega Night at Pokémon GO Tour: Kalos - Tainan
@@ -212,7 +469,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-kalos-los-angeles-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260220T170000Z
 DTEND:20260223T010000Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Kalos - Los Angeles 2026
@@ -230,7 +487,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-night-pokemon-go-tour-kalos-los-angeles-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260221T020000Z
 DTEND:20260223T040000Z
 SUMMARY:[Pokémon GO Tour] Mega Night at Pokémon GO Tour: Kalos - Los
@@ -249,8 +506,57 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-02-23
+DTSTAMP:20260123T131413Z
+DTSTART:20260224T020000Z
+DTEND:20260224T030000Z
+SUMMARY:[Max Mondays] Dynamax Chansey during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2026-02-23/
+URL:https://leekduck.com/events/max-mondays-2026-02-23/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-02-24
+DTSTAMP:20260123T131413Z
+DTSTART:20260225T020000Z
+DTEND:20260225T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Totodile Spotlight Hour (2× Catch
+  Stardust)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2026-02-
+ 24/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-02-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260225
+DTSTAMP:20260123T131413Z
+DTSTART:20260226T020000Z
+DTEND:20260226T030000Z
+SUMMARY:[Raid Hour] Lunala Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20260225/
+URL:https://leekduck.com/events/raidhour20260225/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-go-tour-kalos-global-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260228T180000Z
 DTEND:20260302T020000Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Kalos - Global 2026
@@ -268,7 +574,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:masterwork-research-a-precious-catch
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20251202T180000Z
 DTEND:20260303T180000Z
 SUMMARY:[Research] Masterwork Research: A Precious Catch
@@ -285,7 +591,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-communityday2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260314T210000Z
 DTEND:20260315T000000Z
 SUMMARY:[Community Day] March Community Day
@@ -300,7 +606,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:research-day-march-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260321T210000Z
 DTEND:20260322T000000Z
 SUMMARY:[Research Day] Research Day
@@ -316,7 +622,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-april-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260404T210000Z
 DTEND:20260405T000000Z
 SUMMARY:[Raid Day] Raid Day
@@ -332,7 +638,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260411T210000Z
 DTEND:20260412T000000Z
 SUMMARY:[Community Day] April Community Day
@@ -347,7 +653,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260418T210000Z
 DTEND:20260419T000000Z
 SUMMARY:[Event] Hatch Day
@@ -363,7 +669,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260502T210000Z
 DTEND:20260503T000000Z
 SUMMARY:[Raid Day] Shadow Raid Day
@@ -379,7 +685,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260509T210000Z
 DTEND:20260510T000000Z
 SUMMARY:[Community Day] May Community Day
@@ -394,7 +700,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260516T210000Z
 DTEND:20260517T000000Z
 SUMMARY:[Community Day] May Community Day Classic
@@ -409,7 +715,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2026
-DTSTAMP:20260123T023228Z
+DTSTAMP:20260123T131413Z
 DTSTART:20260523T210000Z
 DTEND:20260524T000000Z
 SUMMARY:[Raid Day] Raid Day
@@ -424,289 +730,4 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
-T15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-may-2026
-DTSTAMP:20260120T205215Z
-DTSTART:20260523T210000Z
-DTEND:20260524T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-may-2026/
-URL:https://leekduck.com/events/raid-day-may-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-may-2026
-DTSTAMP:20260120T023244Z
-DTSTART:20260523T210000Z
-DTEND:20260524T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-may-2026/
-URL:https://leekduck.com/events/raid-day-may-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-s/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-180000Z
-SUMMARY:[Research] Masterwork Research: A Precious Catch
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/masterwork-research-a-precio
- us-catch/
-URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-kalos-global
- -2026/
-URL:https://leekduck.com/events/pokemon-go-tour-kalos-global-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-28-pokemon-go-tour-kalos-global-2026/pokemon-go-tour-kalos-glo
- bal-2026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:masterwork-research-a-precious-catch
-DTSTAMP:20260102T130715Z
-DTSTART:20251202T180000Z
-DTEND:20260303T180000Z
-SUMMARY:[Research] Masterwork Research: A Precious Catch
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/masterwork-research-a-precio
- us-catch/
-URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-arch: A Precious Catch
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/masterwork-research-a-precio
- us-catch/
-URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-251231T022832Z
-DTSTART:20251202T180000Z
-DTEND:20260303T180000Z
-SUMMARY:[Research] Masterwork Research: A Precious Catch
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/masterwork-research-a-precio
- us-catch/
-URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-026
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-kalos-global
- -2026/
-URL:https://leekduck.com/events/pokemon-go-tour-kalos-global-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-28-pokemon-go-tour-kalos-global-2026/pokemon-go-tour-kalos-glo
- bal-2026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:masterwork-research-a-precious-catch
-DTSTAMP:20251229T085224Z
-DTSTART:20251202T180000Z
-DTEND:20260303T180000Z
-SUMMARY:[Research] Masterwork Research: A Precious Catch
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/masterwork-research-a-precio
- us-catch/
-URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-000Z
-DTEND:20260303T180000Z
-SUMMARY:[Research] Masterwork Research: A Precious Catch
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/masterwork-research-a-precio
- us-catch/
-URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
- A Precious Catch
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/masterwork-research-a-precio
- us-catch/
-URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-085009Z
-DTSTART:20251202T180000Z
-DTEND:20260303T180000Z
-SUMMARY:[Research] Masterwork Research: A Precious Catch
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/masterwork-research-a-precio
- us-catch/
-URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-MP:20251224T022506Z
-DTSTART:20251202T180000Z
-DTEND:20260303T180000Z
-SUMMARY:[Research] Masterwork Research: A Precious Catch
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/masterwork-research-a-precio
- us-catch/
-URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-180000Z
-SUMMARY:[Research] Masterwork Research: A Precious Catch
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/masterwork-research-a-precio
- us-catch/
-URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-43Z
-DTSTART:20251202T180000Z
-DTEND:20260303T180000Z
-SUMMARY:[Research] Masterwork Research: A Precious Catch
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/masterwork-research-a-precio
- us-catch/
-URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-article-images/2
- 026/2026-02-20-mega-night-pokemon-go-tour-kalos-los-angeles-2026/mega-nigh
- t-pokemon-go-tour-kalos-los-angeles-2026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-go-tour-kalos-global-2026
-DTSTAMP:20251218T203949Z
-DTSTART:20260228T180000Z
-DTEND:20260302T020000Z
-SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Kalos - Global 2026
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-kalos-global
- -2026/
-URL:https://leekduck.com/events/pokemon-go-tour-kalos-global-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-28-pokemon-go-tour-kalos-global-2026/pokemon-go-tour-kalos-glo
- bal-2026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:masterwork-research-a-precious-catch
-DTSTAMP:20251218T203949Z
-DTSTART:20251202T180000Z
-DTEND:20260303T180000Z
-SUMMARY:[Research] Masterwork Research: A Precious Catch
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/masterwork-research-a-precio
- us-catch/
-URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
+NDAR
