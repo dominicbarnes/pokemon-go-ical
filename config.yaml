@@ -1,5 +1,5 @@
 dominic:
-  timezone: US/Pacific
+  timezone: US/Mountain
   include:
     - event
     - raid-hour
