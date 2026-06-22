@@ -9,24 +9,8 @@ X-WR-TIMEZONE:US/Mountain
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:june-communityday2026
-DTSTAMP:20260620T003556Z
-DTSTART:20260620T200000Z
-DTEND:20260620T230000Z
-SUMMARY:[Community Day] Frigibax Community Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/june-communityday2026/
-URL:https://leekduck.com/events/june-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-06-20-june-communityday2026/frigibax-cd-placeholder.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2026-06-22
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260622T120000Z
 DTEND:20260623T030000Z
 SUMMARY:[Max Mondays] Dynamax Hoothoot during Max Monday
@@ -42,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260624
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260625T000000Z
 DTEND:20260625T010000Z
 SUMMARY:[Raid Hour] Celesteela and Kartana Raid Hour
@@ -57,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-06-25
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260626T000000Z
 DTEND:20260626T010000Z
 SUMMARY:[Pokémon Spotlight Hour] Wingull Spotlight Hour (2× Catch
@@ -75,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:skarmory-super-mega-raid-day-2026
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260627T200000Z
 DTEND:20260627T230000Z
 SUMMARY:[Raid Day] Skarmory Super Mega Raid Day
@@ -93,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:flying-taxi-2026
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260623T160000Z
 DTEND:20260630T020000Z
 SUMMARY:[Event] Flying Taxi
@@ -109,7 +93,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:flying-taxi-taken-over-2026
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260625T060000Z
 DTEND:20260630T020000Z
 SUMMARY:[Event] Flying Taxi: Taken Over
@@ -125,7 +109,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-06-29
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260629T120000Z
 DTEND:20260630T030000Z
 SUMMARY:[Max Mondays] Dynamax Pidove during Max Monday
@@ -140,8 +124,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raidhour20260701
+DTSTAMP:20260622T222016Z
+DTSTART:20260702T000000Z
+DTEND:20260702T010000Z
+SUMMARY:[Raid Hour] Articuno\, Zapdos\, and Moltres Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20260701/
+URL:https://leekduck.com/events/raidhour20260701/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemonspotlighthour2026-07-02
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260703T000000Z
 DTEND:20260703T010000Z
 SUMMARY:[Pokémon Spotlight Hour] Pidgey Spotlight Hour (2× Evolution XP)
@@ -158,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2026
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260704T200000Z
 DTEND:20260704T230000Z
 SUMMARY:[Community Day] Sobble Community Day
@@ -173,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:10th-anniversary-party
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260704T160000Z
 DTEND:20260707T020000Z
 SUMMARY:[Event] 10th Anniversary Party
@@ -188,8 +187,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-07-06
+DTSTAMP:20260622T222016Z
+DTSTART:20260706T120000Z
+DTEND:20260707T030000Z
+SUMMARY:[Max Mondays] Dynamax Chansey during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2026-07-06/
+URL:https://leekduck.com/events/max-mondays-2026-07-06/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:road-of-legends-2026
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260706T060100Z
 DTEND:20260711T055900Z
 SUMMARY:[Event] Road of Legends
@@ -204,8 +219,39 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-07-13
+DTSTAMP:20260622T222016Z
+DTSTART:20260713T120000Z
+DTEND:20260714T030000Z
+SUMMARY:[Max Mondays] Dynamax Deino during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2026-07-13/
+URL:https://leekduck.com/events/max-mondays-2026-07-13/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260715
+DTSTAMP:20260622T222016Z
+DTSTART:20260716T000000Z
+DTEND:20260716T010000Z
+SUMMARY:[Raid Hour] Kyogre Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20260715/
+URL:https://leekduck.com/events/raidhour20260715/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemonspotlighthour2026-07-16
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260717T000000Z
 DTEND:20260717T010000Z
 SUMMARY:[Pokémon Spotlight Hour] Zubat Spotlight Hour (2× Catch XP)
@@ -222,7 +268,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raichu-super-mega-raid-day-2026
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260718T200000Z
 DTEND:20260718T230000Z
 SUMMARY:[Raid Day] Raichu Super Mega Raid Day
@@ -240,7 +286,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:weekend-event-july-2026
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260718T160000Z
 DTEND:20260719T020000Z
 SUMMARY:[Event] Weekend Event
@@ -255,8 +301,55 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:july-event-2026
+DTSTAMP:20260622T222016Z
+DTSTART:20260713T160000Z
+DTEND:20260721T020000Z
+SUMMARY:[Event] July Event
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/july-event-2026/
+URL:https://leekduck.com/events/july-event-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-07-20
+DTSTAMP:20260622T222016Z
+DTSTART:20260720T120000Z
+DTEND:20260721T030000Z
+SUMMARY:[Max Mondays] Dynamax Trubbish during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2026-07-20/
+URL:https://leekduck.com/events/max-mondays-2026-07-20/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260722
+DTSTAMP:20260622T222016Z
+DTSTART:20260723T000000Z
+DTEND:20260723T010000Z
+SUMMARY:[Raid Hour] Solgaleo Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20260722/
+URL:https://leekduck.com/events/raidhour20260722/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemonspotlighthour2026-07-23
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260724T000000Z
 DTEND:20260724T010000Z
 SUMMARY:[Pokémon Spotlight Hour] Eevee Spotlight Hour (2× Catch Candy)
@@ -272,8 +365,55 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:july-event-2026-july-21
+DTSTAMP:20260622T222016Z
+DTSTART:20260721T160000Z
+DTEND:20260728T020000Z
+SUMMARY:[Event] July Event - July 21
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/july-event-2026-july-21/
+URL:https://leekduck.com/events/july-event-2026-july-21/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-07-27
+DTSTAMP:20260622T222016Z
+DTSTART:20260727T120000Z
+DTEND:20260728T030000Z
+SUMMARY:[Max Mondays] Dynamax Feebas during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2026-07-27/
+URL:https://leekduck.com/events/max-mondays-2026-07-27/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260729
+DTSTAMP:20260622T222016Z
+DTSTART:20260730T000000Z
+DTEND:20260730T010000Z
+SUMMARY:[Raid Hour] Kyurem Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20260729/
+URL:https://leekduck.com/events/raidhour20260729/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemonspotlighthour2026-07-30
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260731T000000Z
 DTEND:20260731T010000Z
 SUMMARY:[Pokémon Spotlight Hour] Bidoof Spotlight Hour (2× Transfer
@@ -291,7 +431,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2026
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260808T170000Z
 DTEND:20260808T230000Z
 SUMMARY:[Event] Hatch Day
@@ -307,7 +447,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260816T200000Z
 DTEND:20260816T230000Z
 SUMMARY:[Community Day] August Community Day
@@ -322,7 +462,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-august-2026
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20260822T200000Z
 DTEND:20260822T230000Z
 SUMMARY:[Raid Day] Raid Day
@@ -338,7 +478,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260620T003556Z
+DTSTAMP:20260622T222016Z
 DTSTART:20261201T170000Z
 DTEND:20261203T030000Z
 SUMMARY:[Event] Example Event Template (Auto ToC Demo)
@@ -353,153 +493,7 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:example_event
-DTSTAMP:20260618T222843Z
-DTSTART:20261201T180000Z
-DTEND:20261203T040000Z
-SUMMARY:[Event] Example Event Template (Auto ToC Demo)
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/example_event/
-URL:https://leekduck.com/events/example_event/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/example_event/events-default-img.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-uto ToC Demo)
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/example_event/
-URL:https://leekduck.com/events/example_event/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/example_event/events-default-img.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-/august-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-august-2026
-DTSTAMP:20260615T200326Z
-DTSTART:20260822T210000Z
-DTEND:20260823T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-august-2026/
-URL:https://leekduck.com/events/raid-day-august-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:example_event
-DTSTAMP:20260615T200326Z
-DTSTART:20261201T180000Z
-DTEND:20261203T040000Z
-SUMMARY:[Event] Example Event Template (Auto ToC Demo)
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/example_event/
-URL:https://leekduck.com/events/example_event/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/example_event/events-default-img.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-t-img.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-ssets/img/events/article-images/2
- 026/example_event/events-default-img.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-t
-DTSTAMP:20260302T205913Z
-DTSTART:20261201T180000Z
-DTEND:20261203T040000Z
-SUMMARY:[Event] Example Event Template (Auto ToC Demo)
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/example_event/
-URL:https://leekduck.com/events/example_event/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/example_event/events-default-img.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-IN:VEVENT
-UID:example_event
-DTSTAMP:20260301T204654Z
-DTSTART:20261201T180000Z
-DTEND:20261203T040000Z
-SUMMARY:[Event] Example Event Template (Auto ToC Demo)
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/example_event/
-URL:https://leekduck.com/events/example_event/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/example_event/events-default-img.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-N:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/example_event/
-URL:https://leekduck.com/events/example_event/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/example_event/events-default-img.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-228T024155Z
-DTSTART:20261201T180000Z
-DTEND:20261203T040000Z
-SUMMARY:[Event] Example Event Template (Auto ToC Demo)
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/example_event/
-URL:https://leekduck.com/events/example_event/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/example_event/events-default-img.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-com:\n\nhttps://leekduck.com/events/raid-day-may-2026/
+ents/raid-day-may-2026/
 URL:https://leekduck.com/events/raid-day-may-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
