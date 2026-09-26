@@ -9,94 +9,8 @@ X-WR-TIMEZONE:US/Pacific
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:max-mondays-2026-09-21
-DTSTAMP:20260921T202857Z
-DTSTART:20260921T130000Z
-DTEND:20260922T040000Z
-SUMMARY:[Max Mondays] Dynamax Articuno\, Zapdos\, and Moltres during Max
-  Monday
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2026-09-21/
-URL:https://leekduck.com/events/max-mondays-2026-09-21/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-horizons-bonus-timed-research-2026
-DTSTAMP:20260921T202857Z
-DTSTART:20260918T170000Z
-DTEND:20260923T030000Z
-SUMMARY:[Research] Pokémon Horizons Bonus Timed Research
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-horizons-bonus-timed
- -research-2026/
-URL:https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-09-18-pokemon-horizons-bonus-timed-research-2026/pokemon-horizons
- -bonus-timed-research-2026.png
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-horizons-the-series-celebration-event-2026
-DTSTAMP:20260921T202857Z
-DTSTART:20260916T170000Z
-DTEND:20260923T030000Z
-SUMMARY:[Event] Pokémon Horizons: The Series Celebration Event 2026
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-horizons-the-series-
- celebration-event-2026/
-URL:https://leekduck.com/events/pokemon-horizons-the-series-celebration-eve
- nt-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-09-16-pokemon-horizons-the-series-celebration-event-2026/pokemon-
- horizons-celebration-event-2026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raidhour20260923
-DTSTAMP:20260921T202857Z
-DTSTART:20260924T010000Z
-DTEND:20260924T020000Z
-SUMMARY:[Raid Hour] Xurkitree\, Pheromosa\, and Buzzwole Raid Hour
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20260923/
-URL:https://leekduck.com/events/raidhour20260923/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemonspotlighthour2026-09-24
-DTSTAMP:20260921T202857Z
-DTSTART:20260925T010000Z
-DTEND:20260925T020000Z
-SUMMARY:[Pokémon Spotlight Hour] Rattata Spotlight Hour (2× Evolution XP)
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2026-09-
- 24/
-URL:https://leekduck.com/events/pokemonspotlighthour2026-09-24/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:catch-mastery-phantump-2026
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20260926T170000Z
 DTEND:20260927T030000Z
 SUMMARY:[Event] Phantump Catch Mastery
@@ -112,7 +26,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-09-28
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20260928T130000Z
 DTEND:20260929T040000Z
 SUMMARY:[Max Mondays] Dynamax Sobble during Max Monday
@@ -128,7 +42,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260930
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261001T010000Z
 DTEND:20261001T020000Z
 SUMMARY:[Raid Hour] Xerneas Raid Hour
@@ -143,7 +57,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-pokemon-go-2026
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20260803T170000Z
 DTEND:20261001T065900Z
 SUMMARY:[Event] LEGO Stores and Pokémon GO
@@ -159,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-01
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261002T010000Z
 DTEND:20261002T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Seedot Spotlight Hour (2× Catch XP)
@@ -176,7 +90,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:patterns-of-the-wild-2026
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261002T170000Z
 DTEND:20261003T030000Z
 SUMMARY:[Event] Patterns of the Wild
@@ -192,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2026
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20260929T170000Z
 DTEND:20261006T030000Z
 SUMMARY:[Event] Harvest Festival 2026: Applin Picking
@@ -208,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-taken-over-2026
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261002T070000Z
 DTEND:20261006T030000Z
 SUMMARY:[Event] Harvest Festival: Taken Over
@@ -226,7 +140,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-05
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261005T130000Z
 DTEND:20261006T040000Z
 SUMMARY:[Max Mondays] Dynamax Sizzlipede during Max Monday
@@ -242,7 +156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261007
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261008T010000Z
 DTEND:20261008T020000Z
 SUMMARY:[Raid Hour] Yveltal Raid Hour
@@ -257,7 +171,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-08
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261009T010000Z
 DTEND:20261009T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Elgyem Spotlight Hour (2× Catch Candy)
@@ -274,7 +188,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2026
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261010T210000Z
 DTEND:20261011T000000Z
 SUMMARY:[Community Day] Zorua Community Day
@@ -290,7 +204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:world-space-week-2026
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261004T070000Z
 DTEND:20261011T065900Z
 SUMMARY:[Event] World Space Week 2026
@@ -306,7 +220,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-12
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261012T130000Z
 DTEND:20261013T040000Z
 SUMMARY:[Max Mondays] Dynamax Rookidee during Max Monday
@@ -322,7 +236,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261014
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261015T010000Z
 DTEND:20261015T020000Z
 SUMMARY:[Raid Hour] Dialga Raid Hour
@@ -337,7 +251,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-15
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261016T010000Z
 DTEND:20261016T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Stufful Spotlight Hour (2× Transfer
@@ -354,16 +268,16 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hatch-day-october-2026
-DTSTAMP:20260921T202857Z
+UID:sandile-hatch-day-2026
+DTSTAMP:20260926T191709Z
 DTSTART:20261017T180000Z
 DTEND:20261018T000000Z
-SUMMARY:[Event] Hatch Day
+SUMMARY:[Event] Sandile Hatch Day
 DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/hatch-day-october-2026/
-URL:https://leekduck.com/events/hatch-day-october-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+  LeekDuck.com:\n\nhttps://leekduck.com/events/sandile-hatch-day-2026/
+URL:https://leekduck.com/events/sandile-hatch-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-10-17-sandile-hatch-day-2026/sandile-hatch-day-2026.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -371,7 +285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261013T170000Z
 DTEND:20261020T030000Z
 SUMMARY:[Event] Fall Marathon: Buddy Trek
@@ -379,8 +293,9 @@ DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/fall-marathon-buddy-trek-202
  6/
 URL:https://leekduck.com/events/fall-marathon-buddy-trek-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-10-13-fall-marathon-buddy-trek-2026/fall-marathon-buddy-trek-2026
+ .jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
@@ -388,7 +303,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-19
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261019T130000Z
 DTEND:20261020T040000Z
 SUMMARY:[Max Mondays] Dynamax Sneasel during Max Monday
@@ -404,7 +319,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261021
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261022T010000Z
 DTEND:20261022T020000Z
 SUMMARY:[Raid Hour] Palkia Raid Hour
@@ -419,7 +334,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-22
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261023T010000Z
 DTEND:20261023T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Morelull Spotlight Hour (2× Catch
@@ -437,7 +352,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-26
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261026T130000Z
 DTEND:20261027T040000Z
 SUMMARY:[Max Mondays] Dynamax Sableye during Max Monday
@@ -453,7 +368,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261028
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261029T010000Z
 DTEND:20261029T020000Z
 SUMMARY:[Raid Hour] Giratina (Origin Forme) Raid Hour
@@ -468,7 +383,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-29
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261030T010000Z
 DTEND:20261030T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Gastly Spotlight Hour (2× Evolution XP)
@@ -485,7 +400,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-october-2026
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261031T210000Z
 DTEND:20261101T000000Z
 SUMMARY:[Raid Day] Super Mega Raid Day
@@ -502,7 +417,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-1
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261027T170000Z
 DTEND:20261101T030000Z
 SUMMARY:[Event] Halloween 2026 Part I
@@ -518,7 +433,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-2
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261101T180000Z
 DTEND:20261106T040000Z
 SUMMARY:[Event] Halloween 2026 Part II
@@ -534,7 +449,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-sendai-japan
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261106T010000Z
 DTEND:20261108T090000Z
 SUMMARY:[Wild Area] Pokémon GO Wild Area 2026: Sendai • Tohoku
@@ -551,7 +466,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-mexico-city
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261106T160000Z
 DTEND:20261109T000000Z
 SUMMARY:[Wild Area] Pokémon GO Wild Area 2026: Mexico City
@@ -568,7 +483,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261114T180000Z
 DTEND:20261116T020000Z
 SUMMARY:[Wild Area] Pokémon GO Wild Area 2026: Global
@@ -585,7 +500,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2026
-DTSTAMP:20260921T202857Z
+DTSTAMP:20260926T191709Z
 DTSTART:20261121T220000Z
 DTEND:20261122T010000Z
 SUMMARY:[Community Day] November Community Day
@@ -593,6 +508,97 @@ DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/november-communityday2026/
 URL:https://leekduck.com/events/november-communityday2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-november-2026
+DTSTAMP:20260926T191709Z
+DTSTART:20261128T220000Z
+DTEND:20261129T010000Z
+SUMMARY:[Raid Day] Super Mega Raid Day
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/super-mega-raid-day-november
+ -2026/
+URL:https://leekduck.com/events/super-mega-raid-day-november-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-x-adidas-2026
+DTSTAMP:20260926T191709Z
+DTSTART:20260925T170000Z
+DTEND:20270116T040000Z
+SUMMARY:[Research] adidas × Pokémon Timed Research
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-x-adidas-2026/
+URL:https://leekduck.com/events/pokemon-x-adidas-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemon-x-adidas
+ -2026.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-tour-alola-kaohsiung-2027
+DTSTAMP:20260926T191709Z
+DTSTART:20270218T160000Z
+DTEND:20270221T155959Z
+SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Alola - Kaohsiung 2027
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-alola-kaohsi
+ ung-2027/
+URL:https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-tour-alola-los-angeles-2027
+DTSTAMP:20260926T191709Z
+DTSTART:20270219T080000Z
+DTEND:20270222T075959Z
+SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Alola - Los Angeles 2027
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-alola-los-an
+ geles-2027/
+URL:https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-tour-alola-global-2027
+DTSTAMP:20260926T191709Z
+DTSTART:20270227T080000Z
+DTEND:20270301T075959Z
+SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Alola - Global 2027
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-go-tour-alola-global
+ -2027/
+URL:https://leekduck.com/events/pokemon-go-tour-alola-global-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+ents/cd-default.jpg
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
