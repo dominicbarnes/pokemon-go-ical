@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261013T170000Z
 DTEND:20261020T030000Z
 SUMMARY:[Event] Fall Marathon: Buddy Trek
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-19
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261019T130000Z
 DTEND:20261020T040000Z
 SUMMARY:[Max Mondays] Dynamax Sneasel during Max Monday
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-tcg-30th-celebration
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20260927T170000Z
 DTEND:20261021T050000Z
 SUMMARY:[Event] Pokémon TCG: 30th Celebration
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261021
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261022T010000Z
 DTEND:20261022T020000Z
 SUMMARY:[Raid Hour] Palkia Raid Hour
@@ -77,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-22
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261023T010000Z
 DTEND:20261023T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Morelull Spotlight Hour (2× Catch
@@ -94,8 +94,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-night-out-los-angeles-2026
+DTSTAMP:20261019T211007Z
+DTSTART:20261025T023000Z
+DTEND:20261025T065959Z
+SUMMARY:[Event] Pokémon Night Out 2026 - Los Angeles
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-night-out-los-angele
+ s-2026/
+URL:https://leekduck.com/events/pokemon-night-out-los-angeles-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemon-night-ou
+ t-2026.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:minior-showers-orionids-2026
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261020T000000Z
 DTEND:20261025T065900Z
 SUMMARY:[Event] Minior Showers: Orionids 2026
@@ -112,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-26
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261026T130000Z
 DTEND:20261027T040000Z
 SUMMARY:[Max Mondays] Dynamax Sableye during Max Monday
@@ -128,7 +145,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261028
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261029T010000Z
 DTEND:20261029T020000Z
 SUMMARY:[Raid Hour] Giratina (Origin Forme) Raid Hour
@@ -143,7 +160,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-29
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261030T010000Z
 DTEND:20261030T020000Z
 SUMMARY:[Pokémon Spotlight Hour] Gastly Spotlight Hour (2× Evolution XP)
@@ -160,7 +177,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:chandelure-super-mega-raid-day-2026
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261031T210000Z
 DTEND:20261101T000000Z
 SUMMARY:[Raid Day] Chandelure Super Mega Raid Day
@@ -177,7 +194,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-1
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261027T170000Z
 DTEND:20261101T180000Z
 SUMMARY:[Event] Pokémon GO Halloween 2026 Part I
@@ -192,8 +209,57 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-11-02
+DTSTAMP:20261019T211007Z
+DTSTART:20261102T140000Z
+DTEND:20261103T050000Z
+SUMMARY:[Max Mondays] Dynamax Machop during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2026-11-02/
+URL:https://leekduck.com/events/max-mondays-2026-11-02/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261104
+DTSTAMP:20261019T211007Z
+DTSTART:20261105T020000Z
+DTEND:20261105T030000Z
+SUMMARY:[Raid Hour] Giratina (Altered Forme) Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20261104/
+URL:https://leekduck.com/events/raidhour20261104/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-11-05
+DTSTAMP:20261019T211007Z
+DTSTART:20261106T020000Z
+DTEND:20261106T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Teddiursa wearing a witch hat Spotlight
+  Hour (2× Evolution XP)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2026-11-
+ 05/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-11-05/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:halloween-2026-part-2
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261101T180000Z
 DTEND:20261106T040000Z
 SUMMARY:[Event] Pokémon GO Halloween 2026 Part II
@@ -209,7 +275,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-sendai-japan
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261106T010000Z
 DTEND:20261108T090000Z
 SUMMARY:[Wild Area] Pokémon GO Wild Area 2026: Sendai • Tohoku
@@ -226,7 +292,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-mexico-city
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261106T160000Z
 DTEND:20261109T000000Z
 SUMMARY:[Wild Area] Pokémon GO Wild Area 2026: Mexico City
@@ -242,8 +308,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-night-out-london-2026
+DTSTAMP:20261019T211007Z
+DTSTART:20261110T180000Z
+DTEND:20261110T223000Z
+SUMMARY:[Event] Pokémon Night Out 2026 - London
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemon-night-out-london-202
+ 6/
+URL:https://leekduck.com/events/pokemon-night-out-london-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemon-night-ou
+ t-2026.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:into-the-wild-2026
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261109T180000Z
 DTEND:20261114T040000Z
 SUMMARY:[Event] Into the Wild
@@ -259,7 +342,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261114T180000Z
 DTEND:20261116T020000Z
 SUMMARY:[Wild Area] Pokémon GO Wild Area 2026: Global
@@ -275,8 +358,39 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-11-16
+DTSTAMP:20261019T211007Z
+DTSTART:20261116T140000Z
+DTEND:20261117T050000Z
+SUMMARY:[Max Mondays] Max Monday: Pokémon to be announced
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2026-11-16/
+URL:https://leekduck.com/events/max-mondays-2026-11-16/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261118
+DTSTAMP:20261019T211007Z
+DTSTART:20261119T020000Z
+DTEND:20261119T030000Z
+SUMMARY:[Raid Hour] Cresselia and Darkrai Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20261118/
+URL:https://leekduck.com/events/raidhour20261118/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:minior-showers-leonids-2026
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261115T010000Z
 DTEND:20261120T075900Z
 SUMMARY:[Event] Minior Showers: Leonids 2026
@@ -292,7 +406,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2026
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261121T220000Z
 DTEND:20261122T010000Z
 SUMMARY:[Community Day] November Community Day
@@ -306,8 +420,73 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:dynamax-trails-2026
+DTSTAMP:20261019T211007Z
+DTSTART:20261116T180000Z
+DTEND:20261124T040000Z
+SUMMARY:[Event] Dynamax Trails
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/dynamax-trails-2026/
+URL:https://leekduck.com/events/dynamax-trails-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-11-23
+DTSTAMP:20261019T211007Z
+DTSTART:20261123T140000Z
+DTEND:20261124T050000Z
+SUMMARY:[Max Mondays] Dynamax Espurr during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2026-11-23/
+URL:https://leekduck.com/events/max-mondays-2026-11-23/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261125
+DTSTAMP:20261019T211007Z
+DTSTART:20261126T020000Z
+DTEND:20261126T030000Z
+SUMMARY:[Raid Hour] Deoxys (Normal\, Defense\, Attack\, and Speed Formes)
+  Raid Hour
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/raidhour20261125/
+URL:https://leekduck.com/events/raidhour20261125/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-11-26
+DTSTAMP:20261019T211007Z
+DTSTART:20261127T020000Z
+DTEND:20261127T030000Z
+SUMMARY:[Pokémon Spotlight Hour] Noibat Spotlight Hour (2× Catch Candy)
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/pokemonspotlighthour2026-11-
+ 26/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-11-26/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:super-mega-raid-day-november-2026
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261128T220000Z
 DTEND:20261129T010000Z
 SUMMARY:[Raid Day] Super Mega Raid Day
@@ -323,8 +502,40 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:twilight-wishes-2026
+DTSTAMP:20261019T211007Z
+DTSTART:20261124T180000Z
+DTEND:20261201T040000Z
+SUMMARY:[Event] Twilight Wishes
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/twilight-wishes-2026/
+URL:https://leekduck.com/events/twilight-wishes-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-11-30
+DTSTAMP:20261019T211007Z
+DTSTART:20261130T140000Z
+DTEND:20261201T050000Z
+SUMMARY:[Max Mondays] Dynamax Cryogonal during Max Monday
+DESCRIPTION:See more details at
+  LeekDuck.com:\n\nhttps://leekduck.com/events/max-mondays-2026-11-30/
+URL:https://leekduck.com/events/max-mondays-2026-11-30/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:minior-showers-geminids-2026
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20261212T010000Z
 DTEND:20261217T075900Z
 SUMMARY:[Event] Minior Showers: Geminids 2026
@@ -341,7 +552,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-x-adidas-2026
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20260925T170000Z
 DTEND:20270116T040000Z
 SUMMARY:[Research] adidas × Pokémon Timed Research
@@ -357,7 +568,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20270218T160000Z
 DTEND:20270221T155959Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Alola - Kaohsiung 2027
@@ -374,7 +585,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20270219T080000Z
 DTEND:20270222T075959Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Alola - Los Angeles 2027
@@ -391,7 +602,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20270227T080000Z
 DTEND:20270301T075959Z
 SUMMARY:[Pokémon GO Tour] Pokémon GO Tour: Alola - Global 2027
@@ -408,7 +619,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20270504T000000Z
 DTEND:20270509T065900Z
 SUMMARY:[Event] Minior Showers: Eta Aquariids 2027
@@ -425,7 +636,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20270729T000000Z
 DTEND:20270803T065900Z
 SUMMARY:[Event] Minior Showers: Southern Delta Aquariids 2027
@@ -443,7 +654,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027
-DTSTAMP:20261019T154556Z
+DTSTAMP:20261019T211007Z
 DTSTART:20270811T000000Z
 DTEND:20270816T065900Z
 SUMMARY:[Event] Minior Showers: Perseids 2027
@@ -459,229 +670,7 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
-0000Z
-DTEND:20270509T065900Z
-SUMMARY:[Event] Minior Showers: Eta Aquariids 2027
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/minior-showers-eta-aquariids
- -2027/
-URL:https://leekduck.com/events/minior-showers-eta-aquariids-2027/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
- 026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:minior-showers-southern-delta-aquariids-2027
-DTSTAMP:20261014T232010Z
-DTSTART:20270729T000000Z
-DTEND:20270803T065900Z
-SUMMARY:[Event] Minior Showers: Southern Delta Aquariids 2027
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/minior-showers-southern-delt
- a-aquariids-2027/
-URL:https://leekduck.com/events/minior-showers-southern-delta-aquariids-202
- 7/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
- 026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:minior-showers-perseids-2027
-DTSTAMP:20261014T232010Z
-DTSTART:20270811T000000Z
-DTEND:20270816T065900Z
-SUMMARY:[Event] Minior Showers: Perseids 2027
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/minior-showers-perseids-2027
- /
-URL:https://leekduck.com/events/minior-showers-perseids-2027/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
- 026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-TAMP:20261010T201222Z
-DTSTART:20270729T000000Z
-DTEND:20270803T065900Z
-SUMMARY:[Event] Minior Showers: Southern Delta Aquariids 2027
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/minior-showers-southern-delt
- a-aquariids-2027/
-URL:https://leekduck.com/events/minior-showers-southern-delta-aquariids-202
- 7/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
- 026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:minior-showers-perseids-2027
-DTSTAMP:20261010T201222Z
-DTSTART:20270811T000000Z
-DTEND:20270816T065900Z
-SUMMARY:[Event] Minior Showers: Perseids 2027
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/minior-showers-perseids-2027
- /
-URL:https://leekduck.com/events/minior-showers-perseids-2027/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
- 026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-hern Delta Aquariids 2027
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/minior-showers-southern-delt
- a-aquariids-2027/
-URL:https://leekduck.com/events/minior-showers-southern-delta-aquariids-202
- 7/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
- 026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:minior-showers-perseids-2027
-DTSTAMP:20261008T062449Z
-DTSTART:20270811T000000Z
-DTEND:20270816T065900Z
-SUMMARY:[Event] Minior Showers: Perseids 2027
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/minior-showers-perseids-2027
- /
-URL:https://leekduck.com/events/minior-showers-perseids-2027/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
- 026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-LARM
-END:VEVENT
-BEGIN:VEVENT
-UID:minior-showers-eta-aquariids-2027
-DTSTAMP:20261006T012127Z
-DTSTART:20270504T000000Z
-DTEND:20270509T065900Z
-SUMMARY:[Event] Minior Showers: Eta Aquariids 2027
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/minior-showers-eta-aquariids
- -2027/
-URL:https://leekduck.com/events/minior-showers-eta-aquariids-2027/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
- 026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:minior-showers-southern-delta-aquariids-2027
-DTSTAMP:20261006T012127Z
-DTSTART:20270729T000000Z
-DTEND:20270803T065900Z
-SUMMARY:[Event] Minior Showers: Southern Delta Aquariids 2027
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/minior-showers-southern-delt
- a-aquariids-2027/
-URL:https://leekduck.com/events/minior-showers-southern-delta-aquariids-202
- 7/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
- 026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:minior-showers-perseids-2027
-DTSTAMP:20261006T012127Z
-DTSTART:20270811T000000Z
-DTEND:20270816T065900Z
-SUMMARY:[Event] Minior Showers: Perseids 2027
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/minior-showers-perseids-2027
- /
-URL:https://leekduck.com/events/minior-showers-perseids-2027/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
- 026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
--2027
-DTSTAMP:20261003T133436Z
-DTSTART:20270811T000000Z
-DTEND:20270816T065900Z
-SUMMARY:[Event] Minior Showers: Perseids 2027
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/minior-showers-perseids-2027
- /
-URL:https://leekduck.com/events/minior-showers-perseids-2027/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
- 026.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-events/raid-day-may-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-day-may-2026
-DTSTAMP:20260125T050341Z
-DTSTART:20260523T210000Z
-DTEND:20260524T000000Z
-SUMMARY:[Raid Day] Raid Day
-DESCRIPTION:See more details at
-  LeekDuck.com:\n\nhttps://leekduck.com/events/raid-day-may-2026/
-URL:https://leekduck.com/events/raid-day-may-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-END:VCALENDAR
-TSTAMP:20260123T204528Z
-DTSTART:20260502T210000Z
-DTEND:20260503T000000Z
-SUMMARY:[Raid Day] Shadow Raid Day
+ Shadow Raid Day
 DESCRIPTION:See more details at
   LeekDuck.com:\n\nhttps://leekduck.com/events/shadow-raid-day-may-2026/
 URL:https://leekduck.com/events/shadow-raid-day-may-2026/
